@@ -1,0 +1,14 @@
+#! /bin/bash
+function function_adduser() {
+groupadd ${1}
+for i in {01..03}
+do
+        useradd -s /sbin/nologin -g ${1} ${1}${i}
+        echo -e "123\n123" | smbpasswd -s -a ${1}${i}
+done
+}
+
+for name in {glb,cwb,zzb,leader,netb}
+do
+        function_adduser ${name}
+done
