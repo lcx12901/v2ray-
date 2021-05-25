@@ -68,16 +68,40 @@ proxies:
   - {name: 🇰🇷 韩国(Youtube频道：工具大师！), server: cm.syhwdz.top, port: 32525, type: vmess, uuid: 99ab7ff1-147d-341f-b422-010392b589a6, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: cm.syhwdz.top}}
   - {name: 🇩🇪 德国(Youtube频道：工具大师！), server: 172.67.154.85, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: 🇩🇪 德国(Youtube频道：工具大师！) 2, server: cdnde.irteyz.today, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
-  - {name: 🇦🇺 AU_02 |17.56Mb, server: ss.au.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: kRAxb8hPUxS0}
-  - {name: CA_03 | 5.45Mb, server: ss4.ssrsub.one, port: 8443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub, plugin: obfs, plugin-opts: {mode: tls, host: n46hm52773.wns.windows.com}}
-  - {name: CA_04 | 7.33Mb, server: ss5.ssrsub.one, port: 8443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub, plugin: obfs, plugin-opts: {mode: tls, host: n46hm52773.wns.windows.com}}
-  - {name: CA_05 |45.61Mb, server: ss3.ssrsub.one, port: 8443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub, plugin: obfs, plugin-opts: {mode: tls, host: n46hm52773.wns.windows.com}}
-  - {name: CA_06 |18.00Mb, server: ss1.ssrsub.one, port: 8443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub, plugin: obfs, plugin-opts: {mode: tls, host: n46hm52773.wns.windows.com}}
-  - {name: CA_07, server: ss.ca.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: r4TeEt5bK0UD}
-  - {name: CA_08 | 7.26Mb, server: ssr4.ssrsub.one, port: 57479, type: ssr, cipher: aes-256-cfb, password: https://dlj.tf/ssrsub, protocol: origin, obfs: plain, protocolparam: "", obfsparam: ""}
-  - {name: CA_09 | 2.53Mb, server: ssr1.ssrsub.one, port: 57479, type: ssr, cipher: aes-256-cfb, password: https://dlj.tf/ssrsub, protocol: origin, obfs: plain, protocolparam: "", obfsparam: ""}
-  - {name: CA_11 |60.93Mb, server: ssr3.ssrsub.one, port: 57479, type: ssr, cipher: aes-256-cfb, password: https://dlj.tf/ssrsub, protocol: origin, obfs: plain, protocolparam: "", obfsparam: ""}
-  - {name: CA_12 |13.98Mb, server: ssr2.ssrsub.one, port: 57479, type: ssr, cipher: aes-256-cfb, password: https://dlj.tf/ssrsub, protocol: origin, obfs: plain, protocolparam: "", obfsparam: ""}
+  - {name: 🇨🇳 A+中转|台湾原生01 |2.0x, server: gzyd.qiutan.pw, port: 10007, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: hinet.qiutan.pw}}
+  - {name: 🇨🇳 A+中转|台湾原生02|2.0x, server: fsyd.qiutan.pw, port: 60004, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: hinet.qiutan.pw}}
+  - {name: 🇨🇳 A+中转|台湾原生03|2.0x, server: fsyd.qiutan.pw, port: 60002, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: hinet.qiutan.pw}}
+  - {name: 🇨🇳 A+中转|台湾原生04|2.0x, server: shantouyd.2288.org, port: 59993, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: hinet.qiutan.pw}}
+  - {name: 🇸🇬 A+中转|新加坡01 |2.0x, server: gzyd.qiutan.pw, port: 10000, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: xinjiapo.qiutan.pw}}
+  - {name: 🇸🇬 A+中转|新加坡02 |2.0x, server: fsyd.qiutan.pw, port: 60003, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: xinjiapob.qiutan.pw}}
+  - {name: 🇸🇬 A+中转|新加坡03 |2.0x, server: fsyd.qiutan.pw, port: 60005, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: xinjiapoc.qiutan.pw}}
+  - {name: 🇯🇵 A+中转|日本01 |1.5x, server: ltzz.qiutan.pw, port: 60004, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: japan01.qiutan.pw}}
+  - {name: 🇯🇵 A+中转|日本02 |1.5x, server: gzyd.qiutan.pw, port: 10014, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: azjp01.qiutan.pw}}
+  - {name: 🇯🇵 A+中转|日本03 |1.5x, server: ltzz.qiutan.pw, port: 60005, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: japan03.qiutan.pw}}
+  - {name: 🇰🇷 A+中转|韩国01 |1.5x, server: ltzz.qiutan.pw, port: 60007, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: vuhg.qiutan.pw}}
+  - {name: 🇰🇷 A+中转|韩国02 |1.5x, server: ltzz.qiutan.pw, port: 60008, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: vuhgb.qiutan.pw}}
+  - {name: 🇰🇷 A+中转|韩国03 |1.5x, server: ltzz.qiutan.pw, port: 60009, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: vuhgc.qiutan.pw}}
+  - {name: 🇭🇰 A+中转|香港01 |2.0x, server: fsyd.qiutan.pw, port: 60000, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: azhk.qiutan.pw}}
+  - {name: 🇭🇰 A+中转|香港02 |2.0x, server: shantouyd.2288.org, port: 59994, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: azhkb.qiutan.pw}}
+  - {name: 🇭🇰 A+中转|香港03 |2.0x, server: gzyd.qiutan.pw, port: 10013, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: azhkc.qiutan.pw}}
+  - {name: 🇭🇰 A+中转|香港04 |2.0x, server: fsyd.qiutan.pw, port: 60001, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: azhkd.qiutan.pw}}
+  - {name: 🇭🇰 A+中转|香港原生06|2.0x, server: fsyd.qiutan.pw, port: 60008, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: hkt.qiutan.pw}}
+  - {name: 🇭🇰 A+中转|香港原生07|2.0x, server: fsyd.qiutan.pw, port: 60009, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: hkt.qiutan.pw}}
+  - {name: 🇭🇰 A+中转|香港原生08|2.0x, server: fsyd.qiutan.pw, port: 60010, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: hkt.qiutan.pw}}
+  - {name: 🇷🇺 B+中转|俄罗斯01|1.0x, server: ltzz.qiutan.pw, port: 60011, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: ru.qiutan.pw}}
+  - {name: 🇷🇺 B+中转|俄罗斯02|1.0x, server: ltzz.qiutan.pw, port: 60012, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: ru.qiutan.pw}}
+  - {name: 🇺🇸 B+中转|美国原生01 |1.0x, server: fsyd.qiutan.pw, port: 60012, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: usys.qiutan.pw}}
+  - {name: 🇺🇸 B+中转|美国原生02 |1.0x, server: fsyd.qiutan.pw, port: 60011, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: usys.qiutan.pw}}
+  - {name: 🇺🇸 B+中转|美国原生03|1.0x, server: fsyd.qiutan.pw, port: 60013, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: usys.qiutan.pw}}
+  - {name: 🇨🇳 S+广台专线01 |IPLC/IEPL|2.0x, server: iplc.qiutan.pw, port: 84, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: hinet.qiutan.pw}}
+  - {name: 🇨🇳 S+广台专线02 |IPLC/IEPL|2.0x, server: iplc.qiutan.pw, port: 85, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: hinet.qiutan.pw}}
+  - {name: 🇭🇰 S+深港专线01 |IPLC/IEPL| 2.0x, server: iplc.qiutan.pw, port: 80, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: aga.qiutan.pw}}
+  - {name: 🇭🇰 S+深港专线02 |IPLC/IEPL| 2.0x, server: iplc.qiutan.pw, port: 81, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: aga.qiutan.pw}}
+  - {name: 🇭🇰 S+深港专线03 |IPLC/IEPL| 2.0x, server: iplc.qiutan.pw, port: 82, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: aga.qiutan.pw}}
+  - {name: S+移动优化|IPLC/IEPL|2.0x, server: gddx.2288.org, port: 60000, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: aga.qiutan.pw}}
+  - {name: 🇮🇳 年付尊享|印度 |1.0x, server: gzyd.qiutan.pw, port: 10008, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: doyd.qiutan.pw}}
+  - {name: 🇦🇷 年付尊享|阿根廷 |1.0x, server: ltzz.qiutan.pw, port: 60013, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: agt.qiutan.pw}}
+  - {name: 🇺🇸 海外用户|美国直连 |1.0x, server: rn.qiutan.pw, port: 51113, type: vmess, uuid: e5c51999-7a62-38cb-8b6e-a07c7972eeb7, alterId: 1, cipher: auto, tls: false, network: ws, ws-path: /videos, ws-headers: {Host: rn.qiutan.pw}}
 proxy-groups:
   - name: ♻️ 自动选择
     type: url-test
@@ -148,16 +172,40 @@ proxy-groups:
       - 🇰🇷 韩国(Youtube频道：工具大师！)
       - 🇩🇪 德国(Youtube频道：工具大师！)
       - 🇩🇪 德国(Youtube频道：工具大师！) 2
-      - 🇦🇺 AU_02 |17.56Mb
-      - CA_03 | 5.45Mb
-      - CA_04 | 7.33Mb
-      - CA_05 |45.61Mb
-      - CA_06 |18.00Mb
-      - CA_07
-      - CA_08 | 7.26Mb
-      - CA_09 | 2.53Mb
-      - CA_11 |60.93Mb
-      - CA_12 |13.98Mb
+      - 🇨🇳 A+中转|台湾原生01 |2.0x
+      - 🇨🇳 A+中转|台湾原生02|2.0x
+      - 🇨🇳 A+中转|台湾原生03|2.0x
+      - 🇨🇳 A+中转|台湾原生04|2.0x
+      - 🇸🇬 A+中转|新加坡01 |2.0x
+      - 🇸🇬 A+中转|新加坡02 |2.0x
+      - 🇸🇬 A+中转|新加坡03 |2.0x
+      - 🇯🇵 A+中转|日本01 |1.5x
+      - 🇯🇵 A+中转|日本02 |1.5x
+      - 🇯🇵 A+中转|日本03 |1.5x
+      - 🇰🇷 A+中转|韩国01 |1.5x
+      - 🇰🇷 A+中转|韩国02 |1.5x
+      - 🇰🇷 A+中转|韩国03 |1.5x
+      - 🇭🇰 A+中转|香港01 |2.0x
+      - 🇭🇰 A+中转|香港02 |2.0x
+      - 🇭🇰 A+中转|香港03 |2.0x
+      - 🇭🇰 A+中转|香港04 |2.0x
+      - 🇭🇰 A+中转|香港原生06|2.0x
+      - 🇭🇰 A+中转|香港原生07|2.0x
+      - 🇭🇰 A+中转|香港原生08|2.0x
+      - 🇷🇺 B+中转|俄罗斯01|1.0x
+      - 🇷🇺 B+中转|俄罗斯02|1.0x
+      - 🇺🇸 B+中转|美国原生01 |1.0x
+      - 🇺🇸 B+中转|美国原生02 |1.0x
+      - 🇺🇸 B+中转|美国原生03|1.0x
+      - 🇨🇳 S+广台专线01 |IPLC/IEPL|2.0x
+      - 🇨🇳 S+广台专线02 |IPLC/IEPL|2.0x
+      - 🇭🇰 S+深港专线01 |IPLC/IEPL| 2.0x
+      - 🇭🇰 S+深港专线02 |IPLC/IEPL| 2.0x
+      - 🇭🇰 S+深港专线03 |IPLC/IEPL| 2.0x
+      - S+移动优化|IPLC/IEPL|2.0x
+      - 🇮🇳 年付尊享|印度 |1.0x
+      - 🇦🇷 年付尊享|阿根廷 |1.0x
+      - 🇺🇸 海外用户|美国直连 |1.0x
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -227,16 +275,40 @@ proxy-groups:
       - 🇰🇷 韩国(Youtube频道：工具大师！)
       - 🇩🇪 德国(Youtube频道：工具大师！)
       - 🇩🇪 德国(Youtube频道：工具大师！) 2
-      - 🇦🇺 AU_02 |17.56Mb
-      - CA_03 | 5.45Mb
-      - CA_04 | 7.33Mb
-      - CA_05 |45.61Mb
-      - CA_06 |18.00Mb
-      - CA_07
-      - CA_08 | 7.26Mb
-      - CA_09 | 2.53Mb
-      - CA_11 |60.93Mb
-      - CA_12 |13.98Mb
+      - 🇨🇳 A+中转|台湾原生01 |2.0x
+      - 🇨🇳 A+中转|台湾原生02|2.0x
+      - 🇨🇳 A+中转|台湾原生03|2.0x
+      - 🇨🇳 A+中转|台湾原生04|2.0x
+      - 🇸🇬 A+中转|新加坡01 |2.0x
+      - 🇸🇬 A+中转|新加坡02 |2.0x
+      - 🇸🇬 A+中转|新加坡03 |2.0x
+      - 🇯🇵 A+中转|日本01 |1.5x
+      - 🇯🇵 A+中转|日本02 |1.5x
+      - 🇯🇵 A+中转|日本03 |1.5x
+      - 🇰🇷 A+中转|韩国01 |1.5x
+      - 🇰🇷 A+中转|韩国02 |1.5x
+      - 🇰🇷 A+中转|韩国03 |1.5x
+      - 🇭🇰 A+中转|香港01 |2.0x
+      - 🇭🇰 A+中转|香港02 |2.0x
+      - 🇭🇰 A+中转|香港03 |2.0x
+      - 🇭🇰 A+中转|香港04 |2.0x
+      - 🇭🇰 A+中转|香港原生06|2.0x
+      - 🇭🇰 A+中转|香港原生07|2.0x
+      - 🇭🇰 A+中转|香港原生08|2.0x
+      - 🇷🇺 B+中转|俄罗斯01|1.0x
+      - 🇷🇺 B+中转|俄罗斯02|1.0x
+      - 🇺🇸 B+中转|美国原生01 |1.0x
+      - 🇺🇸 B+中转|美国原生02 |1.0x
+      - 🇺🇸 B+中转|美国原生03|1.0x
+      - 🇨🇳 S+广台专线01 |IPLC/IEPL|2.0x
+      - 🇨🇳 S+广台专线02 |IPLC/IEPL|2.0x
+      - 🇭🇰 S+深港专线01 |IPLC/IEPL| 2.0x
+      - 🇭🇰 S+深港专线02 |IPLC/IEPL| 2.0x
+      - 🇭🇰 S+深港专线03 |IPLC/IEPL| 2.0x
+      - S+移动优化|IPLC/IEPL|2.0x
+      - 🇮🇳 年付尊享|印度 |1.0x
+      - 🇦🇷 年付尊享|阿根廷 |1.0x
+      - 🇺🇸 海外用户|美国直连 |1.0x
   - name: 🔮 负载均衡
     type: load-balance
     url: http://www.gstatic.com/generate_204
@@ -306,16 +378,40 @@ proxy-groups:
       - 🇰🇷 韩国(Youtube频道：工具大师！)
       - 🇩🇪 德国(Youtube频道：工具大师！)
       - 🇩🇪 德国(Youtube频道：工具大师！) 2
-      - 🇦🇺 AU_02 |17.56Mb
-      - CA_03 | 5.45Mb
-      - CA_04 | 7.33Mb
-      - CA_05 |45.61Mb
-      - CA_06 |18.00Mb
-      - CA_07
-      - CA_08 | 7.26Mb
-      - CA_09 | 2.53Mb
-      - CA_11 |60.93Mb
-      - CA_12 |13.98Mb
+      - 🇨🇳 A+中转|台湾原生01 |2.0x
+      - 🇨🇳 A+中转|台湾原生02|2.0x
+      - 🇨🇳 A+中转|台湾原生03|2.0x
+      - 🇨🇳 A+中转|台湾原生04|2.0x
+      - 🇸🇬 A+中转|新加坡01 |2.0x
+      - 🇸🇬 A+中转|新加坡02 |2.0x
+      - 🇸🇬 A+中转|新加坡03 |2.0x
+      - 🇯🇵 A+中转|日本01 |1.5x
+      - 🇯🇵 A+中转|日本02 |1.5x
+      - 🇯🇵 A+中转|日本03 |1.5x
+      - 🇰🇷 A+中转|韩国01 |1.5x
+      - 🇰🇷 A+中转|韩国02 |1.5x
+      - 🇰🇷 A+中转|韩国03 |1.5x
+      - 🇭🇰 A+中转|香港01 |2.0x
+      - 🇭🇰 A+中转|香港02 |2.0x
+      - 🇭🇰 A+中转|香港03 |2.0x
+      - 🇭🇰 A+中转|香港04 |2.0x
+      - 🇭🇰 A+中转|香港原生06|2.0x
+      - 🇭🇰 A+中转|香港原生07|2.0x
+      - 🇭🇰 A+中转|香港原生08|2.0x
+      - 🇷🇺 B+中转|俄罗斯01|1.0x
+      - 🇷🇺 B+中转|俄罗斯02|1.0x
+      - 🇺🇸 B+中转|美国原生01 |1.0x
+      - 🇺🇸 B+中转|美国原生02 |1.0x
+      - 🇺🇸 B+中转|美国原生03|1.0x
+      - 🇨🇳 S+广台专线01 |IPLC/IEPL|2.0x
+      - 🇨🇳 S+广台专线02 |IPLC/IEPL|2.0x
+      - 🇭🇰 S+深港专线01 |IPLC/IEPL| 2.0x
+      - 🇭🇰 S+深港专线02 |IPLC/IEPL| 2.0x
+      - 🇭🇰 S+深港专线03 |IPLC/IEPL| 2.0x
+      - S+移动优化|IPLC/IEPL|2.0x
+      - 🇮🇳 年付尊享|印度 |1.0x
+      - 🇦🇷 年付尊享|阿根廷 |1.0x
+      - 🇺🇸 海外用户|美国直连 |1.0x
 rule-providers:
   reject:
     type: http
