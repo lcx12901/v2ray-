@@ -68,6 +68,16 @@ proxies:
   - {name: 🇰🇷 韩国(Youtube频道：工具大师！), server: cm.syhwdz.top, port: 32525, type: vmess, uuid: 99ab7ff1-147d-341f-b422-010392b589a6, alterId: 16, cipher: auto, tls: false, network: ws, ws-path: /v2ray, ws-headers: {Host: cm.syhwdz.top}}
   - {name: 🇩🇪 德国(Youtube频道：工具大师！), server: 172.67.154.85, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
   - {name: 🇩🇪 德国(Youtube频道：工具大师！) 2, server: cdnde.irteyz.today, port: 443, type: vmess, uuid: 3b5e258e-8c5e-45d3-b7d2-02c8f5fc0bb2, alterId: 64, cipher: auto, tls: true, network: ws, ws-path: /, ws-headers: {Host: cdnde.irteyz.today}}
+  - {name: 🇦🇺 AU_02 |17.56Mb, server: ss.au.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: kRAxb8hPUxS0}
+  - {name: CA_03 | 5.45Mb, server: ss4.ssrsub.one, port: 8443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub, plugin: obfs, plugin-opts: {mode: tls, host: n46hm52773.wns.windows.com}}
+  - {name: CA_04 | 7.33Mb, server: ss5.ssrsub.one, port: 8443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub, plugin: obfs, plugin-opts: {mode: tls, host: n46hm52773.wns.windows.com}}
+  - {name: CA_05 |45.61Mb, server: ss3.ssrsub.one, port: 8443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub, plugin: obfs, plugin-opts: {mode: tls, host: n46hm52773.wns.windows.com}}
+  - {name: CA_06 |18.00Mb, server: ss1.ssrsub.one, port: 8443, type: ss, cipher: aes-128-gcm, password: suo.yt/ssrsub, plugin: obfs, plugin-opts: {mode: tls, host: n46hm52773.wns.windows.com}}
+  - {name: CA_07, server: ss.ca.sshmax.net, port: 1443, type: ss, cipher: chacha20-ietf-poly1305, password: r4TeEt5bK0UD}
+  - {name: CA_08 | 7.26Mb, server: ssr4.ssrsub.one, port: 57479, type: ssr, cipher: aes-256-cfb, password: https://dlj.tf/ssrsub, protocol: origin, obfs: plain, protocolparam: "", obfsparam: ""}
+  - {name: CA_09 | 2.53Mb, server: ssr1.ssrsub.one, port: 57479, type: ssr, cipher: aes-256-cfb, password: https://dlj.tf/ssrsub, protocol: origin, obfs: plain, protocolparam: "", obfsparam: ""}
+  - {name: CA_11 |60.93Mb, server: ssr3.ssrsub.one, port: 57479, type: ssr, cipher: aes-256-cfb, password: https://dlj.tf/ssrsub, protocol: origin, obfs: plain, protocolparam: "", obfsparam: ""}
+  - {name: CA_12 |13.98Mb, server: ssr2.ssrsub.one, port: 57479, type: ssr, cipher: aes-256-cfb, password: https://dlj.tf/ssrsub, protocol: origin, obfs: plain, protocolparam: "", obfsparam: ""}
 proxy-groups:
   - name: ♻️ 自动选择
     type: url-test
@@ -138,6 +148,16 @@ proxy-groups:
       - 🇰🇷 韩国(Youtube频道：工具大师！)
       - 🇩🇪 德国(Youtube频道：工具大师！)
       - 🇩🇪 德国(Youtube频道：工具大师！) 2
+      - 🇦🇺 AU_02 |17.56Mb
+      - CA_03 | 5.45Mb
+      - CA_04 | 7.33Mb
+      - CA_05 |45.61Mb
+      - CA_06 |18.00Mb
+      - CA_07
+      - CA_08 | 7.26Mb
+      - CA_09 | 2.53Mb
+      - CA_11 |60.93Mb
+      - CA_12 |13.98Mb
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -207,6 +227,16 @@ proxy-groups:
       - 🇰🇷 韩国(Youtube频道：工具大师！)
       - 🇩🇪 德国(Youtube频道：工具大师！)
       - 🇩🇪 德国(Youtube频道：工具大师！) 2
+      - 🇦🇺 AU_02 |17.56Mb
+      - CA_03 | 5.45Mb
+      - CA_04 | 7.33Mb
+      - CA_05 |45.61Mb
+      - CA_06 |18.00Mb
+      - CA_07
+      - CA_08 | 7.26Mb
+      - CA_09 | 2.53Mb
+      - CA_11 |60.93Mb
+      - CA_12 |13.98Mb
   - name: 🔮 负载均衡
     type: load-balance
     url: http://www.gstatic.com/generate_204
@@ -276,6 +306,16 @@ proxy-groups:
       - 🇰🇷 韩国(Youtube频道：工具大师！)
       - 🇩🇪 德国(Youtube频道：工具大师！)
       - 🇩🇪 德国(Youtube频道：工具大师！) 2
+      - 🇦🇺 AU_02 |17.56Mb
+      - CA_03 | 5.45Mb
+      - CA_04 | 7.33Mb
+      - CA_05 |45.61Mb
+      - CA_06 |18.00Mb
+      - CA_07
+      - CA_08 | 7.26Mb
+      - CA_09 | 2.53Mb
+      - CA_11 |60.93Mb
+      - CA_12 |13.98Mb
 rule-providers:
   reject:
     type: http
