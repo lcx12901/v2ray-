@@ -199,9 +199,9 @@ rules:
   - RULE-SET,icloud,DIRECT
   - RULE-SET,apple,DIRECT
   - RULE-SET,google,DIRECT
-  - RULE-SET,proxy,♻️ 自动选择
+  - RULE-SET,proxy,PROXY
   - RULE-SET,direct,DIRECT
-  - RULE-SET,telegramcidr,♻️ 自动选择
+  - RULE-SET,telegramcidr,PROXY
   - GEOIP,,DIRECT
   - GEOIP,CN,DIRECT
-  - MATCH,DIRECT
+  - MATCH,PROXY
