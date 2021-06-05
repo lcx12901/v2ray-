@@ -198,7 +198,7 @@ rules:
   - RULE-SET,reject,REJECT
   - RULE-SET,icloud,DIRECT
   - RULE-SET,apple,DIRECT
-  - RULE-SET,google,DIRECT
+  - RULE-SET,google,♻️ 自动选择
   - RULE-SET,proxy,♻️ 自动选择
   - RULE-SET,direct,DIRECT
   - RULE-SET,telegramcidr,♻️ 自动选择
