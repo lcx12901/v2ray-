@@ -204,4 +204,4 @@ rules:
   - RULE-SET,telegramcidr,♻️ 自动选择
   - GEOIP,,DIRECT
   - GEOIP,CN,DIRECT
-  - MATCH,PROXY
+  - MATCH,♻️ 自动选择
