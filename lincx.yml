@@ -13,6 +13,7 @@ proxies:
   - {name: lincx5, server: jin5.lincx.workers.dev, port: 443, type: vmess, uuid: 70c825c1-09eb-40b4-8db3-b1025a4ba480, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: jin5.lincx.workers.dev}, udp: true}
   - {name: lincc1, server: jin6.lincx.workers.dev, port: 443, type: vmess, uuid: 70c825c1-09eb-40b4-8db3-b1025a4ba480, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: jin6.lincx.workers.dev}, udp: true}
   - {name: lincc2, server: jin7.lincx.workers.dev, port: 443, type: vmess, uuid: 70c825c1-09eb-40b4-8db3-b1025a4ba480, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: jin7.lincx.workers.dev}, udp: true}
+  - {name: huangzb, server: jin8.lincx.workers.dev, port: 443, type: vmess, uuid: 70c825c1-09eb-40b4-8db3-b1025a4ba480, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: jin8.lincx.workers.dev}, udp: true}
 proxy-groups:
   - name: ♻️ 自动选择
     type: url-test
