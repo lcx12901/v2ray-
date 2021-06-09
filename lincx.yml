@@ -29,6 +29,7 @@ proxy-groups:
       - lincc1
       - lincc2
       - linyx-1
+      - huangzb
   - name: 🔯 故障转移
     type: fallback
     url: http://www.gstatic.com/generate_204
@@ -43,6 +44,7 @@ proxy-groups:
       - lincc1
       - lincc2
       - linyx-1
+      - huangzb
   - name: 🔮 负载均衡
     type: load-balance
     url: http://www.gstatic.com/generate_204
@@ -57,6 +59,7 @@ proxy-groups:
       - lincc1
       - lincc2
       - linyx-1
+      - huangzb
 rule-providers:
   reject:
     type: http
