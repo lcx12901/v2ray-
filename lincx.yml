@@ -2582,9 +2582,10 @@ proxies:
   - {name: 🇷🇴 RO_8239 |57.39Mb, server: 193.29.107.179, port: 40093, type: ss, cipher: aes-256-gcm, password: x23Z4LGkGDkThZ9Kaz4DURQp, udp: true}
 proxy-groups:
   - name: 📺 巴哈姆特
+    type: url-test
+    url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
-    type: select
     proxies:
       - 🇨🇳 TW_8596 |25.14Mb
       - 🇨🇳 TW_8597 |24.79Mb
