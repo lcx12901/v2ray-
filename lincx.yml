@@ -5245,6 +5245,13 @@ rule-providers:
     path: ./ruleset/telegramcidr.yaml
     interval: 86400
 
+  Bahamut:
+    type: http
+    behavior: ipcidr
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bahamut.list"
+    path: ./ruleset/Bahamut.yaml
+    interval: 86400
+    
   cncidr:
     type: http
     behavior: ipcidr
@@ -5310,15 +5317,11 @@ rules:
   - RULE-SET,reject,REJECT
   - RULE-SET,icloud,DIRECT
   - RULE-SET,apple,DIRECT
-  - DOMAIN,gamer-cds.cdn.hinet.net,📺 巴哈姆特
-  - DOMAIN,gamer2-cds.cdn.hinet.net,📺 巴哈姆特
-  - DOMAIN-SUFFIX,bahamut.com.tw,📺 巴哈姆特
-  - DOMAIN-SUFFIX,gamer.com.tw,📺 巴哈姆特
-  - DOMAIN-SUFFIX,hinet.net,📺 巴哈姆特
   - RULE-SET,google,♻️ 自动选择
   - RULE-SET,proxy,♻️ 自动选择
   - RULE-SET,direct,DIRECT
   - RULE-SET,telegramcidr,♻️ 自动选择
+  - RULE-SET,Bahamut,📺 巴哈姆特
   - GEOIP,,DIRECT
   - GEOIP,CN,DIRECT
   - MATCH,♻️ 自动选择
