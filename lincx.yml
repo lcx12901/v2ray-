@@ -5245,13 +5245,6 @@ rule-providers:
     path: ./ruleset/telegramcidr.yaml
     interval: 86400
 
-  Bahamut:
-    type: http
-    behavior: domain
-    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Bahamut.list"
-    path: ./ruleset/Bahamut.yaml
-    interval: 86400
-    
   cncidr:
     type: http
     behavior: ipcidr
