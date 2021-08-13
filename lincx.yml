@@ -20,7 +20,8 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
-    proxies:
+    use:
+      - cn
 
   - name: ♻️ 自动选择
     type: url-test
@@ -49,6 +50,14 @@ proxy-groups:
       - gb
       - nl
 proxy-providers:
+  cn:
+    type: http
+    url: "https://sspool.herokuapp.com/clash/proxies?c=TW"
+    path: sspool.herokuapp.com/provider-cn.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
   au:
     type: http
     url: "https://sspool.herokuapp.com/clash/proxies?c=AU"
