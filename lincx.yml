@@ -39,7 +39,6 @@ proxy-groups:
       - linyx-1
     use:
       - au
-      - us
       - ca
       - jp
       - sg
@@ -62,14 +61,6 @@ proxy-providers:
     type: http
     url: "https://sspool.herokuapp.com/clash/proxies?c=AU"
     path: sspool.herokuapp.com/provider-au.yaml
-    health-check:
-      enable: true
-      interval: 600
-      url: http://www.gstatic.com/generate_204
-  us:
-    type: http
-    url: "https://sspool.herokuapp.com/clash/proxies?c=US"
-    path: sspool.herokuapp.com/provider-us.yaml
     health-check:
       enable: true
       interval: 600
