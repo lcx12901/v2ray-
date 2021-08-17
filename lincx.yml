@@ -40,7 +40,6 @@ proxy-groups:
     use:
       - au
       - ca
-      - sg
       - ru
       - ch
       - de
