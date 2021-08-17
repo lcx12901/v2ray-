@@ -47,6 +47,7 @@ proxy-groups:
       - fr
       - gb
       - nl
+      - other
 proxy-providers:
   cn:
     type: http
@@ -72,10 +73,10 @@ proxy-providers:
       enable: true
       interval: 600
       url: http://www.gstatic.com/generate_204
-  sg:
+  other:
     type: http
-    url: "https://sspool.herokuapp.com/clash/proxies?c=SG"
-    path: sspool.herokuapp.com/provider-sg.yaml
+    url: "https://sspool.herokuapp.com/clash/proxies?nc=CN,HK,TW,US,CA,JP,SG,AU,CH,DE,GB,NL,FR,RU"
+    path: sspool.herokuapp.com/provider-other.yaml
     health-check:
       enable: true
       interval: 600
