@@ -40,7 +40,6 @@ proxy-groups:
     use:
       - au
       - ca
-      - ru
       - ch
       - de
       - fr
@@ -76,14 +75,6 @@ proxy-providers:
     type: http
     url: "https://sspool.herokuapp.com/clash/proxies?nc=CN,HK,TW,US,CA,JP,SG,AU,CH,DE,GB,NL,FR,RU"
     path: sspool.herokuapp.com/provider-other.yaml
-    health-check:
-      enable: true
-      interval: 600
-      url: http://www.gstatic.com/generate_204
-  ru:
-    type: http
-    url: "https://sspool.herokuapp.com/clash/proxies?c=RU"
-    path: sspool.herokuapp.com/provider-ru.yaml
     health-check:
       enable: true
       interval: 600
