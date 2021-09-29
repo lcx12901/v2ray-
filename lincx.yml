@@ -88,14 +88,6 @@ proxy-providers:
       enable: true
       interval: 600
       url: http://www.gstatic.com/generate_204
-  other:
-    type: http
-    url: "https://sspool.herokuapp.com/clash/proxies?nc=CN,HK,TW,US,CA,JP,SG,AU,CH,DE,GB,NL,FR,RU"
-    path: sspool.herokuapp.com/provider-other.yaml
-    health-check:
-      enable: true
-      interval: 600
-      url: http://www.gstatic.com/generate_204
   ch:
     type: http
     url: "https://sspool.herokuapp.com/clash/proxies?c=CH"
