@@ -38,18 +38,36 @@ proxy-groups:
       - lincc2
       - linyx-1
     use:
+      - ae
+      - al
       - au
       - ca
       - ch
       - de
       - fr
       - nl
-      - other
+      - zz
 proxy-providers:
   cn:
     type: http
     url: "https://sspool.herokuapp.com/clash/proxies?c=TW"
     path: sspool.herokuapp.com/provider-cn.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+  ae:
+    type: http
+    url: "https://sspool.herokuapp.com/clash/proxies?c=AE"
+    path: sspool.herokuapp.com/provider-ae.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+  al:
+    type: http
+    url: "https://sspool.herokuapp.com/clash/proxies?c=AL"
+    path: sspool.herokuapp.com/provider-al.yaml
     health-check:
       enable: true
       interval: 600
@@ -106,6 +124,14 @@ proxy-providers:
     type: http
     url: "https://sspool.herokuapp.com/clash/proxies?c=NL"
     path: sspool.herokuapp.com/provider-nl.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+  zz:
+    type: http
+    url: "https://sspool.herokuapp.com/clash/proxies?c=ZZ"
+    path: sspool.herokuapp.com/provider-zz.yaml
     health-check:
       enable: true
       interval: 600
