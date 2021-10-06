@@ -4,16 +4,6 @@ allow-lan: true
 mode: Rule
 log-level: info
 external-controller: :9090
-proxies:
-  - {name: lincx1, server: weining1.herokuapp.com, port: 443, type: vmess, uuid: 70c825c1-09eb-40b4-8db3-b1025a4ba480, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: weining1.herokuapp.com}, udp: true}
-  - {name: lincx2, server: weining2.herokuapp.com, port: 443, type: vmess, uuid: 761e1428-7d86-4c72-bb9f-be43544794fb, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: weining2.herokuapp.com}, udp: true}
-  - {name: lincx3, server: weining3.herokuapp.com, port: 443, type: vmess, uuid: d298f4b2-927c-42b0-9842-673d46a09876, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: weining3.herokuapp.com}, udp: true}
-  - {name: lincx4, server: weining4.herokuapp.com, port: 443, type: vmess, uuid: e5797740-10ca-4266-9cf3-034f11920877, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: weining4.herokuapp.com}, udp: true}
-  - {name: linyx-1, server: xuanxuan1.herokuapp.com, port: 443, type: vmess, uuid: 972960d5-bbea-4eb5-862b-6ac971a6e953, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: xuanxuan1.herokuapp.com}, udp: true}
-  - {name: lincx5, server: ynsh1367372276.herokuapp.com, port: 443, type: vmess, uuid: 70c825c1-09eb-40b4-8db3-b1025a4ba480, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: ynsh1367372276.herokuapp.com}, udp: true}
-  - {name: lincc1, server: lincc1.herokuapp.com, port: 443, type: vmess, uuid: 70c825c1-09eb-40b4-8db3-b1025a4ba480, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: lincc1.herokuapp.com}, udp: true}
-  - {name: lincc2, server: lincc2.herokuapp.com, port: 443, type: vmess, uuid: 70c825c1-09eb-40b4-8db3-b1025a4ba480, alterId: 64, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: lincc2.herokuapp.com}, udp: true}
-
 proxy-groups:
   - name: 📺 巴哈姆特
     type: url-test
@@ -28,15 +18,6 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
-    proxies:
-      - lincx1
-      - lincx2
-      - lincx3
-      - lincx4
-      - lincx5
-      - lincc1
-      - lincc2
-      - linyx-1
     use:
       - ae
       - al
