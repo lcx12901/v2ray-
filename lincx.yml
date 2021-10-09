@@ -25,7 +25,7 @@ proxy-groups:
       - ca
       - fr
       - nl
-      - other
+      - zz
 proxy-providers:
   cn:
     type: http
