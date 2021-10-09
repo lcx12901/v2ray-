@@ -83,10 +83,10 @@ proxy-providers:
       enable: true
       interval: 600
       url: http://www.gstatic.com/generate_204
-  other:
+  zz:
     type: http
-    url: "https://gitee.com/lcx12901/v2ray/raw/master/sspool.herokuapp.com/provider-other.yaml"
-    path: sspool.herokuapp.com/provider-other.yaml
+    url: "https://gitee.com/lcx12901/v2ray/raw/master/sspool.herokuapp.com/provider-zz.yaml"
+    path: sspool.herokuapp.com/provider-zz.yaml
     health-check:
       enable: true
       interval: 600
