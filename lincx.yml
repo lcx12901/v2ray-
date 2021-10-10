@@ -22,11 +22,14 @@ proxy-groups:
       - ae
       - al
       - au
+      - be
       - ca
       - fr
       - nl
       - zz
 proxy-providers:
+  # https://sspool.herokuapp.com/clash/proxies?c=DE
+  # https://sspool.herokuapp.com/clash/proxies?nc=CN,HK,TW,US,CA,JP,SG,AU,CH,DE,GB,NL,FR,RU,ZZ,AE,AL,CA,BE
   cn:
     type: http
     url: "https://gitee.com/lcx12901/v2ray/raw/master/sspool.herokuapp.com/provider-cn.yaml"
@@ -55,6 +58,14 @@ proxy-providers:
     type: http
     url: "https://gitee.com/lcx12901/v2ray/raw/master/sspool.herokuapp.com/provider-au.yaml"
     path: sspool.herokuapp.com/provider-au.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+  be:
+    type: http
+    url: "https://gitee.com/lcx12901/v2ray/raw/master/sspool.herokuapp.com/provider-be.yaml"
+    path: sspool.herokuapp.com/provider-be.yaml
     health-check:
       enable: true
       interval: 600
