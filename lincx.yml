@@ -240,12 +240,15 @@ rules:
   - PROCESS-NAME,WebTorrent.exe,DIRECT
   - DOMAIN,clash.razord.top,DIRECT
   - DOMAIN,yacd.haishan.me,DIRECT
-  - DOMAIN,xboxlive.com,DIRECT
+  - DOMAIN-KEYWORD,xboxlive.com,DIRECT
+  - DOMAIN-KEYWORD,microsoft.com,DIRECT
+  - DOMAIN-KEYWORD,cloudapp.net,DIRECT
   - DOMAIN,mach.net,DIRECT
   - RULE-SET,private,DIRECT
   - RULE-SET,reject,REJECT
   - RULE-SET,icloud,DIRECT
   - RULE-SET,apple,DIRECT
+  - DOMAIN-SUFFIX,services.googleapis.cn,♻️ 自动选择
   - DOMAIN,gamer-cds.cdn.hinet.net,📺 巴哈姆特
   - DOMAIN,gamer2-cds.cdn.hinet.net,📺 巴哈姆特
   - DOMAIN-SUFFIX,bahamut.com.tw,📺 巴哈姆特
