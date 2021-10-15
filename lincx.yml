@@ -257,6 +257,7 @@ rules:
   - RULE-SET,reject,REJECT
   - RULE-SET,icloud,DIRECT
   - RULE-SET,apple,DIRECT
+  - DOMAIN-SUFFIX,login.live.com,DIRECT
   - DOMAIN-SUFFIX,services.googleapis.cn,♻️ 自动选择
   - DOMAIN,gamer-cds.cdn.hinet.net,📺 巴哈姆特
   - DOMAIN,gamer2-cds.cdn.hinet.net,📺 巴哈姆特
