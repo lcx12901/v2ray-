@@ -33,7 +33,7 @@ proxy-providers:
   # https://sspool.herokuapp.com/clash/proxies?nc=CN,HK,TW,US,CA,JP,SG,AU,CH,DE,GB,NL,FR,RU,ZZ,AE,AL,CA,BE,AT,AZ
   cn:
     type: http
-    url: "https://gitee.com/lcx12901/v2ray/raw/master/sspool.herokuapp.com/provider-cn.yaml"
+    url: "https://gitee.com/lcx12901/clash-profile/raw/master/sspool.herokuapp.com/provider-cn.yaml"
     path: sspool.herokuapp.com/provider-cn.yaml
     health-check:
       enable: true
@@ -41,7 +41,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   ae:
     type: http
-    url: "https://gitee.com/lcx12901/v2ray/raw/master/sspool.herokuapp.com/provider-ae.yaml"
+    url: "https://gitee.com/lcx12901/clash-profile/raw/master/sspool.herokuapp.com/provider-ae.yaml"
     path: sspool.herokuapp.com/provider-ae.yaml
     health-check:
       enable: true
@@ -49,7 +49,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   al:
     type: http
-    url: "https://gitee.com/lcx12901/v2ray/raw/master/sspool.herokuapp.com/provider-al.yaml"
+    url: "https://gitee.com/lcx12901/clash-profile/raw/master/sspool.herokuapp.com/provider-al.yaml"
     path: sspool.herokuapp.com/provider-al.yaml
     health-check:
       enable: true
@@ -57,7 +57,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   at:
     type: http
-    url: "https://gitee.com/lcx12901/v2ray/raw/master/sspool.herokuapp.com/provider-at.yaml"
+    url: "https://gitee.com/lcx12901/clash-profile/raw/master/sspool.herokuapp.com/provider-at.yaml"
     path: sspool.herokuapp.com/provider-at.yaml
     health-check:
       enable: true
@@ -65,7 +65,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   az:
     type: http
-    url: "https://gitee.com/lcx12901/v2ray/raw/master/sspool.herokuapp.com/provider-az.yaml"
+    url: "https://gitee.com/lcx12901/clash-profile/raw/master/sspool.herokuapp.com/provider-az.yaml"
     path: sspool.herokuapp.com/provider-az.yaml
     health-check:
       enable: true
@@ -73,7 +73,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   au:
     type: http
-    url: "https://gitee.com/lcx12901/v2ray/raw/master/sspool.herokuapp.com/provider-au.yaml"
+    url: "https://gitee.com/lcx12901/clash-profile/raw/master/sspool.herokuapp.com/provider-au.yaml"
     path: sspool.herokuapp.com/provider-au.yaml
     health-check:
       enable: true
@@ -81,7 +81,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   be:
     type: http
-    url: "https://gitee.com/lcx12901/v2ray/raw/master/sspool.herokuapp.com/provider-be.yaml"
+    url: "https://gitee.com/lcx12901/clash-profile/raw/master/sspool.herokuapp.com/provider-be.yaml"
     path: sspool.herokuapp.com/provider-be.yaml
     health-check:
       enable: true
@@ -89,7 +89,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   ca:
     type: http
-    url: "https://gitee.com/lcx12901/v2ray/raw/master/sspool.herokuapp.com/provider-ca.yaml"
+    url: "https://gitee.com/lcx12901/clash-profile/raw/master/sspool.herokuapp.com/provider-ca.yaml"
     path: sspool.herokuapp.com/provider-ca.yaml
     health-check:
       enable: true
@@ -97,7 +97,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   fr:
     type: http
-    url: "https://gitee.com/lcx12901/v2ray/raw/master/sspool.herokuapp.com/provider-fr.yaml"
+    url: "https://gitee.com/lcx12901/clash-profile/raw/master/sspool.herokuapp.com/provider-fr.yaml"
     path: sspool.herokuapp.com/provider-fr.yaml
     health-check:
       enable: true
@@ -105,7 +105,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   nl:
     type: http
-    url: "https://gitee.com/lcx12901/v2ray/raw/master/sspool.herokuapp.com/provider-nl.yaml"
+    url: "https://gitee.com/lcx12901/clash-profile/raw/master/sspool.herokuapp.com/provider-nl.yaml"
     path: sspool.herokuapp.com/provider-nl.yaml
     health-check:
       enable: true
