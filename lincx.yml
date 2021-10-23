@@ -159,6 +159,12 @@ rule-providers:
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Steam.yaml"
     path: ./ruleset/steam.yaml
     interval: 86400
+  epic:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Epic.yaml"
+    path: ./ruleset/epic.yaml
+    interval: 86400
   baha:
     type: http
     behavior: classical
@@ -268,6 +274,7 @@ rules:
   - RULE-SET,Microsoft,♻️ 自动选择
   - RULE-SET,xbox,♻️ 自动选择
   - RULE-SET,steam,♻️ 自动选择
+  - RULE-SET,epic,♻️ 自动选择
   - RULE-SET,proxy,♻️ 自动选择
   - RULE-SET,direct,DIRECT
   - RULE-SET,telegramcidr,♻️ 自动选择
