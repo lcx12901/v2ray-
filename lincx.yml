@@ -118,49 +118,53 @@ rule-providers:
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt"
     path: ./ruleset/reject.yaml
     interval: 86400
-
   icloud:
     type: http
     behavior: domain
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/icloud.txt"
     path: ./ruleset/icloud.yaml
     interval: 86400
-
   apple:
     type: http
     behavior: domain
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/apple.txt"
     path: ./ruleset/apple.yaml
     interval: 86400
-
-  google:
+  proxyLite:
     type: http
-    behavior: domain
-    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/google.txt"
-    path: ./ruleset/google.yaml
-    interval: 86400
-
+    behavior: classical
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/ProxyLite.yaml"
+    path: ./ruleset/proxyLite.yaml
   proxy:
     type: http
     behavior: domain
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt"
     path: ./ruleset/proxy.yaml
     interval: 86400
-
+  Microsoft:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Microsoft.yaml"
+    path: ./ruleset/Microsoft.yaml
+    interval: 86400
+  steam:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Steam.yaml"
+    path: ./ruleset/steam.yaml
+    interval: 86400
+  baha:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Bahamut.yaml"
+    path: ./ruleset/baha.yaml
+    interval: 86400
   direct:
     type: http
     behavior: domain
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt"
     path: ./ruleset/direct.yaml
     interval: 86400
-
-  private:
-    type: http
-    behavior: domain
-    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/private.txt"
-    path: ./ruleset/private.yaml
-    interval: 86400
-
   gfw:
     type: http
     behavior: domain
@@ -249,22 +253,14 @@ rules:
   - PROCESS-NAME,WebTorrent.exe,DIRECT
   - DOMAIN,clash.razord.top,DIRECT
   - DOMAIN,yacd.haishan.me,DIRECT
-  - DOMAIN-KEYWORD,xboxlive.com,DIRECT
-  - DOMAIN-KEYWORD,microsoft.com,DIRECT
-  - DOMAIN-KEYWORD,cloudapp.net,DIRECT
-  - DOMAIN,mach.net,DIRECT
-  - RULE-SET,private,DIRECT
   - RULE-SET,reject,REJECT
   - RULE-SET,icloud,DIRECT
   - RULE-SET,apple,DIRECT
-  - DOMAIN-SUFFIX,login.live.com,DIRECT
-  - DOMAIN-SUFFIX,services.googleapis.cn,♻️ 自动选择
-  - DOMAIN,gamer-cds.cdn.hinet.net,📺 巴哈姆特
-  - DOMAIN,gamer2-cds.cdn.hinet.net,📺 巴哈姆特
-  - DOMAIN-SUFFIX,bahamut.com.tw,📺 巴哈姆特
-  - DOMAIN-SUFFIX,gamer.com.tw,📺 巴哈姆特
-  - DOMAIN-SUFFIX,hinet.net,📺 巴哈姆特
-  - RULE-SET,google,♻️ 自动选择
+  - DOMAIN-SUFFIX,msftconnecttest.com,♻️ 自动选择
+  - RULE-SET,proxyLite,♻️ 自动选择
+  - RULE-SET,Microsoft,♻️ 自动选择
+  - RULE-SET,steam,♻️ 自动选择
+  - RULE-SET,baha,📺 巴哈姆特
   - RULE-SET,proxy,♻️ 自动选择
   - RULE-SET,direct,DIRECT
   - RULE-SET,telegramcidr,♻️ 自动选择
