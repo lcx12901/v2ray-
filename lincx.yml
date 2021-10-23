@@ -147,6 +147,12 @@ rule-providers:
     url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Microsoft.yaml"
     path: ./ruleset/Microsoft.yaml
     interval: 86400
+  xbox:
+    type: http
+    behavior: classical
+    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Xbox.yaml"
+    path: ./ruleset/xbox.yaml
+    interval: 86400
   steam:
     type: http
     behavior: classical
@@ -260,6 +266,7 @@ rules:
   - DOMAIN-SUFFIX,msftconnecttest.com,♻️ 自动选择
   - RULE-SET,proxyLite,♻️ 自动选择
   - RULE-SET,Microsoft,♻️ 自动选择
+  - RULE-SET,xbox,♻️ 自动选择
   - RULE-SET,steam,♻️ 自动选择
   - RULE-SET,proxy,♻️ 自动选择
   - RULE-SET,direct,DIRECT
