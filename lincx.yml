@@ -256,11 +256,11 @@ rules:
   - RULE-SET,reject,REJECT
   - RULE-SET,icloud,DIRECT
   - RULE-SET,apple,DIRECT
+  - RULE-SET,baha,📺 巴哈姆特
   - DOMAIN-SUFFIX,msftconnecttest.com,♻️ 自动选择
   - RULE-SET,proxyLite,♻️ 自动选择
   - RULE-SET,Microsoft,♻️ 自动选择
   - RULE-SET,steam,♻️ 自动选择
-  - RULE-SET,baha,📺 巴哈姆特
   - RULE-SET,proxy,♻️ 自动选择
   - RULE-SET,direct,DIRECT
   - RULE-SET,telegramcidr,♻️ 自动选择
