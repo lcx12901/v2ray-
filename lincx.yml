@@ -150,25 +150,25 @@ rule-providers:
   xbox:
     type: http
     behavior: classical
-    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/Xbox.yaml"
+    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/xbox.yaml"
     path: ./ruleset/xbox.yaml
     interval: 86400
   steam:
     type: http
     behavior: classical
-    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/Steam.yaml"
+    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/steam.yaml"
     path: ./ruleset/steam.yaml
     interval: 86400
   epic:
     type: http
     behavior: classical
-    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/Epic.yaml"
+    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/epic.yaml"
     path: ./ruleset/epic.yaml
     interval: 86400
   baha:
     type: http
     behavior: classical
-    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/Bahamut.yaml"
+    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/baha.yaml"
     path: ./ruleset/baha.yaml
     interval: 86400
   direct:
