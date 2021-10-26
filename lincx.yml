@@ -133,7 +133,7 @@ rule-providers:
   proxyLite:
     type: http
     behavior: classical
-    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/ProxyLite.yaml"
+    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/ProxyLite.yaml"
     path: ./ruleset/proxyLite.yaml
   proxy:
     type: http
@@ -144,31 +144,31 @@ rule-providers:
   Microsoft:
     type: http
     behavior: classical
-    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Microsoft.yaml"
+    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/Microsoft.yaml"
     path: ./ruleset/Microsoft.yaml
     interval: 86400
   xbox:
     type: http
     behavior: classical
-    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Xbox.yaml"
+    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/Xbox.yaml"
     path: ./ruleset/xbox.yaml
     interval: 86400
   steam:
     type: http
     behavior: classical
-    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Steam.yaml"
+    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/Steam.yaml"
     path: ./ruleset/steam.yaml
     interval: 86400
   epic:
     type: http
     behavior: classical
-    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Epic.yaml"
+    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/Epic.yaml"
     path: ./ruleset/epic.yaml
     interval: 86400
   baha:
     type: http
     behavior: classical
-    url: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/Bahamut.yaml"
+    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/Bahamut.yaml"
     path: ./ruleset/baha.yaml
     interval: 86400
   direct:
