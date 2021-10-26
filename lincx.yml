@@ -133,7 +133,7 @@ rule-providers:
   proxyLite:
     type: http
     behavior: classical
-    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/ProxyLite.yaml"
+    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/proxyLite.yaml"
     path: ./ruleset/proxyLite.yaml
   proxy:
     type: http
