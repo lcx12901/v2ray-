@@ -135,12 +135,12 @@ rule-providers:
     behavior: classical
     url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/proxyLite.yaml"
     path: ./ruleset/proxyLite.yaml
-  proxy:
-    type: http
-    behavior: domain
-    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt"
-    path: ./ruleset/proxy.yaml
-    interval: 86400
+  #proxy:
+    #type: http
+    #behavior: domain
+    #url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt"
+    #path: ./ruleset/proxy.yaml
+    #interval: 86400
   Microsoft:
     type: http
     behavior: classical
@@ -269,7 +269,7 @@ rules:
   - RULE-SET,icloud,DIRECT
   - RULE-SET,apple,DIRECT
   - RULE-SET,baha,📺 巴哈姆特
-  - RULE-SET,proxy,♻️ 自动选择
+  #- RULE-SET,proxy,♻️ 自动选择
   - DOMAIN-SUFFIX,msftconnecttest.com,♻️ 自动选择
   - RULE-SET,proxyLite,♻️ 自动选择
   - RULE-SET,Microsoft,♻️ 自动选择
