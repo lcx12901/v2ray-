@@ -1,197 +1,180 @@
 proxies:
-- {"name":"🇦🇿AZ_1252 |32.51Mb","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":49339,"password":"suucSeVLmt6PQKAP77NtGw9x","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1253 | 9.26Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":50024,"password":"b2jDPHUQxCNa2KmGHZjy7C4B","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1254 |10.25Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":48938,"password":"4ejJ8n5ddLuYDUHGXJre2ufJ","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1255 |21.41Mb","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":44236,"password":"FWrXcxPZjJxAN89xLgqY3Acp","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1256 |22.49Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":38742,"password":"DKXfWwc4ebscpXTKpbt85rSH","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1257 |20.14Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1258 |25.85Mb","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":38620,"password":"Kquv5UhvZXNMemAQy8DxZ7qn","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1259 |30.06Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1260 |25.09Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":33998,"password":"NHwQTPLCfaTMSqTnU3mjcSxe","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1261 |24.28Mb","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1262 |25.87Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":47121,"password":"CTK8GXFQgKYQErrghPJfZ6tk","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1263 |16.93Mb","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":47121,"password":"CTK8GXFQgKYQErrghPJfZ6tk","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1264 |28.52Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":38620,"password":"Kquv5UhvZXNMemAQy8DxZ7qn","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1265 |31.05Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":48938,"password":"4ejJ8n5ddLuYDUHGXJre2ufJ","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1266 |29.75Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":48794,"password":"r9Q3adc3ru9sfBDPEj4yp6U6","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1267 |32.11Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":50024,"password":"b2jDPHUQxCNa2KmGHZjy7C4B","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1268 |30.82Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":46642,"password":"gYL83DQWXuDbxmZAVVtUTXaK","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1269 |28.47Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":48938,"password":"4ejJ8n5ddLuYDUHGXJre2ufJ","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1270 |18.74Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":46642,"password":"gYL83DQWXuDbxmZAVVtUTXaK","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1271 |28.72Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":50024,"password":"b2jDPHUQxCNa2KmGHZjy7C4B","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1272 |28.52Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":38742,"password":"DKXfWwc4ebscpXTKpbt85rSH","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1273 |24.38Mb","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1274 |22.91Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":43893,"password":"YyCBeDdYX4cadHpCkkmdJLq8","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1275 |29.66Mb","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":31764,"password":"YgusH2MWA8PWc3p2VDsR7AVv","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1276 |30.52Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":33998,"password":"NHwQTPLCfaTMSqTnU3mjcSxe","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1277 |15.76Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":42185,"password":"FaTG4zALZru72gxjgSHQ7Jdh","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1278 |15.87Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1279 |28.17Mb","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":49126,"password":"wrCaGtrUbzeRqQLdc8Kmk3Nd","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1280 |28.82Mb","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":46642,"password":"gYL83DQWXuDbxmZAVVtUTXaK","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1281 |26.25Mb","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":38742,"password":"DKXfWwc4ebscpXTKpbt85rSH","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1282 |28.33Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":44236,"password":"FWrXcxPZjJxAN89xLgqY3Acp","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1283 |24.84Mb","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":41676,"password":"z6pH3RyttkRWhJ5tpRyt6dYk","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1284 |29.05Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":49653,"password":"Y9GcTPemHMKEkrfGQPJqFDNr","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1285 |29.83Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":49126,"password":"wrCaGtrUbzeRqQLdc8Kmk3Nd","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1286 |30.37Mb","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":45329,"password":"CXSjgD7u7Ar7GxkZ4CgTMUsj","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1287 |29.12Mb","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1288 |31.17Mb","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":47121,"password":"CTK8GXFQgKYQErrghPJfZ6tk","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1289 |25.78Mb","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":49653,"password":"Y9GcTPemHMKEkrfGQPJqFDNr","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1290 |29.28Mb","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1291 |26.27Mb","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":41676,"password":"z6pH3RyttkRWhJ5tpRyt6dYk","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1292 |22.33Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":50232,"password":"CjchzpwdSjRtDjezYMwx9BKM","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1293 |31.56Mb","server":"94.20.154.59","type":"ss","country":"🇦🇿AZ","port":50232,"password":"CjchzpwdSjRtDjezYMwx9BKM","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1294 |30.84Mb","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":48794,"password":"r9Q3adc3ru9sfBDPEj4yp6U6","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1295 |29.65Mb","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1296 |22.48Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":48794,"password":"r9Q3adc3ru9sfBDPEj4yp6U6","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1297 |28.82Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":33998,"password":"NHwQTPLCfaTMSqTnU3mjcSxe","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1298 |32.78Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":42304,"password":"p26v2JwhQVHDHsXk66fXt56r","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1299 |30.68Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":49339,"password":"suucSeVLmt6PQKAP77NtGw9x","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1300 |32.92Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":38742,"password":"DKXfWwc4ebscpXTKpbt85rSH","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1301 |32.25Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":45329,"password":"CXSjgD7u7Ar7GxkZ4CgTMUsj","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1302 |31.26Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1303 |30.10Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1304 |31.93Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":41676,"password":"z6pH3RyttkRWhJ5tpRyt6dYk","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1305 |32.84Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":38620,"password":"Kquv5UhvZXNMemAQy8DxZ7qn","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1306 |31.43Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":41676,"password":"z6pH3RyttkRWhJ5tpRyt6dYk","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1307 |26.58Mb","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":44236,"password":"FWrXcxPZjJxAN89xLgqY3Acp","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1308 |23.47Mb","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":42304,"password":"p26v2JwhQVHDHsXk66fXt56r","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1309 |30.49Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":49126,"password":"wrCaGtrUbzeRqQLdc8Kmk3Nd","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1310 |28.63Mb","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":48794,"password":"r9Q3adc3ru9sfBDPEj4yp6U6","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1311 |27.76Mb","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":49653,"password":"Y9GcTPemHMKEkrfGQPJqFDNr","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1312 |32.18Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1313 |27.59Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":31764,"password":"YgusH2MWA8PWc3p2VDsR7AVv","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1314 |26.79Mb","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":31764,"password":"YgusH2MWA8PWc3p2VDsR7AVv","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1315 |31.48Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":49653,"password":"Y9GcTPemHMKEkrfGQPJqFDNr","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1316 |22.51Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":49653,"password":"Y9GcTPemHMKEkrfGQPJqFDNr","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1317 |26.40Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":42304,"password":"p26v2JwhQVHDHsXk66fXt56r","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1318 |24.83Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":31764,"password":"YgusH2MWA8PWc3p2VDsR7AVv","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1319 |26.53Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1320 |15.49Mb","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1321 |16.32Mb","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":33998,"password":"NHwQTPLCfaTMSqTnU3mjcSxe","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1322 |18.25Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":42304,"password":"p26v2JwhQVHDHsXk66fXt56r","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1323 |17.93Mb","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1324 |29.42Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":48794,"password":"r9Q3adc3ru9sfBDPEj4yp6U6","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1325 |12.96Mb","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1326 |23.44Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1327 |24.16Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":49126,"password":"wrCaGtrUbzeRqQLdc8Kmk3Nd","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1328 |18.24Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":33998,"password":"NHwQTPLCfaTMSqTnU3mjcSxe","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1329 |28.26Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1330 |30.45Mb","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":47027,"password":"Vt5pBJFwdtNB26cJbTXxm88Z","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1331 |29.74Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":50232,"password":"CjchzpwdSjRtDjezYMwx9BKM","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1332 |16.63Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":49653,"password":"Y9GcTPemHMKEkrfGQPJqFDNr","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1333 |17.63Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":41676,"password":"z6pH3RyttkRWhJ5tpRyt6dYk","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1334 |16.38Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1335 |30.29Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":47027,"password":"Vt5pBJFwdtNB26cJbTXxm88Z","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1336 |21.20Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1337 |19.06Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":44236,"password":"FWrXcxPZjJxAN89xLgqY3Acp","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1338 |18.06Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":50024,"password":"b2jDPHUQxCNa2KmGHZjy7C4B","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1339 |19.05Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1340 |15.98Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":46642,"password":"gYL83DQWXuDbxmZAVVtUTXaK","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1341 |19.76Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":47027,"password":"Vt5pBJFwdtNB26cJbTXxm88Z","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1342 |28.58Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":45329,"password":"CXSjgD7u7Ar7GxkZ4CgTMUsj","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1343 |21.93Mb","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":45329,"password":"CXSjgD7u7Ar7GxkZ4CgTMUsj","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1344 |25.02Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":45329,"password":"CXSjgD7u7Ar7GxkZ4CgTMUsj","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1345 |19.52Mb","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":50232,"password":"CjchzpwdSjRtDjezYMwx9BKM","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1346 |16.22Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1347 |17.73Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":49339,"password":"suucSeVLmt6PQKAP77NtGw9x","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1348 |13.51Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":44820,"password":"jspgz9G3VmvBMCgMUWLBaZHu","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1349 |15.04Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1350 |13.53Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1351 |16.13Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":41676,"password":"z6pH3RyttkRWhJ5tpRyt6dYk","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1352 |10.76Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":45329,"password":"CXSjgD7u7Ar7GxkZ4CgTMUsj","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1353 |25.34Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1354 |18.20Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":37473,"password":"enctdKyJfSu76VqznKwTt6Ap","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1355 |24.18Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1356 |25.00Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":49719,"password":"42SjT9vBF6ma9eFF3URaJpQ4","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1357 |19.03Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":34815,"password":"LkFAzkzXkSCRYa2CsRdL8cGb","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1358 |12.04Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1359 |24.83Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":47027,"password":"Vt5pBJFwdtNB26cJbTXxm88Z","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1360 |20.42Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1361 |10.92Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":38742,"password":"DKXfWwc4ebscpXTKpbt85rSH","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1362 | 8.41Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1363 |19.03Mb","server":"62.212.239.44","type":"ss","country":"🇦🇿AZ","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1364 |18.19Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":49653,"password":"Y9GcTPemHMKEkrfGQPJqFDNr","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1365 |19.13Mb","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":46642,"password":"gYL83DQWXuDbxmZAVVtUTXaK","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1366 |24.76Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":47121,"password":"CTK8GXFQgKYQErrghPJfZ6tk","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1367 |24.07Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":31764,"password":"YgusH2MWA8PWc3p2VDsR7AVv","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1368 |15.57Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":44236,"password":"FWrXcxPZjJxAN89xLgqY3Acp","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1369 |16.96Mb","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1370 |22.52Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1371 |27.65Mb","server":"94.20.154.59","type":"ss","country":"🇦🇿AZ","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1372 |18.23Mb","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":34815,"password":"LkFAzkzXkSCRYa2CsRdL8cGb","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1373 |19.21Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1374 |29.22Mb","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":33998,"password":"NHwQTPLCfaTMSqTnU3mjcSxe","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1375 |17.04Mb","server":"62.212.239.43","type":"ss","country":"🇦🇿AZ","port":50232,"password":"CjchzpwdSjRtDjezYMwx9BKM","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1376 |21.82Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":48794,"password":"r9Q3adc3ru9sfBDPEj4yp6U6","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1377 |14.85Mb","server":"62.212.239.43","type":"ss","country":"🇦🇿AZ","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1378 |22.37Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1379 |25.47Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":47121,"password":"CTK8GXFQgKYQErrghPJfZ6tk","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1380 |16.42Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":44820,"password":"jspgz9G3VmvBMCgMUWLBaZHu","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1381 |19.64Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":42304,"password":"p26v2JwhQVHDHsXk66fXt56r","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1382 |24.36Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":48938,"password":"4ejJ8n5ddLuYDUHGXJre2ufJ","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1383 |15.49Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":47121,"password":"CTK8GXFQgKYQErrghPJfZ6tk","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1384 |14.01Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":33998,"password":"NHwQTPLCfaTMSqTnU3mjcSxe","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1385 |13.82Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":45746,"password":"wEsFcHCvbL4eJkL4DZQa7RgR","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1386 |15.57Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":46642,"password":"gYL83DQWXuDbxmZAVVtUTXaK","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1387 |13.02Mb","server":"62.212.239.43","type":"ss","country":"🇦🇿AZ","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1388 |13.24Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":31764,"password":"YgusH2MWA8PWc3p2VDsR7AVv","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1389 |21.75Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":49126,"password":"wrCaGtrUbzeRqQLdc8Kmk3Nd","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1390 |18.44Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":46642,"password":"gYL83DQWXuDbxmZAVVtUTXaK","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1391 |14.41Mb","server":"62.212.239.44","type":"ss","country":"🇦🇿AZ","port":50232,"password":"CjchzpwdSjRtDjezYMwx9BKM","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1392 |15.38Mb","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1393 |11.66Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1394 |16.42Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1395 |14.21Mb","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":50024,"password":"b2jDPHUQxCNa2KmGHZjy7C4B","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1396 |31.29Mb","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":44820,"password":"jspgz9G3VmvBMCgMUWLBaZHu","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1397 |16.64Mb","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":38620,"password":"Kquv5UhvZXNMemAQy8DxZ7qn","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1398 |13.56Mb","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":38742,"password":"DKXfWwc4ebscpXTKpbt85rSH","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1399 |14.17Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":49126,"password":"wrCaGtrUbzeRqQLdc8Kmk3Nd","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1400 |15.41Mb","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":48938,"password":"4ejJ8n5ddLuYDUHGXJre2ufJ","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1401 |22.10Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":47121,"password":"CTK8GXFQgKYQErrghPJfZ6tk","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1402 |19.06Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":50024,"password":"b2jDPHUQxCNa2KmGHZjy7C4B","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1403 |20.19Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":47027,"password":"Vt5pBJFwdtNB26cJbTXxm88Z","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1404 |16.00Mb","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":38620,"password":"Kquv5UhvZXNMemAQy8DxZ7qn","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1405 |16.91Mb","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":38620,"password":"Kquv5UhvZXNMemAQy8DxZ7qn","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1406 |18.75Mb","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":42304,"password":"p26v2JwhQVHDHsXk66fXt56r","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1407 |20.34Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":38742,"password":"DKXfWwc4ebscpXTKpbt85rSH","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1408 |20.38Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":44820,"password":"jspgz9G3VmvBMCgMUWLBaZHu","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1409 |19.82Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":41676,"password":"z6pH3RyttkRWhJ5tpRyt6dYk","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1410 |19.61Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":43893,"password":"YyCBeDdYX4cadHpCkkmdJLq8","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1411 |23.23Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1412 |20.86Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":48794,"password":"r9Q3adc3ru9sfBDPEj4yp6U6","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1413 |17.81Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":42304,"password":"p26v2JwhQVHDHsXk66fXt56r","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1414 |18.63Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1415 |19.02Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1416 |18.05Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1417 |18.03Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1418 |18.94Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":45329,"password":"CXSjgD7u7Ar7GxkZ4CgTMUsj","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1419 |17.79Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":34815,"password":"LkFAzkzXkSCRYa2CsRdL8cGb","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1420 |20.35Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":38620,"password":"Kquv5UhvZXNMemAQy8DxZ7qn","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1421 |16.24Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1422 |25.73Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":32843,"password":"G35YSR2LFNEM9bq2dkjmKQRr","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1423 |23.65Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1424 |18.88Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1425 |18.55Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":47027,"password":"Vt5pBJFwdtNB26cJbTXxm88Z","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1426 |21.38Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1427 |15.81Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1428 |13.10Mb","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":44820,"password":"jspgz9G3VmvBMCgMUWLBaZHu","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1429 |19.95Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":49339,"password":"suucSeVLmt6PQKAP77NtGw9x","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1430 |19.86Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":49339,"password":"suucSeVLmt6PQKAP77NtGw9x","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1431 |10.28Mb","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":49339,"password":"suucSeVLmt6PQKAP77NtGw9x","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1432 |24.56Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1433 |16.22Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":49339,"password":"suucSeVLmt6PQKAP77NtGw9x","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1434 |18.79Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1435 |22.46Mb","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1436 |18.76Mb","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":47027,"password":"Vt5pBJFwdtNB26cJbTXxm88Z","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1437 |18.39Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":44820,"password":"jspgz9G3VmvBMCgMUWLBaZHu","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1438 |18.51Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1439 |17.34Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":44820,"password":"jspgz9G3VmvBMCgMUWLBaZHu","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1440 |21.14Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":34815,"password":"LkFAzkzXkSCRYa2CsRdL8cGb","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1441 |16.58Mb","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1442 |13.27Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":34815,"password":"LkFAzkzXkSCRYa2CsRdL8cGb","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1443 |16.17Mb","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":48938,"password":"4ejJ8n5ddLuYDUHGXJre2ufJ","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1444 |23.32Mb","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":44236,"password":"FWrXcxPZjJxAN89xLgqY3Acp","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1445 |17.75Mb","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":40220,"password":"ugyBkSEFxVEmUYSHyvxmWNj9","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1446 |25.87Mb","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":44236,"password":"FWrXcxPZjJxAN89xLgqY3Acp","cipher":"aes-256-gcm"}
-- {"name":"🇦🇿AZ_1447 |28.84Mb","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":49126,"password":"wrCaGtrUbzeRqQLdc8Kmk3Nd","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1217","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":48938,"password":"4ejJ8n5ddLuYDUHGXJre2ufJ","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1218","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":49126,"password":"wrCaGtrUbzeRqQLdc8Kmk3Nd","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1219","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":34815,"password":"LkFAzkzXkSCRYa2CsRdL8cGb","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1220","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":47121,"password":"CTK8GXFQgKYQErrghPJfZ6tk","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1221","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1222","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":48938,"password":"4ejJ8n5ddLuYDUHGXJre2ufJ","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1223","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":44820,"password":"jspgz9G3VmvBMCgMUWLBaZHu","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1224","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":50024,"password":"b2jDPHUQxCNa2KmGHZjy7C4B","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1225","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1226","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1227","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":44820,"password":"jspgz9G3VmvBMCgMUWLBaZHu","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1228","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1229","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1230","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":49339,"password":"suucSeVLmt6PQKAP77NtGw9x","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1231","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":49339,"password":"suucSeVLmt6PQKAP77NtGw9x","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1232","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":44820,"password":"jspgz9G3VmvBMCgMUWLBaZHu","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1233","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1234","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1235","server":"62.212.239.44","type":"ss","country":"🇦🇿AZ","port":50232,"password":"CjchzpwdSjRtDjezYMwx9BKM","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1236","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":42304,"password":"p26v2JwhQVHDHsXk66fXt56r","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1237","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":48938,"password":"4ejJ8n5ddLuYDUHGXJre2ufJ","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1238","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":34815,"password":"LkFAzkzXkSCRYa2CsRdL8cGb","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1239","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1240","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":49653,"password":"Y9GcTPemHMKEkrfGQPJqFDNr","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1241","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":50232,"password":"CjchzpwdSjRtDjezYMwx9BKM","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1242","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":49653,"password":"Y9GcTPemHMKEkrfGQPJqFDNr","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1243","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":41676,"password":"z6pH3RyttkRWhJ5tpRyt6dYk","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1244","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1245","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":38620,"password":"Kquv5UhvZXNMemAQy8DxZ7qn","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1246","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":38742,"password":"DKXfWwc4ebscpXTKpbt85rSH","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1247","server":"62.212.239.43","type":"ss","country":"🇦🇿AZ","port":50232,"password":"CjchzpwdSjRtDjezYMwx9BKM","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1248","server":"62.212.239.43","type":"ss","country":"🇦🇿AZ","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1249","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":45746,"password":"wEsFcHCvbL4eJkL4DZQa7RgR","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1250","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":44236,"password":"FWrXcxPZjJxAN89xLgqY3Acp","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1251","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":41676,"password":"z6pH3RyttkRWhJ5tpRyt6dYk","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1252","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":50232,"password":"CjchzpwdSjRtDjezYMwx9BKM","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1253","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":50232,"password":"CjchzpwdSjRtDjezYMwx9BKM","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1254","server":"94.20.154.59","type":"ss","country":"🇦🇿AZ","port":50232,"password":"CjchzpwdSjRtDjezYMwx9BKM","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1255","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":50024,"password":"b2jDPHUQxCNa2KmGHZjy7C4B","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1256","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":44820,"password":"jspgz9G3VmvBMCgMUWLBaZHu","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1257","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":47027,"password":"Vt5pBJFwdtNB26cJbTXxm88Z","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1258","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":38742,"password":"DKXfWwc4ebscpXTKpbt85rSH","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1259","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1260","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1261","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":48938,"password":"4ejJ8n5ddLuYDUHGXJre2ufJ","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1262","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":38620,"password":"Kquv5UhvZXNMemAQy8DxZ7qn","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1263","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":42304,"password":"p26v2JwhQVHDHsXk66fXt56r","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1264","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":34815,"password":"LkFAzkzXkSCRYa2CsRdL8cGb","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1265","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":44236,"password":"FWrXcxPZjJxAN89xLgqY3Acp","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1266","server":"62.212.239.43","type":"ss","country":"🇦🇿AZ","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1267","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1268","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":33998,"password":"NHwQTPLCfaTMSqTnU3mjcSxe","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1269","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1270","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1271","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":49653,"password":"Y9GcTPemHMKEkrfGQPJqFDNr","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1272","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":46642,"password":"gYL83DQWXuDbxmZAVVtUTXaK","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1273","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":33998,"password":"NHwQTPLCfaTMSqTnU3mjcSxe","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1274","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":47027,"password":"Vt5pBJFwdtNB26cJbTXxm88Z","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1275","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1276","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1277","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1278","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1279","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1280","server":"94.20.154.59","type":"ss","country":"🇦🇿AZ","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1281","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":37473,"password":"enctdKyJfSu76VqznKwTt6Ap","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1282","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1283","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":49126,"password":"wrCaGtrUbzeRqQLdc8Kmk3Nd","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1284","server":"62.212.239.44","type":"ss","country":"🇦🇿AZ","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1285","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":46642,"password":"gYL83DQWXuDbxmZAVVtUTXaK","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1286","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":40220,"password":"ugyBkSEFxVEmUYSHyvxmWNj9","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1287","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":31764,"password":"YgusH2MWA8PWc3p2VDsR7AVv","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1288","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":46642,"password":"gYL83DQWXuDbxmZAVVtUTXaK","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1289","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":49126,"password":"wrCaGtrUbzeRqQLdc8Kmk3Nd","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1290","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":49339,"password":"suucSeVLmt6PQKAP77NtGw9x","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1291","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":44236,"password":"FWrXcxPZjJxAN89xLgqY3Acp","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1292","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":49339,"password":"suucSeVLmt6PQKAP77NtGw9x","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1293","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1294","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":47027,"password":"Vt5pBJFwdtNB26cJbTXxm88Z","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1295","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":39772,"password":"CUndSZnYsPKcu6Kj8THVMBHD","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1296","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":32843,"password":"G35YSR2LFNEM9bq2dkjmKQRr","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1297","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1298","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":38620,"password":"Kquv5UhvZXNMemAQy8DxZ7qn","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1299","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":34815,"password":"LkFAzkzXkSCRYa2CsRdL8cGb","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1300","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":45329,"password":"CXSjgD7u7Ar7GxkZ4CgTMUsj","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1301","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1302","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":31764,"password":"YgusH2MWA8PWc3p2VDsR7AVv","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1303","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1304","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1305","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":42304,"password":"p26v2JwhQVHDHsXk66fXt56r","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1306","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":31764,"password":"YgusH2MWA8PWc3p2VDsR7AVv","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1307","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":48794,"password":"r9Q3adc3ru9sfBDPEj4yp6U6","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1308","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1309","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":43893,"password":"YyCBeDdYX4cadHpCkkmdJLq8","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1310","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":41676,"password":"z6pH3RyttkRWhJ5tpRyt6dYk","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1311","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":44820,"password":"jspgz9G3VmvBMCgMUWLBaZHu","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1312","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":38742,"password":"DKXfWwc4ebscpXTKpbt85rSH","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1313","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":49126,"password":"wrCaGtrUbzeRqQLdc8Kmk3Nd","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1314","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1315","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":48794,"password":"r9Q3adc3ru9sfBDPEj4yp6U6","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1316","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1317","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":33998,"password":"NHwQTPLCfaTMSqTnU3mjcSxe","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1318","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1319","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":31944,"password":"aYNeKDMzYQYw4KbUbJA8Wszq","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1320","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":31764,"password":"YgusH2MWA8PWc3p2VDsR7AVv","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1321","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":42304,"password":"p26v2JwhQVHDHsXk66fXt56r","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1322","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":49653,"password":"Y9GcTPemHMKEkrfGQPJqFDNr","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1323","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":49653,"password":"Y9GcTPemHMKEkrfGQPJqFDNr","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1324","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":31764,"password":"YgusH2MWA8PWc3p2VDsR7AVv","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1325","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":31764,"password":"YgusH2MWA8PWc3p2VDsR7AVv","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1326","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1327","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":49653,"password":"Y9GcTPemHMKEkrfGQPJqFDNr","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1328","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":45329,"password":"CXSjgD7u7Ar7GxkZ4CgTMUsj","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1329","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":33998,"password":"NHwQTPLCfaTMSqTnU3mjcSxe","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1330","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1331","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":38742,"password":"DKXfWwc4ebscpXTKpbt85rSH","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1332","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":50024,"password":"b2jDPHUQxCNa2KmGHZjy7C4B","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1333","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":46642,"password":"gYL83DQWXuDbxmZAVVtUTXaK","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1334","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":47121,"password":"CTK8GXFQgKYQErrghPJfZ6tk","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1335","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":48938,"password":"4ejJ8n5ddLuYDUHGXJre2ufJ","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1336","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":46642,"password":"gYL83DQWXuDbxmZAVVtUTXaK","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1337","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":50024,"password":"b2jDPHUQxCNa2KmGHZjy7C4B","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1338","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":48794,"password":"r9Q3adc3ru9sfBDPEj4yp6U6","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1339","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":48938,"password":"4ejJ8n5ddLuYDUHGXJre2ufJ","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1340","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":38620,"password":"Kquv5UhvZXNMemAQy8DxZ7qn","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1341","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":47121,"password":"CTK8GXFQgKYQErrghPJfZ6tk","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1342","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":47121,"password":"CTK8GXFQgKYQErrghPJfZ6tk","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1343","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1344","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":33998,"password":"NHwQTPLCfaTMSqTnU3mjcSxe","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1345","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1346","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":38620,"password":"Kquv5UhvZXNMemAQy8DxZ7qn","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1347","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":38742,"password":"DKXfWwc4ebscpXTKpbt85rSH","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1348","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":44236,"password":"FWrXcxPZjJxAN89xLgqY3Acp","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1349","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":44236,"password":"FWrXcxPZjJxAN89xLgqY3Acp","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1350","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":41676,"password":"z6pH3RyttkRWhJ5tpRyt6dYk","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1351","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":49126,"password":"wrCaGtrUbzeRqQLdc8Kmk3Nd","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1352","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":41676,"password":"z6pH3RyttkRWhJ5tpRyt6dYk","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1353","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":38620,"password":"Kquv5UhvZXNMemAQy8DxZ7qn","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1354","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":41676,"password":"z6pH3RyttkRWhJ5tpRyt6dYk","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1355","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1356","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1357","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":45329,"password":"CXSjgD7u7Ar7GxkZ4CgTMUsj","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1358","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":45329,"password":"CXSjgD7u7Ar7GxkZ4CgTMUsj","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1359","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":47027,"password":"Vt5pBJFwdtNB26cJbTXxm88Z","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1360","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":50168,"password":"WCuz7yrfZSCQQXSNrtGPz2HT","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1361","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":47121,"password":"CTK8GXFQgKYQErrghPJfZ6tk","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1362","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":49653,"password":"Y9GcTPemHMKEkrfGQPJqFDNr","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1363","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1364","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":41676,"password":"z6pH3RyttkRWhJ5tpRyt6dYk","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1365","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":48794,"password":"r9Q3adc3ru9sfBDPEj4yp6U6","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1366","server":"94.20.154.61","type":"ss","country":"🇦🇿AZ","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1367","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":48794,"password":"r9Q3adc3ru9sfBDPEj4yp6U6","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1368","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":42304,"password":"p26v2JwhQVHDHsXk66fXt56r","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1369","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":49339,"password":"suucSeVLmt6PQKAP77NtGw9x","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1370","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":38742,"password":"DKXfWwc4ebscpXTKpbt85rSH","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1371","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":45329,"password":"CXSjgD7u7Ar7GxkZ4CgTMUsj","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1372","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":37588,"password":"kD9vkjnE6dsUzwQfvKkPkQAd","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1373","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":49126,"password":"wrCaGtrUbzeRqQLdc8Kmk3Nd","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1374","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":33998,"password":"NHwQTPLCfaTMSqTnU3mjcSxe","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1375","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1376","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":44236,"password":"FWrXcxPZjJxAN89xLgqY3Acp","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1377","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":50024,"password":"b2jDPHUQxCNa2KmGHZjy7C4B","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1378","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":40093,"password":"x23Z4LGkGDkThZ9Kaz4DURQp","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1379","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":47027,"password":"Vt5pBJFwdtNB26cJbTXxm88Z","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1380","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":48794,"password":"r9Q3adc3ru9sfBDPEj4yp6U6","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1381","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":47121,"password":"CTK8GXFQgKYQErrghPJfZ6tk","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1382","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":33992,"password":"8n6pwAcrrv2pj6tFY2p3TbQ6","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1383","server":"62.212.239.67","type":"ss","country":"🇦🇿AZ","port":50024,"password":"b2jDPHUQxCNa2KmGHZjy7C4B","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1384","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":33148,"password":"CMduaFXddcQbwNAAs7xFDnc8","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1385","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":31764,"password":"YgusH2MWA8PWc3p2VDsR7AVv","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1386","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":44820,"password":"jspgz9G3VmvBMCgMUWLBaZHu","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1387","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":47121,"password":"CTK8GXFQgKYQErrghPJfZ6tk","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1388","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":31572,"password":"n8w4StnbVD9dmXYn4Ajt87EA","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1389","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":43893,"password":"YyCBeDdYX4cadHpCkkmdJLq8","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1390","server":"62.212.239.53","type":"ss","country":"🇦🇿AZ","port":45329,"password":"CXSjgD7u7Ar7GxkZ4CgTMUsj","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1391","server":"62.212.239.45","type":"ss","country":"🇦🇿AZ","port":44820,"password":"jspgz9G3VmvBMCgMUWLBaZHu","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1392","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":34815,"password":"LkFAzkzXkSCRYa2CsRdL8cGb","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1393","server":"62.212.239.51","type":"ss","country":"🇦🇿AZ","port":35294,"password":"J9Y2ncrdPEC38gwydNFFGBna","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1394","server":"62.212.239.69","type":"ss","country":"🇦🇿AZ","port":42304,"password":"p26v2JwhQVHDHsXk66fXt56r","cipher":"aes-256-gcm"}
+- {"name":"🇦🇿AZ_1395","server":"94.20.154.69","type":"ss","country":"🇦🇿AZ","port":46642,"password":"gYL83DQWXuDbxmZAVVtUTXaK","cipher":"aes-256-gcm"}
