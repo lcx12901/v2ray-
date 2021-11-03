@@ -268,6 +268,8 @@ rules:
   - RULE-SET,reject,REJECT
   - RULE-SET,icloud,DIRECT
   - RULE-SET,apple,DIRECT
+  - GEOIP,CN,DIRECT
+  - RULE-SET,direct,DIRECT
   - RULE-SET,baha,📺 巴哈姆特
   #- RULE-SET,proxy,♻️ 自动选择
   - DOMAIN-SUFFIX,msftconnecttest.com,♻️ 自动选择
@@ -276,8 +278,5 @@ rules:
   - RULE-SET,xbox,♻️ 自动选择
   - RULE-SET,steam,♻️ 自动选择
   - RULE-SET,epic,♻️ 自动选择
-  - RULE-SET,direct,DIRECT
   - RULE-SET,telegramcidr,♻️ 自动选择
-  - GEOIP,,DIRECT
-  - GEOIP,CN,DIRECT
   - MATCH,♻️ 自动选择
