@@ -193,4 +193,4 @@ rules:
   - RULE-SET,proxy,♻️ 自动选择
   - RULE-SET,google,♻️ 自动选择
   - DOMAIN-SUFFIX,msftconnecttest.com,♻️ 自动选择
-  - MATCH,DIRECT
+  - MATCH,♻️ 自动选择
