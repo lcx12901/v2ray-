@@ -189,7 +189,7 @@ rules:
   - RULE-SET,apple,DIRECT
   - GEOIP,CN,DIRECT
   - RULE-SET,direct,DIRECT
-  - Rule-SET,proxyme,♻️ 自动选择
+  - RULE-SET,proxyme,♻️ 自动选择
   - RULE-SET,proxy,♻️ 自动选择
   - RULE-SET,google,♻️ 自动选择
   - DOMAIN-SUFFIX,msftconnecttest.com,♻️ 自动选择
