@@ -118,91 +118,40 @@ rule-providers:
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/reject.txt"
     path: ./ruleset/reject.yaml
     interval: 86400
+
   icloud:
     type: http
     behavior: domain
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/icloud.txt"
     path: ./ruleset/icloud.yaml
     interval: 86400
+
   apple:
     type: http
     behavior: domain
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/apple.txt"
     path: ./ruleset/apple.yaml
     interval: 86400
-  proxyLite:
+
+  google:
     type: http
-    behavior: classical
-    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/proxyLite.yaml"
-    path: ./ruleset/proxyLite.yaml
-  #proxy:
-    #type: http
-    #behavior: domain
-    #url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt"
-    #path: ./ruleset/proxy.yaml
-    #interval: 86400
-  Microsoft:
-    type: http
-    behavior: classical
-    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/Microsoft.yaml"
-    path: ./ruleset/Microsoft.yaml
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/google.txt"
+    path: ./ruleset/google.yaml
     interval: 86400
-  xbox:
+
+  proxy:
     type: http
-    behavior: classical
-    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/xbox.yaml"
-    path: ./ruleset/xbox.yaml
+    behavior: domain
+    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/proxy.txt"
+    path: ./ruleset/proxy.yaml
     interval: 86400
-  steam:
-    type: http
-    behavior: classical
-    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/steam.yaml"
-    path: ./ruleset/steam.yaml
-    interval: 86400
-  epic:
-    type: http
-    behavior: classical
-    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/epic.yaml"
-    path: ./ruleset/epic.yaml
-    interval: 86400
-  baha:
-    type: http
-    behavior: classical
-    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/baha.yaml"
-    path: ./ruleset/baha.yaml
-    interval: 86400
+
   direct:
     type: http
     behavior: domain
     url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/direct.txt"
     path: ./ruleset/direct.yaml
-    interval: 86400
-  gfw:
-    type: http
-    behavior: domain
-    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/gfw.txt"
-    path: ./ruleset/gfw.yaml
-    interval: 86400
-
-  greatfire:
-    type: http
-    behavior: domain
-    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/greatfire.txt"
-    path: ./ruleset/greatfire.yaml
-    interval: 86400
-
-  tld-not-cn:
-    type: http
-    behavior: domain
-    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/tld-not-cn.txt"
-    path: ./ruleset/tld-not-cn.yaml
-    interval: 86400
-
-  telegramcidr:
-    type: http
-    behavior: ipcidr
-    url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/telegramcidr.txt"
-    path: ./ruleset/telegramcidr.yaml
     interval: 86400
 
   cncidr:
@@ -270,13 +219,7 @@ rules:
   - RULE-SET,apple,DIRECT
   - GEOIP,CN,DIRECT
   - RULE-SET,direct,DIRECT
-  - RULE-SET,baha,📺 巴哈姆特
-  #- RULE-SET,proxy,♻️ 自动选择
+  - RULE-SET,proxy,♻️ 自动选择
+  - RULE-SET,google,♻️ 自动选择
   - DOMAIN-SUFFIX,msftconnecttest.com,♻️ 自动选择
-  - RULE-SET,proxyLite,♻️ 自动选择
-  - RULE-SET,Microsoft,♻️ 自动选择
-  - RULE-SET,xbox,♻️ 自动选择
-  - RULE-SET,steam,♻️ 自动选择
-  - RULE-SET,epic,♻️ 自动选择
-  - RULE-SET,telegramcidr,♻️ 自动选择
   - MATCH,♻️ 自动选择
