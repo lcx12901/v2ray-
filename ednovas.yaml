@@ -5,7 +5,7 @@ mode: Rule
 log-level: info
 external-controller: :9090
 # https://proxies.bihai.cf/clash/proxies?nc=CN,TW,HK,JP,US,CA,SG,GB,FR,KR,CY,ZZ
-# 	https://ednovas.design/clash/proxies?nc=CN,TW,HK,JP,US,CA,SG,GB,FR,KR,CY,ZZ
+# https://ednovas.design/clash/proxies?nc=CN,TW,HK,JP,US,CA,SG,GB,FR,KR,CY,ZZ
 # https://raw.githubusercontent.com/lcx12901/v2ray-/master/sspool.herokuapp.com/bihai.yaml
 # https://raw.githubusercontent.com/lcx12901/v2ray-/master/sspool.herokuapp.com/
 proxy-providers:
@@ -123,8 +123,8 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - bihai
-      - ednovas
+      - 😜 碧海
+      - 💯 ednovas
       - v2cross.com
       - v2cross.com 2
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 15
