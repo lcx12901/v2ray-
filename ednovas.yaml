@@ -313,14 +313,14 @@ rules:
   - PROCESS-NAME,transmission-qt.exe,DIRECT
   - PROCESS-NAME,uTorrent.exe,DIRECT
   - PROCESS-NAME,WebTorrent.exe,DIRECT
-  - PROCESS-NAME,Clash for Windows,♻️ 自动选择
+  - PROCESS-NAME,Clash for Windows,♻️ 手动选择
   - DOMAIN,clash.razord.top,DIRECT
   - DOMAIN,yacd.haishan.me,DIRECT
   - RULE-SET,mydirect,DIRECT
   - RULE-SET,reject,REJECT
   - RULE-SET,Hijacking,REJECT
   - RULE-SET,Privacy,REJECT
-  - RULE-SET,proxyme,♻️ 自动选择
-  - RULE-SET,proxy,♻️ 自动选择
+  - RULE-SET,proxyme,♻️ 手动选择
+  - RULE-SET,proxy,♻️ 手动选择
   - GEOIP,CN,DIRECT
   - MATCH,DIRECT
