@@ -3,9 +3,20 @@ payload:
   #- DOMAIN,www.msftconnecttest.com
   - DOMAIN,sspool.herokuapp.com
   - DOMAIN,ednovas.design
-  - DOMAIN,happyemby.911997.xyz
+  - DOMAIN,imagetwist.com
+  - DOMAIN,vxotu.com
+  - DOMAIN,79img.com
+  - DOMAIN-KEYWORD,xyz
   - DOMAIN-KEYWORD,sijishe
   - DOMAIN-SUFFIX,futa404.com
+  - DOMAIN,javdb32.com
+  - DOMAIN,jmsooo.com
+  - DOMAIN,proxies.bihai.cf
+  - DOMAIN,rutracker.org
+  - DOMAIN-SUFFIX,php.net
+  - DOMAIN-SUFFIX,lottiefiles.com
+  - DOMAIN-SUFFIX,figma.com
+  - DOMAIN-KEYWORD,vuepress-reco
   # Developer 开发者常用国外网站、镜像和论坛
   - DOMAIN-SUFFIX,apache.org
   - DOMAIN-SUFFIX,docker.com
@@ -28,6 +39,7 @@ payload:
   - DOMAIN-SUFFIX,stackoverflow.com
   - DOMAIN-SUFFIX,nuxtjs.cn
   - DOMAIN-SUFFIX,liuli.cat
+  - DOMAIN-SUFFIX,yarnpkg.com
   
    # Github
   - DOMAIN-SUFFIX,atom.io
