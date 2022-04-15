@@ -247,7 +247,7 @@ rule-providers:
   GTAR2:
     type: http
     behavior: classical
-    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/GTA-R.yaml"
+    url: "https://raw.githubusercontent.com/lcx12901/v2ray-/master/ruleset/GTA-R.yaml"
     path: ./ruleset/GTA-R.yaml
     interval: 86400
   baha:
