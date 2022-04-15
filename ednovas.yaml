@@ -4,6 +4,27 @@ allow-lan: true
 mode: Rule
 log-level: info
 external-controller: :9090
+# https://proxies.bihai.cf/clash/proxies?nc=CN,TW,HK,JP,US,CA,SG,GB,FR,KR,CY,ZZ
+# 	https://ednovas.design/clash/proxies?nc=CN,TW,HK,JP,US,CA,SG,GB,FR,KR,CY,ZZ
+# https://raw.githubusercontent.com/lcx12901/v2ray-/master/sspool.herokuapp.com/bihai.yaml
+# https://raw.githubusercontent.com/lcx12901/v2ray-/master/sspool.herokuapp.com/
+proxy-providers:
+  bihai:
+    type: http
+    url: "https://raw.githubusercontent.com/lcx12901/v2ray-/master/sspool.herokuapp.com/bihai.yaml"
+    path: sspool.herokuapp.com/bihai.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+  ednovas:
+    type: http
+    url: "https://raw.githubusercontent.com/lcx12901/v2ray-/master/sspool.herokuapp.com/ednovas.yaml"
+    path: sspool.herokuapp.com/bihai.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
 proxies:
   - {name: v2cross.com, server: ce.rutracker-cn.com, port: 443, type: trojan, password: 5y8y3CwxRVYhyfSY, sni: ce.rutracker-cn.com, skip-cert-verify: false, udp: true}
   - {name: v2cross.com 2, server: cd.rutracker-cn.com, port: 443, type: trojan, password: ukMzuFSmIXDvgW0h, sni: cd.rutracker-cn.com, skip-cert-verify: false, udp: true}
@@ -82,12 +103,28 @@ proxies:
   - {name: "|84.31Mb", server: vn.mumi.bid, port: 10125, type: vmess, uuid: 83ae9f04-47f0-4e34-9a1c-9c2e5161f586, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /, ws-headers: {Host: vn.mumi.bid}, udp: true}
   - {name: 🇸🇬 SG_122, server: 1.ezydfdd.com, port: 443, type: vmess, uuid: 0e5b46b6-699d-4aca-8fb3-a8e7b4270ed9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /qwe, ws-headers: {Host: 1.ezydfdd.com}, udp: true}
 proxy-groups:
-  - name: ♻️ 自动选择
-    type: url-test
+  - name: 😜 碧海
+    type: select
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    use:
+      - bihai
+  - name: 💯 ednovas
+    type: select
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    use:
+      - ednovas
+  - name: ♻️ 手动选择
+    type: select
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     proxies:
+      - bihai
+      - ednovas
       - v2cross.com
       - v2cross.com 2
       - 🇺🇸 github.com/freefq - 美国CloudFlare节点 15
@@ -183,7 +220,7 @@ rule-providers:
   mydirect:
     type: http
     behavior: domain
-    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/mydirect.yaml"
+    url: "https://raw.githubusercontent.com/lcx12901/v2ray-/master/ruleset/mydirect.yaml"
     path: ./ruleset/mydirect.yaml
     interval: 86400
 
@@ -204,7 +241,7 @@ rule-providers:
   proxyme:
     type: http
     behavior: classical
-    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/proxyme.yaml"
+    url: "https://raw.githubusercontent.com/lcx12901/v2ray-/master/ruleset/proxyme.yaml"
     path: ./ruleset/proxyme.yaml
     interval: 86400
   GTAR2:
@@ -216,7 +253,7 @@ rule-providers:
   baha:
     type: http
     behavior: classical
-    url: "https://gitee.com/lcx12901/clash-profile/raw/master/ruleset/baha.yaml"
+    url: "https://raw.githubusercontent.com/lcx12901/v2ray-/master/ruleset/baha.yaml"
     path: ./ruleset/baha.yaml
     interval: 86400
   Hijacking:
