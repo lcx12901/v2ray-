@@ -218,7 +218,7 @@ rule-providers:
   mydirect:
     type: http
     behavior: domain
-    url: "https://raw.githubusercontent.com/lcx12901/v2ray-/master/ruleset/mydirect.yaml"
+    url: "https://cdn.jsdelivr.net/gh/lcx12901/v2ray-@master/ruleset/mydirect.yaml"
     path: ./ruleset/mydirect.yaml
     interval: 86400
 
@@ -239,19 +239,19 @@ rule-providers:
   proxyme:
     type: http
     behavior: classical
-    url: "https://raw.githubusercontent.com/lcx12901/v2ray-/master/ruleset/proxyme.yaml"
+    url: "https://cdn.jsdelivr.net/gh/lcx12901/v2ray-@master/ruleset/proxyme.yaml"
     path: ./ruleset/proxyme.yaml
     interval: 86400
   GTAR2:
     type: http
     behavior: classical
-    url: "https://raw.githubusercontent.com/lcx12901/v2ray-/master/ruleset/GTA-R.yaml"
+    url: "https://cdn.jsdelivr.net/gh/lcx12901/v2ray-@master/ruleset/GTA-R.yaml"
     path: ./ruleset/GTA-R.yaml
     interval: 86400
   baha:
     type: http
     behavior: classical
-    url: "https://raw.githubusercontent.com/lcx12901/v2ray-/master/ruleset/baha.yaml"
+    url: "https://cdn.jsdelivr.net/gh/lcx12901/v2ray-@master/ruleset/baha.yaml"
     path: ./ruleset/baha.yaml
     interval: 86400
   Hijacking:
