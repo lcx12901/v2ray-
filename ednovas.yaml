@@ -11,7 +11,7 @@ external-controller: :9090
 proxy-providers:
   bihai:
     type: http
-    url: "https://cdn.jsdelivr.net/gh/lcx12901/v2ray-@master/sspool.herokuapp.com/bihai.yaml"
+    url: "https://v2ray-lcx12901.vercel.app/sspool.herokuapp.com/bihai.yaml"
     path: sspool.herokuapp.com/bihai.yaml
     health-check:
       enable: true
@@ -19,7 +19,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   ednovas:
     type: http
-    url: "https://cdn.jsdelivr.net/gh/lcx12901/v2ray-@master/sspool.herokuapp.com/ednovas.yaml"
+    url: "https://v2ray-lcx12901.vercel.app/sspool.herokuapp.com/ednovas.yaml"
     path: sspool.herokuapp.com/bihai.yaml
     health-check:
       enable: true
@@ -27,7 +27,7 @@ proxy-providers:
       url: http://www.gstatic.com/generate_204
   other:
     type: http
-    url: "https://cdn.jsdelivr.net/gh/lcx12901/v2ray-@master/sspool.herokuapp.com/provider-other.yaml"
+    url: "https://v2ray-lcx12901.vercel.app/sspool.herokuapp.com/provider-other.yaml"
     path: sspool.herokuapp.com/provider-other.yaml
     health-check:
       enable: true
@@ -83,7 +83,7 @@ rule-providers:
   mydirect:
     type: http
     behavior: domain
-    url: "https://cdn.jsdelivr.net/gh/lcx12901/v2ray-@master/ruleset/mydirect.yaml"
+    url: "https://v2ray-lcx12901.vercel.app/ruleset/mydirect.yaml"
     path: ./ruleset/mydirect.yaml
     interval: 86400
 
@@ -104,19 +104,19 @@ rule-providers:
   proxyme:
     type: http
     behavior: classical
-    url: "https://cdn.jsdelivr.net/gh/lcx12901/v2ray-@master/ruleset/proxyme.yaml"
+    url: "https://v2ray-lcx12901.vercel.app/ruleset/proxyme.yaml"
     path: ./ruleset/proxyme.yaml
     interval: 86400
   GTAR2:
     type: http
     behavior: classical
-    url: "https://cdn.jsdelivr.net/gh/lcx12901/v2ray-@master/ruleset/GTA-R.yaml"
+    url: "https://v2ray-lcx12901.vercel.app/ruleset/GTA-R.yaml"
     path: ./ruleset/GTA-R.yaml
     interval: 86400
   baha:
     type: http
     behavior: classical
-    url: "https://cdn.jsdelivr.net/gh/lcx12901/v2ray-@master/ruleset/baha.yaml"
+    url: "https://v2ray-lcx12901.vercel.app/ruleset/baha.yaml"
     path: ./ruleset/baha.yaml
     interval: 86400
   Hijacking:
