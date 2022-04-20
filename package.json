@@ -1,0 +1,9 @@
+{
+  "name": "v2ray-",
+  "version": "1.0.0",
+  "description": "collection node",
+  "main": "index.html",
+  "repository": "https://github.com/lcx12901/v2ray-.git",
+  "author": "lcx12901 <wktl1991504424@gmail.com>",
+  "license": "MIT"
+}
