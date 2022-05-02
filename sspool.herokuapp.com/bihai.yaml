@@ -1,124 +1,51 @@
 proxies:
-  - {"name":"🇨🇳CN中国220141_1","server":"trojan.linkdns.xyz","port":40207,"type":"trojan","country":"🇨🇳CN中国220141_1","skip-cert-verify":true,"udp":true,"password":"9e92cf38-9f6b-3bae-8061-271f9d0e4ae2"}
-  - {"name":"🇨🇳CN中国220142_2","server":"sh.cu.01.211129.xyz","port":54356,"type":"trojan","country":"🇨🇳CN中国220142_2","skip-cert-verify":true,"udp":true,"password":"a7f7db62-1863-4f80-9d4d-656151994926","sni":"awskr2.698436.xyz"}
-  - {"name":"🇺🇸US美国220143_3","server":"kr1.qingyun123.xyz","port":10050,"type":"trojan","country":"🇺🇸US美国220143_3","skip-cert-verify":true,"udp":true,"password":"4f278153-2043-412e-a5eb-ea730d5978e1"}
-  - {"name":"🇨🇳CN中国220144_4","server":"119.147.20.236","port":38701,"type":"vmess","uuid":"79386685-16da-327c-9e14-aa6d702d86bc","alterId":1,"cipher":"auto","country":"🇨🇳CN中国220144_4","skip-cert-verify":true,"tls":false,"network":"ws"}
-  - {"name":"🇷🇺RU俄罗斯联邦220145_5","server":"412twtw.fans8.xyz","port":443,"type":"vmess","uuid":"5c70da5d-e641-3bf8-b7dc-5babd843ff3c","alterId":2,"cipher":"auto","country":"🇷🇺RU俄罗斯联邦220145_5","skip-cert-verify":true,"tls":true,"network":"ws"}
-  - {"name":"🇺🇸US美国220146_6","server":"hk1.qingyun123.xyz","port":10050,"type":"trojan","country":"🇺🇸US美国220146_6","skip-cert-verify":true,"udp":true,"password":"4f278153-2043-412e-a5eb-ea730d5978e1"}
-  - {"name":"🇺🇸US美国220147_7","server":"20.24.144.178","port":8009,"type":"vmess","uuid":"a7c876a7-a838-3083-a970-95571fe7b57f","alterId":0,"cipher":"auto","country":"🇺🇸US美国220147_7","skip-cert-verify":true,"tls":true,"network":"ws"}
-  - {"name":"220148_8","server":"103.172.116.9","port":9011,"type":"ss","country":"220148_8","cipher":"aes-256-cfb","password":"M3t2ZEQcMGRWBjRa"}
-  - {"name":"🇭🇰HK香港220149_9","server":"23.99.123.83","port":8022,"type":"vmess","uuid":"a7c876a7-a838-3083-a970-95571fe7b57f","alterId":0,"cipher":"auto","country":"🇭🇰HK香港220149_9","skip-cert-verify":true,"tls":true,"network":"ws"}
-  - {"name":"🇦🇺AU澳大利亚2201410_10","server":"185.167.116.38","port":9056,"type":"ss","country":"🇦🇺AU澳大利亚2201410_10","cipher":"aes-256-cfb","password":"rNBfNuuANFCAk7KB"}
-  - {"name":"2201411_11","server":"103.172.116.9","port":9026,"type":"ss","country":"2201411_11","cipher":"aes-256-cfb","password":"QWDDvVE9npNurQfA"}
-  - {"name":"🇺🇸US美国2201412_12","server":"in1.qingyun123.xyz","port":443,"type":"trojan","country":"🇺🇸US美国2201412_12","skip-cert-verify":true,"udp":true,"password":"4f278153-2043-412e-a5eb-ea730d5978e1"}
-  - {"name":"🇦🇺AU澳大利亚2201413_13","server":"185.167.116.38","port":9003,"type":"ss","country":"🇦🇺AU澳大利亚2201413_13","cipher":"aes-256-cfb","password":"JdmRK9gMEqFgs8nP"}
-  - {"name":"🇭🇰HK香港2201414_14","server":"104.208.76.5","port":2023,"type":"vmess","uuid":"a7c876a7-a838-3083-a970-95571fe7b57f","alterId":0,"cipher":"auto","country":"🇭🇰HK香港2201414_14","skip-cert-verify":true,"tls":true,"network":"ws"}
-  - {"name":"🇩🇪DE德国2201415_15","server":"5.183.179.145","port":9015,"type":"ss","country":"🇩🇪DE德国2201415_15","cipher":"aes-256-cfb","password":"ZpNDDKRu9MagNvaf"}
-  - {"name":"🇩🇪DE德国2201416_16","server":"5.183.179.145","port":9007,"type":"ss","country":"🇩🇪DE德国2201416_16","cipher":"aes-256-cfb","password":"kSPmvwdFzGMMW5pY"}
-  - {"name":"🇨🇭CH瑞士2201417_17","server":"185.126.116.117","port":9003,"type":"ss","country":"🇨🇭CH瑞士2201417_17","cipher":"aes-256-cfb","password":"JdmRK9gMEqFgs8nP"}
-  - {"name":"🇩🇪DE德国2201418_18","server":"5.183.179.145","port":9073,"type":"ss","country":"🇩🇪DE德国2201418_18","cipher":"aes-256-cfb","password":"daFYagqDdBdA6VTX"}
-  - {"name":"🇨🇭CH瑞士2201419_19","server":"185.126.116.117","port":9027,"type":"ss","country":"🇨🇭CH瑞士2201419_19","cipher":"aes-256-cfb","password":"EXN3S3eQpjE7EJu8"}
-  - {"name":"2201420_20","server":"104.16.162.16","port":2053,"type":"vmess","uuid":"bf67437e-6c90-45ca-abc2-c7240a5ce2aa","alterId":0,"cipher":"auto","country":"2201420_20","skip-cert-verify":true,"tls":true,"network":"ws"}
-  - {"name":"🇩🇪DE德国2201421_21","server":"5.183.179.141","port":9088,"type":"ss","country":"🇩🇪DE德国2201421_21","cipher":"aes-256-cfb","password":"f8npKgNzdkss2ytn"}
-  - {"name":"🇩🇪DE德国2201422_22","server":"5.183.179.140","port":9011,"type":"ss","country":"🇩🇪DE德国2201422_22","cipher":"aes-256-cfb","password":"M3t2ZEQcMGRWBjRa"}
-  - {"name":"🇦🇺AU澳大利亚2201423_23","server":"185.167.116.38","port":9000,"type":"ss","country":"🇦🇺AU澳大利亚2201423_23","cipher":"aes-256-cfb","password":"a3GFYt36Sm82Vys9"}
-  - {"name":"🇩🇪DE德国2201424_24","server":"5.183.179.145","port":9025,"type":"ss","country":"🇩🇪DE德国2201424_24","cipher":"aes-256-cfb","password":"XPtzA9sCug3SPR4c"}
-  - {"name":"🇩🇪DE德国2201425_25","server":"5.183.179.145","port":9003,"type":"ss","country":"🇩🇪DE德国2201425_25","cipher":"aes-256-cfb","password":"JdmRK9gMEqFgs8nP"}
-  - {"name":"🇩🇪DE德国2201426_26","server":"5.183.179.145","port":9014,"type":"ss","country":"🇩🇪DE德国2201426_26","cipher":"aes-256-cfb","password":"KnJGad3FqTvjqbaX"}
-  - {"name":"🇦🇺AU澳大利亚2201427_27","server":"185.167.116.38","port":9046,"type":"ss","country":"🇦🇺AU澳大利亚2201427_27","cipher":"aes-256-cfb","password":"NvS8N4Vf8qAGPSCL"}
-  - {"name":"🇩🇪DE德国2201428_28","server":"5.183.179.148","port":9064,"type":"ss","country":"🇩🇪DE德国2201428_28","cipher":"aes-256-cfb","password":"cp8pRSUAyLhTfVWH"}
-  - {"name":"🇩🇪DE德国2201429_29","server":"5.183.179.148","port":9010,"type":"ss","country":"🇩🇪DE德国2201429_29","cipher":"aes-256-cfb","password":"f63gg8EruDnUrmz4"}
-  - {"name":"🇨🇭CH瑞士2201430_30","server":"185.126.116.117","port":9026,"type":"ss","country":"🇨🇭CH瑞士2201430_30","cipher":"aes-256-cfb","password":"QWDDvVE9npNurQfA"}
-  - {"name":"🇩🇪DE德国2201431_31","server":"5.183.179.148","port":9007,"type":"ss","country":"🇩🇪DE德国2201431_31","cipher":"aes-256-cfb","password":"kSPmvwdFzGMMW5pY"}
-  - {"name":"🇩🇪DE德国2201432_32","server":"5.183.179.148","port":9006,"type":"ss","country":"🇩🇪DE德国2201432_32","cipher":"aes-256-cfb","password":"FAdUvMJUq5vDgKEq"}
-  - {"name":"🇩🇪DE德国2201433_33","server":"5.183.179.137","port":9010,"type":"ss","country":"🇩🇪DE德国2201433_33","cipher":"aes-256-cfb","password":"f63gg8EruDnUrmz4"}
-  - {"name":"🇩🇪DE德国2201434_34","server":"5.183.179.141","port":9045,"type":"ss","country":"🇩🇪DE德国2201434_34","cipher":"aes-256-cfb","password":"Lp27rqyJq72bZsqX"}
-  - {"name":"🇦🇺AU澳大利亚2201435_35","server":"185.167.116.38","port":9037,"type":"ss","country":"🇦🇺AU澳大利亚2201435_35","cipher":"aes-256-cfb","password":"TN2YqghxeFDKZfLU"}
-  - {"name":"🇨🇭CH瑞士2201436_36","server":"185.126.116.117","port":9019,"type":"ss","country":"🇨🇭CH瑞士2201436_36","cipher":"aes-256-cfb","password":"GA9KzeEgvfxNrgmM"}
-  - {"name":"🇩🇪DE德国2201437_37","server":"5.183.179.170","port":9006,"type":"ss","country":"🇩🇪DE德国2201437_37","cipher":"aes-256-cfb","password":"FAdUvMJUq5vDgKEq"}
-  - {"name":"🇩🇪DE德国2201438_38","server":"5.183.179.170","port":9033,"type":"ss","country":"🇩🇪DE德国2201438_38","cipher":"aes-256-cfb","password":"UTJA57ypk2XKQpnm"}
-  - {"name":"🇬🇧GB英国2201439_39","server":"152.89.210.84","port":9037,"type":"ss","country":"🇬🇧GB英国2201439_39","cipher":"aes-256-cfb","password":"TN2YqghxeFDKZfLU"}
-  - {"name":"🇩🇪DE德国2201440_40","server":"5.183.179.145","port":9040,"type":"ss","country":"🇩🇪DE德国2201440_40","cipher":"aes-256-cfb","password":"p9z5BVADH2YFs3MN"}
-  - {"name":"🇩🇪DE德国2201441_41","server":"5.183.179.170","port":9056,"type":"ss","country":"🇩🇪DE德国2201441_41","cipher":"aes-256-cfb","password":"rNBfNuuANFCAk7KB"}
-  - {"name":"🇨🇳CN中国2201442_42","server":"412hkhk.fans8.xyz","port":443,"type":"vmess","uuid":"5c70da5d-e641-3bf8-b7dc-5babd843ff3c","alterId":2,"cipher":"auto","country":"🇨🇳CN中国2201442_42","skip-cert-verify":true,"tls":true,"network":"ws"}
-  - {"name":"🇩🇪DE德国2201443_43","server":"5.183.179.146","port":9097,"type":"ss","country":"🇩🇪DE德国2201443_43","cipher":"aes-256-cfb","password":"Sn5B7jTqr76aCJT8"}
-  - {"name":"🇩🇪DE德国2201444_44","server":"5.183.179.140","port":9003,"type":"ss","country":"🇩🇪DE德国2201444_44","cipher":"aes-256-cfb","password":"JdmRK9gMEqFgs8nP"}
-  - {"name":"🇩🇪DE德国2201445_45","server":"5.183.179.141","port":9084,"type":"ss","country":"🇩🇪DE德国2201445_45","cipher":"aes-256-cfb","password":"c3NtHJ5ujV2tGDfj"}
-  - {"name":"🇨🇭CH瑞士2201446_46","server":"185.126.116.117","port":9050,"type":"ss","country":"🇨🇭CH瑞士2201446_46","cipher":"aes-256-cfb","password":"FG5ddLsMPbV5CutE"}
-  - {"name":"🇩🇪DE德国2201447_47","server":"5.183.179.145","port":9000,"type":"ss","country":"🇩🇪DE德国2201447_47","cipher":"aes-256-cfb","password":"a3GFYt36Sm82Vys9"}
-  - {"name":"🇩🇪DE德国2201448_48","server":"5.183.179.140","port":9042,"type":"ss","country":"🇩🇪DE德国2201448_48","cipher":"aes-256-cfb","password":"S7KwUu7yBy58S3Ga"}
-  - {"name":"🇩🇪DE德国2201449_49","server":"5.183.179.145","port":9006,"type":"ss","country":"🇩🇪DE德国2201449_49","cipher":"aes-256-cfb","password":"FAdUvMJUq5vDgKEq"}
-  - {"name":"🇩🇪DE德国2201450_50","server":"5.183.179.141","port":9025,"type":"ss","country":"🇩🇪DE德国2201450_50","cipher":"aes-256-cfb","password":"XPtzA9sCug3SPR4c"}
-  - {"name":"🇨🇭CH瑞士2201451_51","server":"185.126.116.117","port":9079,"type":"ss","country":"🇨🇭CH瑞士2201451_51","cipher":"aes-256-cfb","password":"TPqX8edgbAURcAMb"}
-  - {"name":"🇨🇭CH瑞士2201452_52","server":"185.126.116.117","port":9088,"type":"ss","country":"🇨🇭CH瑞士2201452_52","cipher":"aes-256-cfb","password":"f8npKgNzdkss2ytn"}
-  - {"name":"🇨🇭CH瑞士2201453_53","server":"185.126.116.117","port":9042,"type":"ss","country":"🇨🇭CH瑞士2201453_53","cipher":"aes-256-cfb","password":"S7KwUu7yBy58S3Ga"}
-  - {"name":"🇩🇪DE德国2201454_54","server":"5.183.179.146","port":9000,"type":"ss","country":"🇩🇪DE德国2201454_54","cipher":"aes-256-cfb","password":"a3GFYt36Sm82Vys9"}
-  - {"name":"🇩🇪DE德国2201455_55","server":"5.183.179.145","port":9018,"type":"ss","country":"🇩🇪DE德国2201455_55","cipher":"aes-256-cfb","password":"fG2artUmHfNT2cX7"}
-  - {"name":"🇩🇪DE德国2201456_56","server":"5.183.179.148","port":9020,"type":"ss","country":"🇩🇪DE德国2201456_56","cipher":"aes-256-cfb","password":"BNmAXXxAHYpTRdzu"}
-  - {"name":"🇨🇭CH瑞士2201457_57","server":"185.126.116.117","port":9025,"type":"ss","country":"🇨🇭CH瑞士2201457_57","cipher":"aes-256-cfb","password":"XPtzA9sCug3SPR4c"}
-  - {"name":"🇬🇧GB英国2201458_58","server":"152.89.210.105","port":9014,"type":"ss","country":"🇬🇧GB英国2201458_58","cipher":"aes-256-cfb","password":"KnJGad3FqTvjqbaX"}
-  - {"name":"🇩🇪DE德国2201459_59","server":"5.183.179.140","port":9010,"type":"ss","country":"🇩🇪DE德国2201459_59","cipher":"aes-256-cfb","password":"f63gg8EruDnUrmz4"}
-  - {"name":"🇩🇪DE德国2201460_60","server":"5.183.179.148","port":9053,"type":"ss","country":"🇩🇪DE德国2201460_60","cipher":"aes-256-cfb","password":"SBM7R883jBmnqe6C"}
-  - {"name":"🇺🇸US美国2201461_61","server":"cloudflare.xrenblog.com","port":443,"type":"vmess","uuid":"6c175d1a-a57f-4881-a471-173eb139694b","alterId":0,"cipher":"auto","country":"🇺🇸US美国2201461_61","skip-cert-verify":true,"tls":true,"network":"ws"}
-  - {"name":"🇩🇪DE德国2201462_62","server":"5.183.179.170","port":9045,"type":"ss","country":"🇩🇪DE德国2201462_62","cipher":"aes-256-cfb","password":"Lp27rqyJq72bZsqX"}
-  - {"name":"🇩🇪DE德国2201463_63","server":"5.183.179.148","port":9084,"type":"ss","country":"🇩🇪DE德国2201463_63","cipher":"aes-256-cfb","password":"c3NtHJ5ujV2tGDfj"}
-  - {"name":"🇬🇧GB英国2201464_64","server":"152.89.210.105","port":9020,"type":"ss","country":"🇬🇧GB英国2201464_64","cipher":"aes-256-cfb","password":"BNmAXXxAHYpTRdzu"}
-  - {"name":"🇨🇭CH瑞士2201465_65","server":"185.126.116.117","port":9056,"type":"ss","country":"🇨🇭CH瑞士2201465_65","cipher":"aes-256-cfb","password":"rNBfNuuANFCAk7KB"}
-  - {"name":"🇨🇭CH瑞士2201466_66","server":"185.126.116.117","port":9041,"type":"ss","country":"🇨🇭CH瑞士2201466_66","cipher":"aes-256-cfb","password":"U6qnYRhfyDmn8sgn"}
-  - {"name":"🇨🇭CH瑞士2201467_67","server":"185.126.116.117","port":9059,"type":"ss","country":"🇨🇭CH瑞士2201467_67","cipher":"aes-256-cfb","password":"9XwYyZsK8SNzQDtY"}
-  - {"name":"🇩🇪DE德国2201468_68","server":"5.183.179.148","port":9057,"type":"ss","country":"🇩🇪DE德国2201468_68","cipher":"aes-256-cfb","password":"wjTugX3ZtHMB9c3Z"}
-  - {"name":"🇨🇭CH瑞士2201469_69","server":"185.126.116.117","port":9011,"type":"ss","country":"🇨🇭CH瑞士2201469_69","cipher":"aes-256-cfb","password":"M3t2ZEQcMGRWBjRa"}
-  - {"name":"🇬🇧GB英国2201470_70","server":"152.89.210.105","port":9006,"type":"ss","country":"🇬🇧GB英国2201470_70","cipher":"aes-256-cfb","password":"FAdUvMJUq5vDgKEq"}
-  - {"name":"🇨🇭CH瑞士2201471_71","server":"185.126.116.117","port":9032,"type":"ss","country":"🇨🇭CH瑞士2201471_71","cipher":"aes-256-cfb","password":"UWZQeLRWnkqgkseq"}
-  - {"name":"🇨🇭CH瑞士2201472_72","server":"185.126.116.117","port":9007,"type":"ss","country":"🇨🇭CH瑞士2201472_72","cipher":"aes-256-cfb","password":"kSPmvwdFzGMMW5pY"}
-  - {"name":"2201473_73","server":"nl.oracleusa.ml","port":2053,"type":"vmess","uuid":"a7c876a7-a838-3083-a970-95571fe7b57f","alterId":0,"cipher":"auto","country":"2201473_73","skip-cert-verify":true,"tls":true,"network":"ws"}
-  - {"name":"🇩🇪DE德国2201474_74","server":"5.183.179.148","port":9097,"type":"ss","country":"🇩🇪DE德国2201474_74","cipher":"aes-256-cfb","password":"Sn5B7jTqr76aCJT8"}
-  - {"name":"🇨🇭CH瑞士2201475_75","server":"185.126.116.117","port":9057,"type":"ss","country":"🇨🇭CH瑞士2201475_75","cipher":"aes-256-cfb","password":"wjTugX3ZtHMB9c3Z"}
-  - {"name":"🇩🇪DE德国2201476_76","server":"5.183.179.145","port":9079,"type":"ss","country":"🇩🇪DE德国2201476_76","cipher":"aes-256-cfb","password":"TPqX8edgbAURcAMb"}
-  - {"name":"🇨🇭CH瑞士2201477_77","server":"185.126.116.117","port":9014,"type":"ss","country":"🇨🇭CH瑞士2201477_77","cipher":"aes-256-cfb","password":"KnJGad3FqTvjqbaX"}
-  - {"name":"🇩🇪DE德国2201478_78","server":"5.183.179.170","port":9050,"type":"ss","country":"🇩🇪DE德国2201478_78","cipher":"aes-256-cfb","password":"FG5ddLsMPbV5CutE"}
-  - {"name":"🇩🇪DE德国2201479_79","server":"5.183.179.146","port":9084,"type":"ss","country":"🇩🇪DE德国2201479_79","cipher":"aes-256-cfb","password":"c3NtHJ5ujV2tGDfj"}
-  - {"name":"🇩🇪DE德国2201480_80","server":"5.183.179.170","port":9073,"type":"ss","country":"🇩🇪DE德国2201480_80","cipher":"aes-256-cfb","password":"daFYagqDdBdA6VTX"}
-  - {"name":"🇩🇪DE德国2201481_81","server":"5.183.179.148","port":9056,"type":"ss","country":"🇩🇪DE德国2201481_81","cipher":"aes-256-cfb","password":"rNBfNuuANFCAk7KB"}
-  - {"name":"🇩🇪DE德国2201482_82","server":"5.183.179.141","port":9060,"type":"ss","country":"🇩🇪DE德国2201482_82","cipher":"aes-256-cfb","password":"ueLXVkvh4hckhErQ"}
-  - {"name":"🇩🇪DE德国2201483_83","server":"5.183.179.146","port":9003,"type":"ss","country":"🇩🇪DE德国2201483_83","cipher":"aes-256-cfb","password":"JdmRK9gMEqFgs8nP"}
-  - {"name":"🇩🇪DE德国2201484_84","server":"5.183.179.170","port":9000,"type":"ss","country":"🇩🇪DE德国2201484_84","cipher":"aes-256-cfb","password":"a3GFYt36Sm82Vys9"}
-  - {"name":"🇩🇪DE德国2201485_85","server":"5.183.179.148","port":9014,"type":"ss","country":"🇩🇪DE德国2201485_85","cipher":"aes-256-cfb","password":"KnJGad3FqTvjqbaX"}
-  - {"name":"🇧🇬BG保加利亚2201486_86","server":"213.183.63.219","port":9008,"type":"ss","country":"🇧🇬BG保加利亚2201486_86","cipher":"aes-256-cfb","password":"y9VURyNzJWNRYEGQ"}
-  - {"name":"🇨🇳CN中国2201487_87","server":"412sgsg.fans8.xyz","port":443,"type":"vmess","uuid":"5c70da5d-e641-3bf8-b7dc-5babd843ff3c","alterId":2,"cipher":"auto","country":"🇨🇳CN中国2201487_87","skip-cert-verify":true,"tls":true,"network":"ws"}
-  - {"name":"🇩🇪DE德国2201488_88","server":"5.183.179.146","port":9018,"type":"ss","country":"🇩🇪DE德国2201488_88","cipher":"aes-256-cfb","password":"fG2artUmHfNT2cX7"}
-  - {"name":"🇩🇪DE德国2201489_89","server":"5.183.179.170","port":9024,"type":"ss","country":"🇩🇪DE德国2201489_89","cipher":"aes-256-cfb","password":"BejrQvtu9sqUeNuZ"}
-  - {"name":"🇺🇸US美国2201490_90","server":"usaadm.oracleusa.ml","port":2053,"type":"vmess","uuid":"a7c876a7-a838-3083-a970-95571fe7b57f","alterId":0,"cipher":"auto","country":"🇺🇸US美国2201490_90","skip-cert-verify":true,"tls":true,"network":"ws"}
-  - {"name":"🇦🇺AU澳大利亚2201491_91","server":"185.167.116.38","port":9084,"type":"ss","country":"🇦🇺AU澳大利亚2201491_91","cipher":"aes-256-cfb","password":"c3NtHJ5ujV2tGDfj"}
-  - {"name":"🇩🇪DE德国2201492_92","server":"5.183.179.146","port":9020,"type":"ss","country":"🇩🇪DE德国2201492_92","cipher":"aes-256-cfb","password":"BNmAXXxAHYpTRdzu"}
-  - {"name":"🇸🇬SG新加坡2201493_93","server":"sg.sharecentrepro.tk","port":443,"type":"trojan","country":"🇸🇬SG新加坡2201493_93","skip-cert-verify":true,"udp":true,"password":"sharecentre"}
-  - {"name":"🇩🇪DE德国2201494_94","server":"5.183.179.170","port":9031,"type":"ss","country":"🇩🇪DE德国2201494_94","cipher":"aes-256-cfb","password":"BwcAUZk8hUFAkDGN"}
-  - {"name":"🇧🇬BG保加利亚2201495_95","server":"213.183.63.218","port":9064,"type":"ss","country":"🇧🇬BG保加利亚2201495_95","cipher":"aes-256-cfb","password":"cp8pRSUAyLhTfVWH"}
-  - {"name":"🇸🇬SG新加坡2201496_96","server":"alisg02.fans8.xyz","port":443,"type":"vmess","uuid":"5c70da5d-e641-3bf8-b7dc-5babd843ff3c","alterId":2,"cipher":"auto","country":"🇸🇬SG新加坡2201496_96","skip-cert-verify":true,"tls":true,"network":"ws"}
-  - {"name":"🇺🇸US美国2201497_97","server":"207.246.94.28","port":42383,"type":"vmess","uuid":"4773dfdc-9c85-4873-8720-ce8cf5f74f7c","alterId":0,"cipher":"auto","country":"🇺🇸US美国2201497_97","skip-cert-verify":true,"tls":false}
-  - {"name":"🇧🇬BG保加利亚2201498_98","server":"213.183.63.219","port":9003,"type":"ss","country":"🇧🇬BG保加利亚2201498_98","cipher":"aes-256-cfb","password":"JdmRK9gMEqFgs8nP"}
-  - {"name":"🇩🇪DE德国2201499_99","server":"5.183.179.146","port":9042,"type":"ss","country":"🇩🇪DE德国2201499_99","cipher":"aes-256-cfb","password":"S7KwUu7yBy58S3Ga"}
-  - {"name":"🇩🇪DE德国22014100_100","server":"5.183.179.146","port":9057,"type":"ss","country":"🇩🇪DE德国22014100_100","cipher":"aes-256-cfb","password":"wjTugX3ZtHMB9c3Z"}
-  - {"name":"🇨🇳CN中国22014101_101","server":"cn1.iepl.starlink.st","port":50500,"type":"ss","country":"🇨🇳CN中国22014101_101","cipher":"aes-128-gcm","password":"ced52354-bec2-4209-9121-b57d3dfb59e9"}
-  - {"name":"22014102_102","server":"103.172.116.8","port":9011,"type":"ss","country":"22014102_102","cipher":"aes-256-cfb","password":"M3t2ZEQcMGRWBjRa"}
-  - {"name":"🇧🇬BG保加利亚22014103_103","server":"213.183.63.219","port":9033,"type":"ss","country":"🇧🇬BG保加利亚22014103_103","cipher":"aes-256-cfb","password":"UTJA57ypk2XKQpnm"}
-  - {"name":"🇩🇪DE德国22014104_104","server":"5.183.179.146","port":9060,"type":"ss","country":"🇩🇪DE德国22014104_104","cipher":"aes-256-cfb","password":"ueLXVkvh4hckhErQ"}
-  - {"name":"22014105_105","server":"103.172.116.8","port":9014,"type":"ss","country":"22014105_105","cipher":"aes-256-cfb","password":"KnJGad3FqTvjqbaX"}
-  - {"name":"22014106_106","server":"103.172.116.8","port":9000,"type":"ss","country":"22014106_106","cipher":"aes-256-cfb","password":"a3GFYt36Sm82Vys9"}
-  - {"name":"🇨🇳CN中国22014107_107","server":"120.233.10.230","port":50300,"type":"ss","country":"🇨🇳CN中国22014107_107","cipher":"aes-128-gcm","password":"ced52354-bec2-4209-9121-b57d3dfb59e9"}
-  - {"name":"🇧🇬BG保加利亚22014108_108","server":"213.183.63.218","port":9097,"type":"ss","country":"🇧🇬BG保加利亚22014108_108","cipher":"aes-256-cfb","password":"Sn5B7jTqr76aCJT8"}
-  - {"name":"🇨🇳CN中国22014109_109","server":"cn1.iepl.starlink.st","port":50300,"type":"ss","country":"🇨🇳CN中国22014109_109","cipher":"aes-128-gcm","password":"ced52354-bec2-4209-9121-b57d3dfb59e9"}
-  - {"name":"🇨🇳CN中国22014110_110","server":"119.147.20.236","port":38106,"type":"vmess","uuid":"79386685-16da-327c-9e14-aa6d702d86bc","alterId":1,"cipher":"auto","country":"🇨🇳CN中国22014110_110","skip-cert-verify":true,"tls":false,"network":"ws"}
-  - {"name":"🇧🇬BG保加利亚22014111_111","server":"213.183.63.218","port":9032,"type":"ss","country":"🇧🇬BG保加利亚22014111_111","cipher":"aes-256-cfb","password":"UWZQeLRWnkqgkseq"}
-  - {"name":"🇧🇬BG保加利亚22014112_112","server":"213.183.63.218","port":9084,"type":"ss","country":"🇧🇬BG保加利亚22014112_112","cipher":"aes-256-cfb","password":"c3NtHJ5ujV2tGDfj"}
-  - {"name":"22014113_113","server":"103.172.116.8","port":9043,"type":"ss","country":"22014113_113","cipher":"aes-256-cfb","password":"HSZuyJQcWe8dxNdF"}
-  - {"name":"🇩🇪DE德国22014114_114","server":"5.183.179.146","port":9037,"type":"ss","country":"🇩🇪DE德国22014114_114","cipher":"aes-256-cfb","password":"TN2YqghxeFDKZfLU"}
-  - {"name":"🇹🇼TW台湾22014115_115","server":"330tw.fans8.xyz","port":443,"type":"vmess","uuid":"5c70da5d-e641-3bf8-b7dc-5babd843ff3c","alterId":2,"cipher":"auto","country":"🇹🇼TW台湾22014115_115","skip-cert-verify":true,"tls":true,"network":"ws"}
-  - {"name":"22014116_116","server":"103.172.116.8","port":9057,"type":"ss","country":"22014116_116","cipher":"aes-256-cfb","password":"wjTugX3ZtHMB9c3Z"}
-  - {"name":"🇧🇬BG保加利亚22014117_117","server":"213.183.63.218","port":9024,"type":"ss","country":"🇧🇬BG保加利亚22014117_117","cipher":"aes-256-cfb","password":"BejrQvtu9sqUeNuZ"}
-  - {"name":"🇧🇬BG保加利亚22014118_118","server":"213.183.63.218","port":9073,"type":"ss","country":"🇧🇬BG保加利亚22014118_118","cipher":"aes-256-cfb","password":"daFYagqDdBdA6VTX"}
-  - {"name":"22014119_119","server":"103.172.116.7","port":9033,"type":"ss","country":"22014119_119","cipher":"aes-256-cfb","password":"UTJA57ypk2XKQpnm"}
-  - {"name":"22014120_120","server":"103.172.116.8","port":9015,"type":"ss","country":"22014120_120","cipher":"aes-256-cfb","password":"ZpNDDKRu9MagNvaf"}
-  - {"name":"22014121_121","server":"103.172.116.8","port":9018,"type":"ss","country":"22014121_121","cipher":"aes-256-cfb","password":"fG2artUmHfNT2cX7"}
-  - {"name":"22014122_122","server":"103.172.116.7","port":9045,"type":"ss","country":"22014122_122","cipher":"aes-256-cfb","password":"Lp27rqyJq72bZsqX"}
-  - {"name":"🇩🇪DE德国22014123_123","server":"5.183.179.166","port":9059,"type":"ss","country":"🇩🇪DE德国22014123_123","cipher":"aes-256-cfb","password":"9XwYyZsK8SNzQDtY"}
+  - {"name":"🇨🇳_CN_中国_1","server":"43.154.77.196","port":38539,"type":"vmess","uuid":"a379bd7f-9d0d-4fb5-90c2-9b302782c4d6","alterId":0,"cipher":"auto","country":"🇨🇳_CN_中国_1","skip-cert-verify":true,"tls":false,"network":"http","ws-opts":{"path":"/","headers":{"host":"43.154.77.196"}}}
+  - {"name":"🇨🇦_CA_加拿大_2","server":"198.57.27.225","port":8118,"type":"ss","country":"🇨🇦_CA_加拿大_2","cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN"}
+  - {"name":"🇨🇦_CA_加拿大_3","server":"198.57.27.225","port":6697,"type":"ss","country":"🇨🇦_CA_加拿大_3","cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"name":"🇨🇦_CA_加拿大_4","server":"198.57.27.225","port":5004,"type":"ss","country":"🇨🇦_CA_加拿大_4","cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"name":"🇩🇪_DE_德国_5","server":"5.183.179.145","port":9056,"type":"ss","country":"🇩🇪_DE_德国_5","cipher":"aes-256-cfb","password":"rNBfNuuANFCAk7KB"}
+  - {"name":"🇺🇸_US_美国_6","server":"38.68.135.19","port":9102,"type":"ss","country":"🇺🇸_US_美国_6","cipher":"aes-256-gcm","password":"e4FCWrgpkji3QY"}
+  - {"name":"🇦🇺_AU_澳大利亚_7","server":"185.167.116.253","port":9011,"type":"ss","country":"🇦🇺_AU_澳大利亚_7","cipher":"aes-256-cfb","password":"M3t2ZEQcMGRWBjRa"}
+  - {"name":"🇨🇦_CA_加拿大_8","server":"198.57.27.225","port":5500,"type":"ss","country":"🇨🇦_CA_加拿大_8","cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"name":"🇨🇦_CA_加拿大_9","server":"198.57.27.225","port":7002,"type":"ss","country":"🇨🇦_CA_加拿大_9","cipher":"aes-256-gcm","password":"RexnBgU7EV5ADxG"}
+  - {"name":"🇵🇱_PL_波兰_10","server":"217.30.10.65","port":9042,"type":"ss","country":"🇵🇱_PL_波兰_10","cipher":"aes-256-cfb","password":"S7KwUu7yBy58S3Ga"}
+  - {"name":"🇦🇺_AU_澳大利亚_11","server":"185.167.116.253","port":9080,"type":"ss","country":"🇦🇺_AU_澳大利亚_11","cipher":"aes-256-cfb","password":"VP8ZPxQpJtZRCjfZ"}
+  - {"name":"🇦🇺_AU_澳大利亚_12","server":"185.167.116.253","port":9040,"type":"ss","country":"🇦🇺_AU_澳大利亚_12","cipher":"aes-256-cfb","password":"p9z5BVADH2YFs3MN"}
+  - {"name":"🇦🇺_AU_澳大利亚_13","server":"185.167.116.253","port":9057,"type":"ss","country":"🇦🇺_AU_澳大利亚_13","cipher":"aes-256-cfb","password":"wjTugX3ZtHMB9c3Z"}
+  - {"name":"🇸🇬_SG_新加坡_14","server":"43.135.70.192","port":24740,"type":"vmess","uuid":"3749de34-a1a9-44db-b72a-510712a52d11","alterId":0,"cipher":"auto","country":"🇸🇬_SG_新加坡_14","skip-cert-verify":true,"tls":false,"network":"http","ws-opts":{"path":"/","headers":{"host":"43.135.70.192"}}}
+  - {"name":"🇩🇪_DE_德国_15","server":"5.183.179.167","port":9025,"type":"ss","country":"🇩🇪_DE_德国_15","cipher":"aes-256-cfb","password":"XPtzA9sCug3SPR4c"}
+  - {"name":"🇬🇧_GB_英国_16","server":"152.89.210.84","port":9032,"type":"ss","country":"🇬🇧_GB_英国_16","cipher":"aes-256-cfb","password":"UWZQeLRWnkqgkseq"}
+  - {"name":"🇬🇧_GB_英国_17","server":"152.89.210.84","port":9015,"type":"ss","country":"🇬🇧_GB_英国_17","cipher":"aes-256-cfb","password":"ZpNDDKRu9MagNvaf"}
+  - {"name":"🇯🇵_JP_日本_18","server":"85.208.108.58","port":8080,"type":"ss","country":"🇯🇵_JP_日本_18","cipher":"aes-256-gcm","password":"KixLvKzwjekG00rm"}
+  - {"name":"🇨🇭_CH_瑞士_19","server":"185.126.116.125","port":9043,"type":"ssr","country":"🇨🇭_CH_瑞士_19","password":"HSZuyJQcWe8dxNdF","cipher":"aes-256-cfb","protocol":"origin","obfs":"plain"}
+  - {"name":"🇵🇱_PL_波兰_20","server":"217.30.10.67","port":9037,"type":"ss","country":"🇵🇱_PL_波兰_20","cipher":"aes-256-cfb","password":"TN2YqghxeFDKZfLU"}
+  - {"name":"🇵🇱_PL_波兰_21","server":"217.30.10.67","port":9080,"type":"ss","country":"🇵🇱_PL_波兰_21","cipher":"aes-256-cfb","password":"VP8ZPxQpJtZRCjfZ"}
+  - {"name":"🇵🇱_PL_波兰_22","server":"217.30.10.67","port":9079,"type":"ss","country":"🇵🇱_PL_波兰_22","cipher":"aes-256-cfb","password":"TPqX8edgbAURcAMb"}
+  - {"name":"🇵🇱_PL_波兰_23","server":"217.30.10.67","port":9059,"type":"ss","country":"🇵🇱_PL_波兰_23","cipher":"aes-256-cfb","password":"9XwYyZsK8SNzQDtY"}
+  - {"name":"🇵🇱_PL_波兰_24","server":"217.30.10.65","port":9084,"type":"ss","country":"🇵🇱_PL_波兰_24","cipher":"aes-256-cfb","password":"c3NtHJ5ujV2tGDfj"}
+  - {"name":"🇵🇱_PL_波兰_25","server":"217.30.10.67","port":9098,"type":"ss","country":"🇵🇱_PL_波兰_25","cipher":"aes-256-cfb","password":"aLpQtfEZe445QyHk"}
+  - {"name":"🇵🇱_PL_波兰_26","server":"217.30.10.67","port":9042,"type":"ss","country":"🇵🇱_PL_波兰_26","cipher":"aes-256-cfb","password":"S7KwUu7yBy58S3Ga"}
+  - {"name":"🇵🇱_PL_波兰_27","server":"217.30.10.67","port":9001,"type":"ss","country":"🇵🇱_PL_波兰_27","cipher":"aes-256-cfb","password":"UkXRsXvR6buDMG2Y"}
+  - {"name":"🇵🇱_PL_波兰_28","server":"217.30.10.67","port":9015,"type":"ss","country":"🇵🇱_PL_波兰_28","cipher":"aes-256-cfb","password":"ZpNDDKRu9MagNvaf"}
+  - {"name":"🇵🇱_PL_波兰_29","server":"217.30.10.67","port":9043,"type":"ss","country":"🇵🇱_PL_波兰_29","cipher":"aes-256-cfb","password":"HSZuyJQcWe8dxNdF"}
+  - {"name":"🇺🇸_US_美国_30","server":"38.68.135.19","port":7306,"type":"ss","country":"🇺🇸_US_美国_30","cipher":"aes-256-gcm","password":"FoOiGlkAA9yPEGP"}
+  - {"name":"🇺🇸_US_美国_31","server":"38.68.135.19","port":2376,"type":"ss","country":"🇺🇸_US_美国_31","cipher":"aes-256-gcm","password":"faBAoD54k87UJG7"}
+  - {"name":"🇺🇸_US_美国_32","server":"38.68.135.19","port":8119,"type":"ss","country":"🇺🇸_US_美国_32","cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN"}
+  - {"name":"🇺🇸_US_美国_33","server":"38.68.135.19","port":5004,"type":"ss","country":"🇺🇸_US_美国_33","cipher":"aes-256-gcm","password":"g5MeD6Ft3CWlJId"}
+  - {"name":"🇺🇸_US_美国_34","server":"169.197.142.99","port":6679,"type":"ss","country":"🇺🇸_US_美国_34","cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"name":"🇺🇸_US_美国_35","server":"169.197.142.99","port":8118,"type":"ss","country":"🇺🇸_US_美国_35","cipher":"aes-256-gcm","password":"cdBIDV42DCwnfIN"}
+  - {"name":"🇬🇧_GB_英国_36","server":"152.89.210.84","port":9024,"type":"ss","country":"🇬🇧_GB_英国_36","cipher":"aes-256-cfb","password":"BejrQvtu9sqUeNuZ"}
+  - {"name":"🇵🇱_PL_波兰_37","server":"217.30.10.65","port":9019,"type":"ss","country":"🇵🇱_PL_波兰_37","cipher":"aes-256-cfb","password":"GA9KzeEgvfxNrgmM"}
+  - {"name":"🇵🇱_PL_波兰_38","server":"217.30.10.65","port":9010,"type":"ss","country":"🇵🇱_PL_波兰_38","cipher":"aes-256-cfb","password":"f63gg8EruDnUrmz4"}
+  - {"name":"🇺🇸_US_美国_39","server":"169.197.142.99","port":3306,"type":"ss","country":"🇺🇸_US_美国_39","cipher":"aes-256-gcm","password":"Y6R9pAtvxxzmGC"}
+  - {"name":"🇭🇰_HK_香港_40","server":"43.129.227.60","port":27727,"type":"vmess","uuid":"d00f5ea9-4658-4f0a-a6c3-e29ef711cf3b","alterId":0,"cipher":"auto","country":"🇭🇰_HK_香港_40","skip-cert-verify":true,"tls":false,"network":"http","ws-opts":{"path":"/","headers":{"host":"43.129.227.60"}}}
+  - {"name":"🇨🇦_CA_加拿大_41","server":"198.57.27.225","port":6679,"type":"ss","country":"🇨🇦_CA_加拿大_41","cipher":"aes-256-gcm","password":"TEzjfAYq2IjtuoS"}
+  - {"name":"🇨🇳_CN_中国->🇰🇷_KR_韩国_42","server":"$*@180.163.62.91","port":10064,"type":"ss","country":"🇨🇳_CN_中国->🇰🇷_KR_韩国_42","cipher":"aes-128-cfb","password":"QazEdcTgb159"}
+  - {"name":"🇩🇪_DE_德国_43","server":"5.183.179.167","port":9037,"type":"ss","country":"🇩🇪_DE_德国_43","cipher":"aes-256-cfb","password":"TN2YqghxeFDKZfLU"}
+  - {"name":"🇩🇪_DE_德国_44","server":"5.183.179.145","port":9053,"type":"ss","country":"🇩🇪_DE_德国_44","cipher":"aes-256-cfb","password":"SBM7R883jBmnqe6C"}
+  - {"name":"🇩🇪_DE_德国_45","server":"5.183.179.167","port":9032,"type":"ss","country":"🇩🇪_DE_德国_45","cipher":"aes-256-cfb","password":"UWZQeLRWnkqgkseq"}
+  - {"name":"🇩🇪_DE_德国_46","server":"5.183.179.167","port":9042,"type":"ss","country":"🇩🇪_DE_德国_46","cipher":"aes-256-cfb","password":"S7KwUu7yBy58S3Ga"}
+  - {"name":"🇩🇪_DE_德国_47","server":"5.183.179.167","port":9084,"type":"ss","country":"🇩🇪_DE_德国_47","cipher":"aes-256-cfb","password":"c3NtHJ5ujV2tGDfj"}
+  - {"name":"🇩🇪_DE_德国_48","server":"5.183.179.167","port":9093,"type":"ss","country":"🇩🇪_DE_德国_48","cipher":"aes-256-cfb","password":"wfLC2y7rzZyCmuyt"}
+  - {"name":"🇩🇪_DE_德国_49","server":"5.183.179.167","port":9053,"type":"ss","country":"🇩🇪_DE_德国_49","cipher":"aes-256-cfb","password":"SBM7R883jBmnqe6C"}
+  - {"name":"🇩🇪_DE_德国_50","server":"5.183.179.167","port":9001,"type":"ss","country":"🇩🇪_DE_德国_50","cipher":"aes-256-cfb","password":"UkXRsXvR6buDMG2Y"}
