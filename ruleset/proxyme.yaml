@@ -41,6 +41,7 @@ payload:
   - DOMAIN-SUFFIX,liuli.cat
   - DOMAIN-SUFFIX,yarnpkg.com
   - DOMAIN-SUFFIX,vmware.com
+  - DOMAIN-SUFFIX,jetbrains.com
   
    # Github
   - DOMAIN-SUFFIX,atom.io
