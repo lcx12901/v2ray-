@@ -43,6 +43,10 @@ payload:
   - DOMAIN-SUFFIX,vmware.com
   - DOMAIN-SUFFIX,jetbrains.com
   
+  # emby server
+  - DOMAIN-SUFFIX,emby.wtf
+  - DOMAIN-SUFFIX,odysseyplus.site
+  - DOMAIN-SUFFIX,jmsooo.com
    # Github
   - DOMAIN-SUFFIX,atom.io
   - DOMAIN-SUFFIX,dependabot.com
