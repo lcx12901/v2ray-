@@ -1,0 +1,26 @@
+proxies:
+  - {name: https://t.me/poduvjd, server: 136.175.179.6, port: 6519, type: trojan, password: ed407b65-ffdf-3eff-87c8-01f094d355e7, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳 中国(TG频道:@poduvjd), server: zh01lv5jp03.feiguayun.xyz, port: 32087, type: ss, cipher: aes-256-gcm, password: 23c807f7-14ba-4f5d-8357-4c1afe17fd49, udp: true}
+  - {name: 🇷🇺 俄罗斯联邦(TG频道:@poduvjd), server: 45.153.231.57, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: HhUG0LZD19Ma, udp: true}
+  - {name: 🇭🇰 香港(TG频道:@poduvjd), server: azzz2.mayiyun.vip, port: 20003, type: ss, cipher: aes-256-gcm, password: 50f684d5-4ed7-4c89-aeff-e7d26024b98c, udp: true}
+  - {name: 🇭🇰 香港(TG频道:@poduvjd) 2, server: azhk6.mayiyun.vip, port: 10015, type: ss, cipher: aes-256-gcm, password: 50f684d5-4ed7-4c89-aeff-e7d26024b98c, udp: true}
+  - {name: 🇺🇲 美国(TG频道:@poduvjd), server: payday2.eu.org, port: 10086, type: trojan, password: WDNMDM, sni: payday2.eu.org, skip-cert-verify: false, udp: true}
+  - {name: 🇯🇵 日本(TG频道:@poduvjd), server: jgwdb1.gaox.ml, port: 443, type: trojan, password: a580d839-ee41-4df1-bf03-6789dca32e30, sni: jgwdb1.gaox.ml, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港(TG频道:@poduvjd) 3, server: azzz2.mayiyun.vip, port: 20001, type: ss, cipher: aes-256-gcm, password: 50f684d5-4ed7-4c89-aeff-e7d26024b98c, udp: true}
+  - {name: 🇭🇰 香港(TG频道:@poduvjd) 4, server: azzz2.mayiyun.vip, port: 20007, type: ss, cipher: aes-256-gcm, password: 50f684d5-4ed7-4c89-aeff-e7d26024b98c, udp: true}
+  - {name: 🇨🇳 中国(TG频道:@poduvjd) 2, server: gz.bgp.rx.naiun.pw, port: 45149, type: vmess, uuid: 8b460b5c-22cc-463b-b50a-44cf63bdca08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: gz.bgp.rx.naiun.pw}}, udp: true}
+  - {name: 🇨🇳 中国(TG频道:@poduvjd) 3, server: zh01lv5jp01.feiguayun.xyz, port: 32087, type: ss, cipher: aes-256-gcm, password: 23c807f7-14ba-4f5d-8357-4c1afe17fd49, udp: true}
+  - {name: 🇨🇳 中国(TG频道:@poduvjd) 4, server: zh01lv5ca03.feiguayun.xyz, port: 37087, type: ss, cipher: aes-256-gcm, password: 23c807f7-14ba-4f5d-8357-4c1afe17fd49, udp: true}
+  - {name: 🇨🇳 中国(TG频道:@poduvjd) 5, server: zh01lv5jp05.feiguayun.xyz, port: 32087, type: ss, cipher: aes-256-gcm, password: 23c807f7-14ba-4f5d-8357-4c1afe17fd49, udp: true}
+  - {name: 🇨🇳 中国(TG频道:@poduvjd) 6, server: hz.bgp.rx.naiun.pw, port: 45250, type: vmess, uuid: 8b460b5c-22cc-463b-b50a-44cf63bdca08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hz.bgp.rx.naiun.pw}}, udp: true}
+  - {name: 🇨🇳 中国(TG频道:@poduvjd) 7, server: zh01lv5uk01.feiguayun.xyz, port: 35087, type: ss, cipher: aes-256-gcm, password: 23c807f7-14ba-4f5d-8357-4c1afe17fd49, udp: true}
+  - {name: 阿联酋(TG频道:@poduvjd), server: 193.123.82.106, port: 4590, type: trojan, password: ed407b65-ffdf-3eff-87c8-01f094d355e7, skip-cert-verify: false, udp: true}
+  - {name: 🇦🇺 澳大利亚(TG频道:@poduvjd), server: jgwxn3.gaox.ml, port: 443, type: trojan, password: cb43b7c2-b744-41c5-bcc2-fd7467b332cf, sni: jgwxn3.gaox.ml, skip-cert-verify: false, udp: true}
+  - {name: 🇨🇳 中国(TG频道:@poduvjd) 8, server: hz.bgp.rx.naiun.pw, port: 45184, type: vmess, uuid: 8b460b5c-22cc-463b-b50a-44cf63bdca08, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hz.bgp.rx.naiun.pw}}, udp: true}
+  - {name: 🇨🇳 中国(TG频道:@poduvjd) 9, server: zh01lv5hk07.feiguayun.xyz, port: 31087, type: ss, cipher: aes-256-gcm, password: 23c807f7-14ba-4f5d-8357-4c1afe17fd49, udp: true}
+  - {name: 🇹🇷 土耳其(TG频道:@poduvjd), server: 84.54.13.134, port: 470, type: trojan, password: ed407b65-ffdf-3eff-87c8-01f094d355e7, skip-cert-verify: false, udp: true}
+  - {name: 🇭🇰 香港(TG频道:@poduvjd) 5, server: azzz2.mayiyun.vip, port: 20006, type: ss, cipher: aes-256-gcm, password: 50f684d5-4ed7-4c89-aeff-e7d26024b98c, udp: true}
+  - {name: 🇭🇰 香港(TG频道:@poduvjd) 6, server: azzz2.mayiyun.vip, port: 20008, type: ss, cipher: aes-256-gcm, password: 50f684d5-4ed7-4c89-aeff-e7d26024b98c, udp: true}
+  - {name: 🇨🇳 中国(TG频道:@poduvjd) 10, server: zh01lv5hk08.feiguayun.xyz, port: 31087, type: ss, cipher: aes-256-gcm, password: 23c807f7-14ba-4f5d-8357-4c1afe17fd49, udp: true}
+  - {name: 🇭🇰 香港(TG频道:@poduvjd) 7, server: 104.208.72.106, port: 80, type: vmess, uuid: 84e11227-e771-4c72-88ab-9d74c5b22e03, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: livestream2.tv360.vn}}, udp: true}
+  - {name: 🇺🇲 美国(TG频道:@poduvjd) 2, server: jgwdj2.gaox.ml, port: 443, type: trojan, password: 86231db5-96d0-4271-9977-cae3a0cba614, sni: jgwdj2.gaox.ml, skip-cert-verify: false, udp: true}
