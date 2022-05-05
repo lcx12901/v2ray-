@@ -20,7 +20,15 @@ proxy-providers:
   ednovas:
     type: http
     url: "https://v2ray-lcx12901.vercel.app/sspool.herokuapp.com/ednovas.yaml"
-    path: sspool.herokuapp.com/bihai.yaml
+    path: sspool.herokuapp.com/ednovas.yaml
+    health-check:
+      enable: true
+      interval: 600
+      url: http://www.gstatic.com/generate_204
+  long:
+    type: http
+    url: "https://v2ray-lcx12901.vercel.app/sspool.herokuapp.com/long.yaml"
+    path: sspool.herokuapp.com/long.yaml
     health-check:
       enable: true
       interval: 600
@@ -48,6 +56,13 @@ proxy-groups:
     tolerance: 50
     use:
       - ednovas
+  - name: 💯 long
+    type: select
+    url: http://www.gstatic.com/generate_204
+    interval: 300
+    tolerance: 50
+    use:
+      - long
   - name: 💯 other
     type: select
     url: http://www.gstatic.com/generate_204
@@ -64,6 +79,7 @@ proxy-groups:
       - 😜 碧海
       - 💯 ednovas
       - 💯 other
+      - 💯 long
 rule-providers:
   # github host文件：https://cdn.jsdelivr.net/gh/521xueweihan/GitHub520@main/hosts
   reject:
