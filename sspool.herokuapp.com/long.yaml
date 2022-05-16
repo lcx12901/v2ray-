@@ -1,12 +1,5 @@
 proxies:
-  - {"type":"trojan","name":"🇨🇳_CN_中国->🇸🇬_SG_新加坡_1","server":"116.129.254.47","password":"e37c6d7efa845d60","port":3389,"udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇨🇳_CN_中国->🇸🇬_SG_新加坡_2","server":"116.129.254.29","password":"a170b44c2dfac9e6","port":3389,"udp":true,"skip-cert-verify":true}
-  - {"type":"trojan","name":"🇨🇳_CN_中国->🇸🇬_SG_新加坡_3","server":"116.129.253.130","password":"f6f2072a2e4cfc91","port":3389,"udp":true,"skip-cert-verify":true}
-  - {"type":"vmess","http-opts":{"path":["/"],"headers":{"Host":["43.154.72.145"]}},"server":"43.154.72.145","name":"🇨🇳_CN_中国","port":27091,"uuid":"2f1e82e4-5319-4278-92aa-74d49c04683f","alterId":0,"cipher":"auto","network":"http"}
-  - {"type":"ss","cipher":"aes-256-cfb","password":"KnJGad3FqTvjqbaX","server":"217.30.10.64","port":9014,"name":"🇵🇱_PL_波兰_1"}
-  - {"type":"ssr","server":"213.183.53.177","port":9026,"protocol":"origin","cipher":"aes-256-cfb","obfs":"plain","password":"QWDDvVE9npNurQfA","name":"🇷🇺_RU_俄罗斯联邦_1"}
-  - {"type":"ssr","server":"213.183.53.177","port":9043,"protocol":"origin","cipher":"aes-256-cfb","obfs":"plain","password":"HSZuyJQcWe8dxNdF","name":"🇷🇺_RU_俄罗斯联邦_2"}
-  - {"type":"ssr","server":"hkchiansax2.msservicevip.pw","port":9359,"protocol":"origin","cipher":"aes-256-cfb","obfs":"plain","password":"73117962","name":"🇨🇳_CN_中国->🇭🇰_HK_香港_1"}
-  - {"type":"trojan","name":"🇨🇳_CN_中国->🇭🇰_HK_香港_2","server":"game.tcpbbr.net","password":"280a1162-00cb-11ec-a8bf-f23c91cfbbc9","port":5228,"udp":true,"skip-cert-verify":true}
-  - {"type":"ss","cipher":"aes-256-cfb","password":"gYCYXfkUQEs2TaJQ","server":"217.30.10.64","port":9038,"name":"🇵🇱_PL_波兰_2"}
-  - {"type":"trojan","name":"🇺🇸_US_美国","server":"jgwdj4.gaox.ml","password":"c09eb137-bf68-4658-84e0-102d94b74168","port":443,"udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国","server":"hk2.chaoge.cool","password":"z7bu9klqTI","port":58580,"udp":true,"skip-cert-verify":true}
+  - {"type":"ss","cipher":"aes-256-cfb","password":"f8npKgNzdkss2ytn","server":"185.126.116.125","port":9088,"name":"🇨🇭_CH_瑞士"}
+  - {"type":"ss","cipher":"aes-128-gcm","password":"fcae85b5-baf0-4c5a-ba80-5f513e70512a","server":"183.240.124.200","port":44812,"name":"🇨🇳_CN_中国->🇸🇬_SG_新加坡"}
+  - {"type":"vmess","server":"45.118.133.251","name":"🇸🇬_SG_新加坡","port":1080,"uuid":"3d6fa91a-6186-4d7f-e0b3-a6d2a23f575e","alterId":0,"cipher":"auto","network":"tcp"}
