@@ -3,3 +3,8 @@ proxies:
   - {"type":"ss","cipher":"aes-256-cfb","password":"f8npKgNzdkss2ytn","server":"185.126.116.125","port":9088,"name":"🇨🇭_CH_瑞士"}
   - {"type":"ss","cipher":"aes-128-gcm","password":"fcae85b5-baf0-4c5a-ba80-5f513e70512a","server":"183.240.124.200","port":44812,"name":"🇨🇳_CN_中国->🇸🇬_SG_新加坡"}
   - {"type":"vmess","server":"45.118.133.251","name":"🇸🇬_SG_新加坡","port":1080,"uuid":"3d6fa91a-6186-4d7f-e0b3-a6d2a23f575e","alterId":0,"cipher":"auto","network":"tcp"}
+  - {name: hk2.chaoge.cool:58580, server: hk2.chaoge.cool, port: 58580, type: trojan, password: z7bu9klqTI, skip-cert-verify: true, udp: true}
+  - {name: ussc.scsevers.cf:443, server: ussc.scsevers.cf, port: 443, type: trojan, password: sharecentre, skip-cert-verify: true, udp: true}
+  - {name: 🇸🇬 sg.sharecentrepro.tk:443, server: sg.sharecentrepro.tk, port: 443, type: trojan, password: sharecentre, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 shop-one.defun.us:443, server: shop-one.defun.us, port: 443, type: trojan, password: OEfntmUGHmwQnNGr, skip-cert-verify: true, udp: true}
+  - {name: 🇺🇸 us-03.pickaxe.sh:443, server: us-03.pickaxe.sh, port: 443, type: trojan, password: Rq8MSfJZYw9pcmB3, skip-cert-verify: true, udp: true}
