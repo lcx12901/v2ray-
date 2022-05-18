@@ -1,30 +1,23 @@
 proxies:
-  - {"type":"ss","cipher":"aes-128-gcm","password":"bzUdYJ4JzjGfIwhG","server":"bb01.nfeng6.pp.ua","port":16030,"name":"🇨🇳_CN_中国->🇸🇬_SG_新加坡"}
-  - {"type":"ssr","server":"usastart.proconcn.xyz","port":564,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","protocol-param":"Mzk0NDk6cWF6MTIzMzIx","name":"🇨🇳_CN_中国->🇺🇸_US_美国_1"}
-  - {"type":"ssr","server":"shusa.proconcn.xyz","port":562,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","protocol-param":"Mzk0NDk6cWF6MTIzMzIx","name":"🇨🇳_CN_中国->🇺🇸_US_美国_2"}
-  - {"type":"ssr","server":"shusa.proconcn.xyz","port":563,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","protocol-param":"Mzk0NDk6cWF6MTIzMzIx","name":"🇨🇳_CN_中国->🇺🇸_US_美国_3"}
-  - {"type":"ssr","server":"shusa.proconcn.xyz","port":561,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","protocol-param":"Mzk0NDk6cWF6MTIzMzIx","name":"🇨🇳_CN_中国->🇺🇸_US_美国_4"}
-  - {"type":"ssr","server":"usastart.proconcn.xyz","port":565,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","protocol-param":"Mzk0NDk6cWF6MTIzMzIx","name":"🇨🇳_CN_中国->🇺🇸_US_美国_5"}
-  - {"type":"ssr","server":"usastart.proconcn.xyz","port":569,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","protocol-param":"Mzk0NDk6cWF6MTIzMzIx","name":"🇨🇳_CN_中国->🇺🇸_US_美国_6"}
-  - {"type":"ssr","server":"shusacu.proconcn.xyz","port":562,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","protocol-param":"Mzk0NDk6cWF6MTIzMzIx","name":"🇨🇳_CN_中国->🇭🇰_HK_香港_1"}
-  - {"type":"ssr","server":"usastart.proconcn.xyz","port":566,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","protocol-param":"Mzk0NDk6cWF6MTIzMzIx","name":"🇨🇳_CN_中国->🇺🇸_US_美国_7"}
-  - {"type":"ssr","server":"shallaz.proconcn.xyz","port":565,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","protocol-param":"Mzk0NDk6cWF6MTIzMzIx","name":"🇨🇳_CN_中国->🇰🇷_KR_韩国_1"}
-  - {"type":"ssr","server":"usastart.proconcn.xyz","port":567,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","protocol-param":"Mzk0NDk6cWF6MTIzMzIx","name":"🇨🇳_CN_中国->🇺🇸_US_美国_8"}
-  - {"type":"ssr","server":"shusacu.proconcn.xyz","port":561,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","protocol-param":"Mzk0NDk6cWF6MTIzMzIx","name":"🇨🇳_CN_中国->🇭🇰_HK_香港_2"}
-  - {"type":"ssr","server":"usastart.proconcn.xyz","port":568,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","protocol-param":"Mzk0NDk6cWF6MTIzMzIx","name":"🇨🇳_CN_中国->🇺🇸_US_美国_9"}
-  - {"type":"ssr","server":"csdynhkt.proconcn.xyz","port":562,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","protocol-param":"Mzk0NDk6cWF6MTIzMzIx","name":"🇨🇳_CN_中国->🇭🇰_HK_香港_3"}
-  - {"type":"ssr","server":"curelayhk.dnsflix.com","port":561,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","protocol-param":"Mzk0NDk6cWF6MTIzMzIx","name":"🇨🇳_CN_中国->🇭🇰_HK_香港_4"}
-  - {"type":"ssr","server":"relaypro.procncon.xyz","port":562,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","protocol-param":"Mzk0NDk6cWF6MTIzMzIx","name":"🇨🇳_CN_中国->🇷🇺_RU_俄罗斯联邦_1"}
-  - {"type":"ssr","server":"relaypro.procncon.xyz","port":561,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","protocol-param":"Mzk0NDk6cWF6MTIzMzIx","name":"🇨🇳_CN_中国->🇷🇺_RU_俄罗斯联邦_2"}
-  - {"type":"ssr","server":"relaypro.procncon.xyz","port":612,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","protocol-param":"Mzk0NDk6cWF6MTIzMzIx","name":"🇨🇳_CN_中国->🇮🇹_IT_意大利"}
-  - {"type":"ss","cipher":"aes-128-gcm","password":"bzUdYJ4JzjGfIwhG","server":"bb01.nfeng6.pp.ua","port":16010,"name":"🇨🇳_CN_中国->🇺🇸_US_美国_10"}
-  - {"type":"ss","cipher":"aes-128-gcm","password":"bzUdYJ4JzjGfIwhG","server":"bb01.nfeng6.pp.ua","port":26230,"name":"🇨🇳_CN_中国->🇿🇦_ZA_南非"}
-  - {"type":"ss","cipher":"aes-128-gcm","password":"bzUdYJ4JzjGfIwhG","server":"bb01.nfeng6.pp.ua","port":26210,"name":"🇨🇳_CN_中国->🇵🇭_PH_菲律宾"}
+  - {"type":"ss","cipher":"aes-128-gcm","password":"bzUdYJ4JzjGfIwhG","server":"163.177.158.215","port":26210,"name":"🇨🇳_CN_中国->🇵🇭_PH_菲律宾_1"}
+  - {"type":"ss","cipher":"aes-128-gcm","password":"b6040656-96c5-4748-a73c-5a8f15ed7531","server":"120.233.10.230","port":50200,"name":"🇨🇳_CN_中国->🇹🇼_TW_台湾_1"}
+  - {"type":"ss","cipher":"chacha20-ietf-poly1305","password":"ffc92e68-2650-4636-b059-e7b981e89f8c","server":"dx-hk.vmess.top","port":33701,"name":"🇨🇳_CN_中国->🇸🇰_SK_斯洛伐克"}
+  - {"type":"ss","cipher":"chacha20-ietf-poly1305","password":"ffc92e68-2650-4636-b059-e7b981e89f8c","server":"dx-hk.vmess.top","port":33705,"name":"🇨🇳_CN_中国->🇹🇼_TW_台湾_2"}
+  - {"type":"ss","cipher":"chacha20-ietf-poly1305","password":"ffc92e68-2650-4636-b059-e7b981e89f8c","server":"dx-hk.vmess.top","port":33703,"name":"🇨🇳_CN_中国->🇺🇸_US_美国_1"}
+  - {"type":"ss","cipher":"chacha20-ietf-poly1305","password":"ffc92e68-2650-4636-b059-e7b981e89f8c","server":"lt-jp.vmess.top","port":33704,"name":"🇨🇳_CN_中国->🇳🇿_NZ_新西兰"}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇲🇾_MY_马来西亚_1","server":"cm-jm.okvpn.xyz","password":"8c8578b9-3d56-425d-8bcc-880c4da3600a","port":20005,"udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇯🇵_JP_日本","server":"tt6.tjvpn.top","password":"0cb2cd1f-870b-485c-914a-60aba39eed39","port":443,"udp":true,"skip-cert-verify":true}
+  - {"type":"ss","cipher":"aes-128-gcm","password":"bzUdYJ4JzjGfIwhG","server":"163.177.158.215","port":16020,"name":"🇨🇳_CN_中国->🇭🇰_HK_香港_1"}
+  - {"type":"vmess","server":"in05.dns2333.xyz","name":"🇨🇳_CN_中国->🇭🇰_HK_香港_2","port":63078,"uuid":"26cda94e-fb7a-3ce3-9cca-d110505ad8be","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","server":"in04.dns2333.xyz","name":"🇨🇳_CN_中国->🇭🇰_HK_香港_3","port":63078,"uuid":"26cda94e-fb7a-3ce3-9cca-d110505ad8be","alterId":0,"cipher":"auto","network":"ws","tls":true}
+  - {"type":"vmess","server":"in03.dns2333.xyz","name":"🇨🇳_CN_中国->🇺🇸_US_美国_2","port":63069,"uuid":"26cda94e-fb7a-3ce3-9cca-d110505ad8be","alterId":0,"cipher":"auto","network":"ws","tls":true}
   - {"type":"ss","cipher":"aes-128-gcm","password":"bzUdYJ4JzjGfIwhG","server":"bb01.nfeng6.pp.ua","port":26240,"name":"🇨🇳_CN_中国->🇧🇩_BD_孟加拉国"}
-  - {"type":"ss","cipher":"aes-128-gcm","password":"bzUdYJ4JzjGfIwhG","server":"bb01.nfeng6.pp.ua","port":26250,"name":"🇨🇳_CN_中国->🇦🇷_AR_阿根廷"}
-  - {"type":"ss","cipher":"aes-128-gcm","password":"bzUdYJ4JzjGfIwhG","server":"bb01.nfeng6.pp.ua","port":26220,"name":"🇨🇳_CN_中国->🇲🇾_MY_马来西亚"}
-  - {"type":"ss","cipher":"aes-128-gcm","password":"bzUdYJ4JzjGfIwhG","server":"bb01.nfeng6.pp.ua","port":16020,"name":"🇨🇳_CN_中国->🇭🇰_HK_香港_5"}
-  - {"type":"ssr","server":"relaypro.procncon.xyz","port":560,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","protocol-param":"Mzk0NDk6cWF6MTIzMzIx","name":"🇨🇳_CN_中国->🇷🇺_RU_俄罗斯联邦_3"}
-  - {"type":"ss","cipher":"aes-256-gcm","password":"gDQ8kr1HdHEK5DGU","server":"mplsgz1.ggbbba.xyz","port":45785,"name":"🇨🇳_CN_中国->🇬🇧_GB_英国"}
-  - {"type":"ss","cipher":"aes-128-cfb","password":"QazEdcTgb159@$*","server":"180.163.62.91","port":10065,"name":"🇨🇳_CN_中国->🇰🇷_KR_韩国_2"}
-  - {"type":"ssr","server":"shusacu.proconcn.xyz","port":560,"protocol":"auth_aes128_md5","cipher":"chacha20-ietf","obfs":"plain","password":"mblank1port","protocol-param":"Mzk0NDk6cWF6MTIzMzIx","name":"🇨🇳_CN_中国->🇭🇰_HK_香港_6"}
+  - {"type":"ss","cipher":"aes-128-gcm","password":"bzUdYJ4JzjGfIwhG","server":"bb01.nfeng6.pp.ua","port":16030,"name":"🇨🇳_CN_中国->🇸🇬_SG_新加坡"}
+  - {"type":"ss","cipher":"aes-128-gcm","password":"bzUdYJ4JzjGfIwhG","server":"bb01.nfeng6.pp.ua","port":26220,"name":"🇨🇳_CN_中国->🇲🇾_MY_马来西亚_2"}
+  - {"type":"ss","cipher":"aes-128-gcm","password":"bzUdYJ4JzjGfIwhG","server":"bb01.nfeng6.pp.ua","port":16000,"name":"🇨🇳_CN_中国"}
+  - {"type":"ss","cipher":"aes-128-gcm","password":"bzUdYJ4JzjGfIwhG","server":"bb01.nfeng6.pp.ua","port":16020,"name":"🇨🇳_CN_中国->🇭🇰_HK_香港_4"}
+  - {"type":"ss","cipher":"aes-128-gcm","password":"bzUdYJ4JzjGfIwhG","server":"bb01.nfeng6.pp.ua","port":16040,"name":"🇨🇳_CN_中国->🇹🇼_TW_台湾_3"}
+  - {"type":"ss","cipher":"aes-128-gcm","password":"bzUdYJ4JzjGfIwhG","server":"bb01.nfeng6.pp.ua","port":16010,"name":"🇨🇳_CN_中国->🇺🇸_US_美国_3"}
+  - {"type":"ss","cipher":"aes-128-gcm","password":"bzUdYJ4JzjGfIwhG","server":"bb01.nfeng6.pp.ua","port":26210,"name":"🇨🇳_CN_中国->🇵🇭_PH_菲律宾_2"}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇬🇧_GB_英国","server":"cm-jm.okvpn.xyz","password":"8c8578b9-3d56-425d-8bcc-880c4da3600a","port":20006,"udp":true,"skip-cert-verify":true}
+  - {"type":"trojan","name":"🇨🇳_CN_中国->🇹🇼_TW_台湾_4","server":"cm-jm.okvpn.xyz","password":"8c8578b9-3d56-425d-8bcc-880c4da3600a","port":20003,"udp":true,"skip-cert-verify":true}
