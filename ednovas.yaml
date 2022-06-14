@@ -42,13 +42,13 @@ proxy-providers:
       interval: 600
       url: http://www.gstatic.com/generate_204
 proxy-groups:
-  - name: 😜 碧海
+  - name: 😜 yzcloud
     type: select
     url: http://www.gstatic.com/generate_204
     interval: 300
     tolerance: 50
     use:
-      - bihai
+      - yzcloud
   - name: 💯 ednovas
     type: select
     url: http://www.gstatic.com/generate_204
@@ -76,7 +76,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 😜 碧海
+      - 😜 yzcloud
       - 💯 ednovas
       - 💯 other
       - 💯 long
