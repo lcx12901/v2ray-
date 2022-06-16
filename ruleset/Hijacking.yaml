@@ -1,3 +1,4 @@
+payload:
 # NAME: Hijacking
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
@@ -6,7 +7,6 @@
 # IP-CIDR: 42
 # DOMAIN: 1
 # TOTAL: 227
-payload:
   - DOMAIN,geo2.adobe.com
   - DOMAIN-SUFFIX,17gouwuba.com
   - DOMAIN-SUFFIX,186078.com
