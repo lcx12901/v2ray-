@@ -42,7 +42,8 @@ payload:
   - DOMAIN-SUFFIX,yarnpkg.com
   - DOMAIN-SUFFIX,vmware.com
   - DOMAIN-SUFFIX,jetbrains.com
-  - DOMAIN-SUFFIX,droid.org
+  - DOMAIN-SUFFIX,f-droid.org
+  - DOMAIN-SUFFIX,toolbox.app
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,odysseyplus.site
