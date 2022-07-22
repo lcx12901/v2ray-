@@ -24633,7 +24633,8 @@ payload:
   - DOMAIN-KEYWORD,github
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,google
-  - DOMAIN-KEYWORD,instagram
+  - DOMAIN-SUFFIX,cdninstagram.com
+  - DOMAIN-SUFFIX,instagram.com
   - DOMAIN-KEYWORD,musical.ly
   - DOMAIN-KEYWORD,onedrive
   - DOMAIN-KEYWORD,paypal
