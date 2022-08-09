@@ -436,6 +436,7 @@ payload:
 
   #自定义
   - DOMAIN,lincx.nb
+  - DOMAIN-SUFFIX,gsyun.xyz
 
   # steam CN
   - DOMAIN,csgo.wmsj.cn
