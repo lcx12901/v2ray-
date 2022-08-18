@@ -1,4 +1,7 @@
 payload:
+  # dahui
+  - DOMAIN-SUFFIX,dahui99.com
+  - DOMAIN-SUFFIX,gsyun.xyz
   #UBI
   - DOMAIN-SUFFIX,ubi.com
   - DOMAIN-SUFFIX,ubisoft-orbit-savegames.s3.amazonaws.com
