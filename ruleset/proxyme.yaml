@@ -50,6 +50,7 @@ payload:
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,odysseyplus.site
   - DOMAIN-SUFFIX,jmsooo.com
+  - DOMAIN-SUFFIX,xyt.emby.ml
    # Github
   - DOMAIN-SUFFIX,atom.io
   - DOMAIN-SUFFIX,dependabot.com
