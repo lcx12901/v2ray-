@@ -7,8 +7,6 @@ proxies:
   - {name: 🇻🇳 越南-1号, server: 103.173.255.21, port: 28000, type: trojan, password: 7da84a56-a1e2-48f3-a690-374a3973d7e8, sni: download.windowsupdate1.com, skip-cert-verify: false, udp: true}
   - {name: 🇻🇳 越南-2号, server: 103.173.255.127, port: 28000, type: trojan, password: 7da84a56-a1e2-48f3-a690-374a3973d7e8, sni: download.windowsupdate1.com, skip-cert-verify: false, udp: true}
   - {name: 🇻🇳 越南-3号, server: 103.173.255.228, port: 28000, type: trojan, password: 7da84a56-a1e2-48f3-a690-374a3973d7e8, sni: download.windowsupdate1.com, skip-cert-verify: false, udp: true}
-  - {name: 🇻🇳 越南-4号, server: 103.173.255.234, port: 28000, type: trojan, password: 7da84a56-a1e2-48f3-a690-374a3973d7e8, sni: download.windowsupdate1.com, skip-cert-verify: false, udp: true}
-  - {name: 🇻🇳 越南 | 广州移动, server: gzyd1.52147.top, port: 30120, type: trojan, password: 7da84a56-a1e2-48f3-a690-374a3973d7e8, sni: download.windowsupdate1.com, skip-cert-verify: false, udp: true}
   - {name: 🇻🇳 越南 | 广州移动2, server: gzyd2.52147.top, port: 30120, type: trojan, password: 7da84a56-a1e2-48f3-a690-374a3973d7e8, sni: download.windowsupdate1.com, skip-cert-verify: false, udp: true}
   - {name: 🇻🇳 越南 | 河南移动, server: hnyd.52147.top, port: 30120, type: trojan, password: 7da84a56-a1e2-48f3-a690-374a3973d7e8, sni: download.windowsupdate1.com, skip-cert-verify: false, udp: true}
   - {name: 🇨🇳 台湾Hinet | 解锁流媒体, server: hinet.52147.top, port: 28000, type: trojan, password: 7da84a56-a1e2-48f3-a690-374a3973d7e8, sni: download.windowsupdate1.com, skip-cert-verify: false, udp: true}
