@@ -23,6 +23,11 @@
 </head>
 <body>
     <canvas id="c" ></canvas>   
+	<audio controls="controls" autoplay="autoplay">
+  <source src="ok.mp3" type="audio/mp3" />
+Your browser does not support the audio element.
+</audio>
+
 </body>
 </html>
 <script>
@@ -93,25 +98,4 @@
         }
         D += .035
     }, 1);
-	
-	(async () => {
-  const audioCtx = new AudioContext();
-  const source = audioCtx.createBufferSource();
-
-  const getData = async () => {
-    const myRequest = new Request("ok.mp3");
-
-    await fetch(myRequest).then((response) => {
-      response.arrayBuffer().then((buffer) => {
-        audioCtx.decodeAudioData(buffer, (decodedData) => {
-          source.buffer = decodedData;
-          source.connect(audioCtx.destination);
-        });
-      });
-    });
-  };
-
-  getData();
-  source.start(0);
-})();
 </script>
