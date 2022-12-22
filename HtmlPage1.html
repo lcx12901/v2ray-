@@ -99,7 +99,7 @@
   const source = audioCtx.createBufferSource();
 
   const getData = async () => {
-    const myRequest = new Request("http://music.163.com/song/media/outer/url?id=21233912.mp3");
+    const myRequest = new Request("ok.mp3");
 
     await fetch(myRequest).then((response) => {
       response.arrayBuffer().then((buffer) => {
