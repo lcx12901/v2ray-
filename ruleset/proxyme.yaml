@@ -48,7 +48,6 @@ payload:
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,odysseyplus.site
-  - DOMAIN-SUFFIX,jmsooo.com
   - DOMAIN-SUFFIX,emby.ml
    # Github
   - DOMAIN-SUFFIX,atom.io
