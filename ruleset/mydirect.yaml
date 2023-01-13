@@ -462,3 +462,6 @@ payload:
   - DOMAIN-SUFFIX,zijieapi.com
   
   - DOMAIN-KEYWORD,pronhub
+  
+  # parsec
+  - DOMAIN-KEYWORD,parsec
