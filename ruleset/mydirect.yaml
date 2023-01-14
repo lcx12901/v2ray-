@@ -465,3 +465,6 @@ payload:
   
   # parsec
   - DOMAIN-KEYWORD,parsec
+  
+  # dedao
+  - DOMAIN-SUFFIX,umiwi.com
