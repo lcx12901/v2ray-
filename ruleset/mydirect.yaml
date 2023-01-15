@@ -461,10 +461,5 @@ payload:
   # 掘金
   - DOMAIN-SUFFIX,zijieapi.com
   
-  - DOMAIN-KEYWORD,pronhub
-  
-  # parsec
-  - DOMAIN-KEYWORD,parsec
-  
   # dedao
   - DOMAIN-SUFFIX,umiwi.com
