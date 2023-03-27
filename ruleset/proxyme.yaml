@@ -45,6 +45,7 @@ payload:
   - DOMAIN-SUFFIX,toolbox.app
   - DOMAIN-SUFFIX,tauri.app
   - DOMAIN-SUFFIX,v2ex.com
+  - DOMAIN-SUFFIX,ubuntu.com
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,odysseyplus.site
