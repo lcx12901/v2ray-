@@ -48,6 +48,7 @@ payload:
   - DOMAIN-SUFFIX,ubuntu.com
   - DOMAIN-KEYWORD,openai
   - DOMAIN-KEYWORD,debian
+  - DOMAIN-SUFFIX,alpinelinux.org
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,odysseyplus.site
