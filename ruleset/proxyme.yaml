@@ -49,6 +49,7 @@ payload:
   - DOMAIN-KEYWORD,openai
   - DOMAIN-KEYWORD,debian
   - DOMAIN-SUFFIX,alpinelinux.org
+  - DOMAIN,ppa.launchpadcontent.net
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,odysseyplus.site
