@@ -985,4 +985,7 @@ payload:
   - DOMAIN-SUFFIX,discordapp.com
   - DOMAIN-SUFFIX,discordapp.net
   - DOMAIN-SUFFIX,discordapp.page.link
+  
+  #XC.com
+  - DOMAIN-SUFFIX,xc.com
  
