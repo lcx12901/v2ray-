@@ -52,7 +52,7 @@ payload:
   - DOMAIN,ppa.launchpadcontent.net
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
-  - DOMAIN-SUFFIX,odysseyplus.site
+  - DOMAIN-SUFFIX,emby.kim
   - DOMAIN-SUFFIX,emby.ml
    # Github
   - DOMAIN-SUFFIX,atom.io
