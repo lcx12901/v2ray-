@@ -50,6 +50,7 @@ payload:
   - DOMAIN-KEYWORD,debian
   - DOMAIN-SUFFIX,alpinelinux.org
   - DOMAIN,ppa.launchpadcontent.net
+  - DOMAIN-SUFFIX,socket.io
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.kim
