@@ -990,4 +990,7 @@ payload:
   #XC.com
   - DOMAIN-SUFFIX,xc.com
   - DOMAIN-SUFFIX,theb.ai
+  
+  #poe
+  - DOMAIN-SUFFIX,poe.com
  
