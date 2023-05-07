@@ -51,6 +51,7 @@ payload:
   - DOMAIN-SUFFIX,alpinelinux.org
   - DOMAIN,ppa.launchpadcontent.net
   - DOMAIN-SUFFIX,socket.io
+  - DOMAIN-SUFFIX,proxmox.com
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.kim
