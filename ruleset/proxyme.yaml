@@ -994,4 +994,10 @@ payload:
   
   #poe
   - DOMAIN-SUFFIX,poe.com
+  #微软live
+  - DOMAIN-SUFFIX,live.com
+  
+  #enpass
+  - DOMAIN-SUFFIX,enpass.io
+  
  
