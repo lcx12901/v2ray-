@@ -1000,4 +1000,7 @@ payload:
   #enpass
   - DOMAIN-SUFFIX,enpass.io
   
+  #hostloc.net
+  - DOMAIN-SUFFIX,hostloc.net
+  
  
