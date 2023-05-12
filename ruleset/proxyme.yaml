@@ -52,6 +52,7 @@ payload:
   - DOMAIN,ppa.launchpadcontent.net
   - DOMAIN-SUFFIX,socket.io
   - DOMAIN-SUFFIX,proxmox.com
+  - DOMAIN-SUFFIX,namesilo.com
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.kim
