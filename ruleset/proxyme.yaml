@@ -46,7 +46,6 @@ payload:
   - DOMAIN-SUFFIX,tauri.app
   - DOMAIN-SUFFIX,v2ex.com
   - DOMAIN-SUFFIX,ubuntu.com
-  - DOMAIN-KEYWORD,openai
   - DOMAIN-KEYWORD,debian
   - DOMAIN-SUFFIX,alpinelinux.org
   - DOMAIN,ppa.launchpadcontent.net
@@ -989,6 +988,10 @@ payload:
   - DOMAIN-SUFFIX,discordapp.com
   - DOMAIN-SUFFIX,discordapp.net
   - DOMAIN-SUFFIX,discordapp.page.link
+  
+  #openAI相关
+  - DOMAIN-KEYWORD,openai
+  - DOMAIN-SUFFIX,sentry.io
   
   #XC.com
   - DOMAIN-SUFFIX,xc.com
