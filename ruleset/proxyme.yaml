@@ -1008,4 +1008,7 @@ payload:
   #hostloc.net
   - DOMAIN-SUFFIX,hostloc.net
   
+  # warfarme
+  - DOMAIN-KEYWORD,warframe
+  
  
