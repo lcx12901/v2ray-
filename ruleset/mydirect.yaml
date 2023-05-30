@@ -465,3 +465,6 @@ payload:
   - DOMAIN-SUFFIX,umiwi.com
   
   - DOMAIN-SUFFIX,z9keji.com
+  
+  # about eu.org
+  - DOMAIN-SUFFIX,eu.org
