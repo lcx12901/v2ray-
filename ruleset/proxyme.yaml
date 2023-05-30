@@ -1011,4 +1011,7 @@ payload:
   # warfarme
   - DOMAIN-KEYWORD,warframe
   
+  # about eu.org
+  - DOMAIN-SUFFIX,eu.org
+  
  
