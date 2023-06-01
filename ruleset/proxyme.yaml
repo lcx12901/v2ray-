@@ -1011,4 +1011,7 @@ payload:
   # warfarme
   - DOMAIN-KEYWORD,warframe
   
+  # tailscale
+  - DOMAIN-KEYWORD,tailscale
+  
  
