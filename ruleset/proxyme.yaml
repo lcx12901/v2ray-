@@ -1017,4 +1017,6 @@ payload:
   # flathub.org
   - DOMAIN-SUFFIX,flathub.org
   
+  # bottles：use window software in linux
+  - DOMAIN-KEYWORD,usebottles
  
