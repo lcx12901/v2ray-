@@ -1019,4 +1019,6 @@ payload:
   
   # bottles：use window software in linux
   - DOMAIN-KEYWORD,usebottles
+  
+  - DOMAIN-SUFFIX,archlinux.org
  
