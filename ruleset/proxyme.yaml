@@ -1021,4 +1021,5 @@ payload:
   - DOMAIN-KEYWORD,usebottles
   
   - DOMAIN-SUFFIX,archlinux.org
+  - DOMAIN-SUFFIX,nodejs.org
  
