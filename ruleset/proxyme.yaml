@@ -1022,4 +1022,6 @@ payload:
   
   - DOMAIN-SUFFIX,archlinux.org
   - DOMAIN-SUFFIX,nodejs.org
+
+  - DOMAIN-SUFFIX,36dm.com
  
