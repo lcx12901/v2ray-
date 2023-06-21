@@ -1024,4 +1024,6 @@ payload:
   - DOMAIN-SUFFIX,nodejs.org
 
   - DOMAIN-SUFFIX,36dm.com
- 
+
+  #线报
+  - DOMAIN-SUFFIX,xianbao.fun
