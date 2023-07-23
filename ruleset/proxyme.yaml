@@ -1030,3 +1030,6 @@ payload:
   #线报
   - DOMAIN-SUFFIX,xianbao.fun
   - DOMAIN-SUFFIX,new.ixbk.net
+
+  # arch mirrorlist
+  - DOMAIN-SUFFIX,mirror.pkgbuild.com
