@@ -53,6 +53,7 @@ payload:
   - DOMAIN-SUFFIX,proxmox.com
   - DOMAIN-SUFFIX,namesilo.com
   - DOMAIN-SUFFIX,crates.io
+  - DOMAIN-SUFFIX,nextra.site
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.kim
