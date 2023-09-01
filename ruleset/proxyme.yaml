@@ -54,6 +54,7 @@ payload:
   - DOMAIN-SUFFIX,namesilo.com
   - DOMAIN-SUFFIX,crates.io
   - DOMAIN-SUFFIX,nextra.site
+  - DOMAIN-SUFFIX,ant.design
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.kim
