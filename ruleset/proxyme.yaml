@@ -55,6 +55,7 @@ payload:
   - DOMAIN-SUFFIX,crates.io
   - DOMAIN-SUFFIX,nextra.site
   - DOMAIN-SUFFIX,ant.design
+  - DOMAIN-KEYWORD,nixos
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.kim
