@@ -56,6 +56,7 @@ payload:
   - DOMAIN-SUFFIX,nextra.site
   - DOMAIN-SUFFIX,ant.design
   - DOMAIN-KEYWORD,nixos
+  - DOMAIN-SUFFIX,opensuse.org
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.kim
