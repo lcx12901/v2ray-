@@ -90,6 +90,7 @@ payload:
   - DOMAIN-SUFFIX,rawgithub.com
   - DOMAIN-SUFFIX,thegithubshop.com
   - DOMAIN-KEYWORD,github
+  - DOMAIN-SUFFIX,lunarvim.org
   # Google
   - DOMAIN-SUFFIX,services.googleapis.cn
   - DOMAIN-SUFFIX,.bo
