@@ -60,6 +60,7 @@ payload:
   - DOMAIN-SUFFIX,sysarmy.com
   - DOMAIN-SUFFIX,mozilla.org
   - DOMAIN-SUFFIX,mozilla.com
+  - DOMAIN-SUFFIX,docker.io
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.kim
