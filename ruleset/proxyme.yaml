@@ -61,6 +61,8 @@ payload:
   - DOMAIN-SUFFIX,mozilla.org
   - DOMAIN-SUFFIX,mozilla.com
   - DOMAIN-SUFFIX,docker.io
+  - DOMAIN-SUFFIX,pling.com
+  - DOMAIN-SUFFIX,kde.org
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.kim
