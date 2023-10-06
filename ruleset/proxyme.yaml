@@ -1045,3 +1045,4 @@ payload:
   # arch mirrorlist
   - DOMAIN-SUFFIX,pkgbuild.com
   - DOMAIN-SUFFIX,sysarmy.com
+  - DOMAIN-SUFFIX,archlinuxcn.org
