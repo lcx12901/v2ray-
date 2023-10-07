@@ -1,12 +1,12 @@
 payload:
-  # www.msftconnecttest.com
-  #- DOMAIN,www.msftconnecttest.com
   - DOMAIN,sspool.herokuapp.com
   - DOMAIN,ednovas.design
   - DOMAIN,imagetwist.com
   - DOMAIN,vxotu.com
   - DOMAIN,79img.com
   - DOMAIN-KEYWORD,sijishe
+  - DOMAIN-SUFFIX,imagebam.com
+  - DOMAIN-KEYWORD,urlimage
   - DOMAIN-SUFFIX,futa404.com
   - DOMAIN,javdb32.com
   - DOMAIN,jmsooo.com
@@ -16,7 +16,7 @@ payload:
   - DOMAIN-SUFFIX,lottiefiles.com
   - DOMAIN-SUFFIX,figma.com
   - DOMAIN-KEYWORD,vuepress-reco
-  - DOMAIN-SUFFIX,imagebam.com
+
   # Developer 开发者常用国外网站、镜像和论坛
   - DOMAIN-SUFFIX,apache.org
   - DOMAIN-SUFFIX,docker.com
