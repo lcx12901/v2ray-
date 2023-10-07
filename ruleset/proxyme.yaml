@@ -64,6 +64,8 @@ payload:
   - DOMAIN-SUFFIX,pling.com
   - DOMAIN-SUFFIX,kde.org
   - DOMAIN-SUFFIX,rust-lang.org
+  - DOMAIN-SUFFIX,vsassets.io
+  - DOMAIN-KEYWORD,vscode-sync
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.kim
