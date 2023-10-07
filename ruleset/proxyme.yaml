@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,lottiefiles.com
   - DOMAIN-SUFFIX,figma.com
   - DOMAIN-KEYWORD,vuepress-reco
+  - DOMAIN-SUFFIX,imagebam.com
   # Developer 开发者常用国外网站、镜像和论坛
   - DOMAIN-SUFFIX,apache.org
   - DOMAIN-SUFFIX,docker.com
