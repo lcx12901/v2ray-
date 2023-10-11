@@ -70,6 +70,7 @@ payload:
   - DOMAIN-KEYWORD,vscode-sync
   - DOMAIN-SUFFIX,turbo.build
   - DOMAIN-KEYWORD,vmiss
+  - DOMAIN-KEYWORD,jsdelivr
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.kim
