@@ -71,6 +71,7 @@ payload:
   - DOMAIN-SUFFIX,turbo.build
   - DOMAIN-KEYWORD,vmiss
   - DOMAIN-KEYWORD,jsdelivr
+  - DOMAIN-SUFFIX,msecnd.net
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.kim
