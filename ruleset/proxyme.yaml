@@ -1056,3 +1056,5 @@ payload:
   - DOMAIN-SUFFIX,sysarmy.com
   - DOMAIN-SUFFIX,archlinuxcn.org
   - DOMAIN-SUFFIX,sahil.world
+
+  - DOMAIN-KEYWORD,hacg
