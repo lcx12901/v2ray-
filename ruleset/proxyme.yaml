@@ -77,7 +77,6 @@ payload:
   - DOMAIN-SUFFIX,emby.kim
   - DOMAIN-SUFFIX,emby.ml
   - DOMAIN-SUFFIX,odysseyplus.site
-  - DOMAIN,cf.xmsl.org
    # Github
   - DOMAIN-SUFFIX,atom.io
   - DOMAIN-SUFFIX,dependabot.com
@@ -797,27 +796,6 @@ payload:
   - IP-CIDR,35.186.224.47/32
   - PROCESS-NAME,com.spotify.music
 
-  #TikTok
-  - DOMAIN,p16-tiktokcdn-com.akamaized.net
-  - DOMAIN-SUFFIX,amemv.com
-  - DOMAIN-SUFFIX,byteoversea.com
-  - DOMAIN-SUFFIX,ibytedtos.com
-  - DOMAIN-SUFFIX,ibyteimg.com
-  - DOMAIN-SUFFIX,ipstatp.com
-  - DOMAIN-SUFFIX,muscdn.com
-  - DOMAIN-SUFFIX,musical.ly
-  - DOMAIN-SUFFIX,sgpstatp.com
-  - DOMAIN-SUFFIX,snssdk.com
-  - DOMAIN-SUFFIX,tik-tokapi.com
-  - DOMAIN-SUFFIX,tiktok.com
-  - DOMAIN-SUFFIX,tiktokcdn.com
-  - DOMAIN-SUFFIX,tiktokv.com
-  - DOMAIN-KEYWORD,-tiktokcdn-com
-  - DOMAIN-KEYWORD,musical.ly
-  - DOMAIN-KEYWORD,tiktok
-  - DOMAIN-KEYWORD,tiktokv
-  - PROCESS-NAME,com.zhiliaoapp.musically
-
   #Youtube
   - DOMAIN,youtubei.googleapis.com
   - DOMAIN,yt3.ggpht.com
@@ -1087,4 +1065,3 @@ payload:
   - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-KEYWORD,musical.ly
   - DOMAIN-KEYWORD,tiktok
-  - USER-AGENT,TikTok*
