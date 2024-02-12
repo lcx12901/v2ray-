@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,figma.com
   - DOMAIN-KEYWORD,vuepress-reco
   - DOMAIN-KEYWORD,microsoft
+  - DOMAIN-SUFFIX,xmsl.org
 
   # Developer 开发者常用国外网站、镜像和论坛
   - DOMAIN-SUFFIX,apache.org
