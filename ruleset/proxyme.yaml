@@ -17,7 +17,6 @@ payload:
   - DOMAIN-SUFFIX,figma.com
   - DOMAIN-KEYWORD,vuepress-reco
   - DOMAIN-KEYWORD,microsoft
-  - DOMAIN-SUFFIX,xmsl.org
 
   # Developer 开发者常用国外网站、镜像和论坛
   - DOMAIN-SUFFIX,apache.org
@@ -73,6 +72,7 @@ payload:
   - DOMAIN-KEYWORD,vmiss
   - DOMAIN-KEYWORD,jsdelivr
   - DOMAIN-SUFFIX,msecnd.net
+  - DOMAIN-SUFFIX,framer.com
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.kim
