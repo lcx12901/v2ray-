@@ -73,6 +73,7 @@ payload:
   - DOMAIN-KEYWORD,jsdelivr
   - DOMAIN-SUFFIX,msecnd.net
   - DOMAIN-SUFFIX,framer.com
+  - DOMAIN,nur.nix-community.org
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.kim
