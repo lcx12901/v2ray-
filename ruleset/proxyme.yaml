@@ -74,6 +74,7 @@ payload:
   - DOMAIN-SUFFIX,msecnd.net
   - DOMAIN-SUFFIX,framer.com
   - DOMAIN,nur.nix-community.org
+  - DOMAIN-SUFFIX,openai.com
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.kim
