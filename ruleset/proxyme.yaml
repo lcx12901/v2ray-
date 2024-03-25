@@ -79,6 +79,7 @@ payload:
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,fedorapeople.org
   - DOMAIN-SUFFIX,postman.com
+  - DOMAIN-KEYWORD,postman
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.kim
