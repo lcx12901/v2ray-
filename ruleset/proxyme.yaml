@@ -80,6 +80,7 @@ payload:
   - DOMAIN-SUFFIX,fedorapeople.org
   - DOMAIN-SUFFIX,postman.com
   - DOMAIN-KEYWORD,postman
+  - DOMAIN-SUFFIX,prisma.io
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.kim
