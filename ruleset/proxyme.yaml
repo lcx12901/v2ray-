@@ -82,6 +82,7 @@ payload:
   - DOMAIN-KEYWORD,postman
   - DOMAIN-SUFFIX,prisma.io
   - DOMAIN-SUFFIX,winehq.org
+  - DOMAIN-SUFFIX,kernel.org
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.kim
