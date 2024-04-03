@@ -83,6 +83,7 @@ payload:
   - DOMAIN-SUFFIX,prisma.io
   - DOMAIN-SUFFIX,winehq.org
   - DOMAIN-SUFFIX,kernel.org
+  - DOMAIN-KEYWORD,codeium
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.kim
