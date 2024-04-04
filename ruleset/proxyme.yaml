@@ -84,6 +84,7 @@ payload:
   - DOMAIN-SUFFIX,winehq.org
   - DOMAIN-SUFFIX,kernel.org
   - DOMAIN-KEYWORD,codeium
+  - DOMAIN-KEYWORD,nvchad
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.kim
