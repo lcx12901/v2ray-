@@ -85,6 +85,7 @@ payload:
   - DOMAIN-SUFFIX,kernel.org
   - DOMAIN-KEYWORD,codeium
   - DOMAIN-KEYWORD,nvchad
+  - DOMAIN-KEYWORD,neovide
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.kim
