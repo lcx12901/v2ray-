@@ -86,6 +86,7 @@ payload:
   - DOMAIN-KEYWORD,codeium
   - DOMAIN-KEYWORD,nvchad
   - DOMAIN-KEYWORD,neovide
+  - DOMAIN-SUFFIX,cachix.org
   # emby server
   - DOMAIN-SUFFIX,emby.wtf
   - DOMAIN-SUFFIX,emby.kim
