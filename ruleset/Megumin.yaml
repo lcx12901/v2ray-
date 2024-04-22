@@ -6,5 +6,20 @@
 # - IP-CIDR6,
 # - PROCESS-NAME,
 payload:  
+  # animation
+  - DOMAIN-KEYWORD,futa404
+  - DOMAIN-SUFFIX,urlimage.cc
   # Developer
+  - DOMAIN-SUFFIX,recoluan.com # vuepress-theme-reco
+  - DOMAIN-SUFFIX,winehq.org
+  - DOMAIN-SUFFIX,kernel.org
+  - DOMAIN-KEYWORD,codeium
+  - DOMAIN-KEYWORD,nvchad
+  - DOMAIN-KEYWORD,neovide
+  - DOMAIN-SUFFIX,cachix.org
+  - DOMAIN-KEYWORD,usebottles # bottles：use window software in linux
+  - DOMAIN-SUFFIX,hostloc.net
 
+  #线报
+  - DOMAIN-SUFFIX,xianbao.fun
+  - DOMAIN-SUFFIX,new.ixbk.net
