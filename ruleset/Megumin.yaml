@@ -1,2 +1,10 @@
 # this is custom proxy config
+# - DOMAIN,
+# - DOMAIN-KEYWORD,
+# - DOMAIN-SUFFIX,
+# - IP-CIDR,
+# - IP-CIDR6,
+# - PROCESS-NAME,
 payload:
+  # 琉璃神社
+  - DOMAIN,blog.reimu.net
