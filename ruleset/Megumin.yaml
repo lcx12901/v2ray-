@@ -19,6 +19,7 @@ payload:
   - DOMAIN-SUFFIX,cachix.org
   - DOMAIN-KEYWORD,usebottles # bottles：use window software in linux
   - DOMAIN-SUFFIX,hostloc.net
+  - DOMAIN-SUFFIX,pnpm.io
 
   #线报
   - DOMAIN-SUFFIX,xianbao.fun
