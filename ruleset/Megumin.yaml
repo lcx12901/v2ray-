@@ -19,7 +19,7 @@ payload:
   - DOMAIN-KEYWORD,usebottles # bottles：use window software in linux
   - DOMAIN-SUFFIX,hostloc.net
   - DOMAIN-SUFFIX,pnpm.io
-  # nixos
+  - DOMAIN-SUFFIX,hyprland.org
   - DOMAIN-SUFFIX,nix-community.org
   - DOMAIN-SUFFIX,cachix.org
 
