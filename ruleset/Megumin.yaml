@@ -26,6 +26,9 @@ payload:
   - DOMAIN-SUFFIX,gnome-look.org
   - DOMAIN-SUFFIX,pling.com
 
+  # emby
+  - DOMAIN-SUFFIX,xmsl.org
+
   #线报
   - DOMAIN-SUFFIX,xianbao.fun
   - DOMAIN-SUFFIX,new.ixbk.net
