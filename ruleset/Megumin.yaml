@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,cachix.org
   - DOMAIN-SUFFIX,kde.org
   - DOMAIN-SUFFIX,gnome-look.org
+  - DOMAIN-SUFFIX,pling.com
 
   #线报
   - DOMAIN-SUFFIX,xianbao.fun
