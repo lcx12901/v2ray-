@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,nix-community.org
   - DOMAIN-SUFFIX,cachix.org
   - DOMAIN-SUFFIX,kde.org
+  - DOMAIN-SUFFIX,gnome-look.org
 
   #线报
   - DOMAIN-SUFFIX,xianbao.fun
