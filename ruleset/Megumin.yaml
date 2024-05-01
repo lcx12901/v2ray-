@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,hyprland.org
   - DOMAIN-SUFFIX,nix-community.org
   - DOMAIN-SUFFIX,cachix.org
+  - DOMAIN-SUFFIX,kde.org
 
   #线报
   - DOMAIN-SUFFIX,xianbao.fun
