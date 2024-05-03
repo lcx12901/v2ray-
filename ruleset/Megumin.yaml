@@ -22,6 +22,7 @@ payload:
   - DOMAIN-SUFFIX,hyprland.org
   - DOMAIN-SUFFIX,nix-community.org
   - DOMAIN-SUFFIX,cachix.org
+  - DOMAIN,cache.garnix.io
   - DOMAIN-SUFFIX,kde.org
   - DOMAIN-SUFFIX,gnome-look.org
   - DOMAIN-SUFFIX,pling.com
