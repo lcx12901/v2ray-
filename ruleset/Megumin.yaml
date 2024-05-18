@@ -26,6 +26,7 @@ payload:
   - DOMAIN-SUFFIX,kde.org
   - DOMAIN-SUFFIX,gnome-look.org
   - DOMAIN-SUFFIX,pling.com
+  - DOMAIN,cache.privatevoid.net # for nix-super
 
   # emby
   - DOMAIN-SUFFIX,xmsl.org
