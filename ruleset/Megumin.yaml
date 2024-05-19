@@ -27,6 +27,7 @@ payload:
   - DOMAIN-SUFFIX,gnome-look.org
   - DOMAIN-SUFFIX,pling.com
   - DOMAIN,cache.privatevoid.net # for nix-super
+  - DOMAIN,snowfall.org # Snowfall Lib 是一个库，通过强加固定的文件结构，可以轻松管理 Nix flake
 
   # emby
   - DOMAIN-SUFFIX,xmsl.org
