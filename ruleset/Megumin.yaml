@@ -35,3 +35,6 @@ payload:
   #线报
   - DOMAIN-SUFFIX,xianbao.fun
   - DOMAIN-SUFFIX,new.ixbk.net
+
+  #NodeSeek
+  - DOMAIN-SUFFIX,nodeseek.com
