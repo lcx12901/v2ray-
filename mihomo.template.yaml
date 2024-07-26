@@ -1,0 +1,96 @@
+port: 7890
+socks-port: 7891
+allow-lan: true
+mode: Rule
+log-level: info
+external-controller: :9090
+secret: "这里是访问密码"
+# routing-mark: 6666   # linux上面用的
+
+# 统一延迟
+# 更换延迟计算方式,去除握手等额外延迟
+unified-delay: true
+
+# TCP 并发
+# 同时对所有ip进行连接，返回延迟最低的地址
+tcp-concurrent: true
+
+geodata-mode: true
+geodata-loader: standard
+# 自动更新 GEO
+geo-auto-update: true
+
+# 自定 GEO 下载地址
+geox-url:
+  geoip: "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geoip.dat"
+  geosite: "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/geosite.dat"
+  mmdb: "https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@release/country.mmdb"
+  asn: "https://github.com/xishang0128/geoip/releases/download/latest/GeoLite2-ASN.mmdb"
+
+find-process-mode: strict
+global-client-fingerprint: chrome
+
+profile:
+  store-selected: true
+  store-fake-ip: true
+
+dns:
+  enable: true
+  ipv6: true
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - '*'
+    - '+.lan'
+    - '+.local'
+  prefer-h3: true
+  nameserver-policy:
+    "geosite:cn":
+      - https://dns.alidns.com/dns-query#h3=true
+  nameserver:
+    - https://doh2.fly.dev/dns-query
+    - https://namlaf919j.cloudflare-gateway.com/dns-query
+    - https://2owhqznrdt.cloudflare-gateway.com/dns-query
+
+# 域名嗅探
+sniffer:
+  enable: true
+  sniff:
+    TLS:
+      ports: [443, 8443]
+    HTTP:
+      ports: [80, 8080-8880]
+      override-destination: true
+
+tun:
+  enable: true
+  stack: gvisor
+  dns-hijack:
+    - "any:53"
+    - "tcp://any:53"
+  auto-route: true
+  auto-redirect: true
+  auto-detect-interface: true
+proxies:
+ - 你的节点
+proxy-groups:
+  - name: proxy
+    type: load-balance  # 负载均衡
+    interval: 300
+    url: 'http://cp.cloudflare.com/'
+    proxies:
+      - 你的节点
+
+rules:
+  - GEOSITE,category-ads-all,REJECT
+  - GEOSITE,CN,DIRECT
+  - GEOIP,CN,DIRECT
+  - GEOSITE,geolocation-cn,DIRECT
+
+  # 解决 steam 代理问题
+  - DOMAIN-SUFFIX,steamcommunity.com,proxy
+  - GEOSITE,steam,DIRECT
+
+  - DOMAIN-SUFFIX,pingcode.com,DIRECT
+
+  - MATCH,proxy
